@@ -86,37 +86,58 @@ serve(async (req) => {
       nowISO
     ]]
 
-    // Inserir na planilha
-    const range = 'Registros!A1'
-    const url = `https://sheets.googleapis.com/v4/spreadsheets/${spreadsheetId}/values/${encodeURIComponent(range)}:append?valueInputOption=RAW`
-    
-    const res = await fetch(url, {
-      method: 'POST',
-      headers: { 
-        'Authorization': `Bearer ${token.token}`, 
-        'Content-Type': 'application/json' 
-      },
-      body: JSON.stringify({ values })
-    })
+    const tabName = Deno.env.get('GOOGLE_SHEET_TAB_NAME') || 'Registros'
 
-    if (!res.ok) {
+    async function appendRows(): Promise<Response | null> {
+      const range = `${tabName}!A1`
+      const url = `https://sheets.googleapis.com/v4/spreadsheets/${spreadsheetId}/values/${encodeURIComponent(range)}:append?valueInputOption=RAW`
+      const res = await fetch(url, {
+        method: 'POST',
+        headers: {
+          'Authorization': `Bearer ${token.token}`,
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ values })
+      })
+      if (res.ok) return res
       const errText = await res.text().catch(() => '')
       let errorDetails = errText
       try {
         const errJson = JSON.parse(errText)
         errorDetails = errJson.error?.message || errText
       } catch {}
-      
-      return new Response(JSON.stringify({ 
-        ok: false, 
-        error: 'sheets_append_failed', 
+
+      // Se a aba não existir, tentar criar e reapendar
+      if (/Unable to parse range/i.test(errorDetails) || /not found/i.test(errorDetails)) {
+        const createUrl = `https://sheets.googleapis.com/v4/spreadsheets/${spreadsheetId}:batchUpdate`
+        const createRes = await fetch(createUrl, {
+          method: 'POST',
+          headers: {
+            'Authorization': `Bearer ${token.token}`,
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({
+            requests: [{ addSheet: { properties: { title: tabName } } }]
+          })
+        })
+        if (createRes.ok) {
+          return await appendRows()
+        }
+      }
+
+      return new Response(JSON.stringify({
+        ok: false,
+        error: 'sheets_append_failed',
         details: errorDetails,
         status: res.status
-      }), { 
-        status: 500, 
-        headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' } 
+      }), {
+        status: 500,
+        headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' }
       })
     }
+
+    const finalRes = await appendRows()
+    if (finalRes && !finalRes.ok) return finalRes
 
     return new Response(JSON.stringify({ ok: true }), { 
       headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' } 

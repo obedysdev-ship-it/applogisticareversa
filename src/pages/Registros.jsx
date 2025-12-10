@@ -108,6 +108,11 @@ export default function Registros() {
       const qtd = Number(formData.qtd_caixas || 0)
       if (!qtd || qtd <= 0) throw new Error('Quantidade de caixas deve ser maior que zero.')
 
+      if (!formData.data) throw new Error('O campo Data deve ser preenchido.')
+      if (!formData.rede) throw new Error('O campo Rede deve ser preenchido.')
+      if (!formData.uf) throw new Error('O campo UF deve ser preenchido.')
+      if (!formData.vendedor) throw new Error('O campo Vendedor deve ser preenchido.')
+
       const promotoresDoCliente = CLIENTE_PROMOTOR_MAP[finalCliente] || []
       if (promotoresDoCliente.length === 2 && qtd % 2 !== 0) {
         throw new Error('A quantidade de caixas deve ser um número par para clientes com dois promotores.')
@@ -125,8 +130,8 @@ export default function Registros() {
       const createdCount = Array.isArray(res) ? res.length : 1
       setSuccess(`Registro${createdCount>1?'s':''} salvo${createdCount>1?'s':''} com sucesso`)
       setFormData(prev => ({ ...prev, cliente: '', promotor: '', fretista: '', qtd_caixas: '', rede: '', uf: '', vendedor: '' }))
-    } catch {
-      setError('Erro ao salvar registro')
+    } catch (err) {
+      setError(err?.message || 'Erro ao salvar registro')
     }
     setLoading(false)
   }
@@ -185,15 +190,15 @@ export default function Registros() {
             <div className={`grid grid-cols-1 md:grid-cols-3 gap-6 p-4 rounded-lg border transition-colors duration-300 ${isDarkMode ? 'bg-gray-900 border-gray-700' : 'bg-gray-50'}`}>
               <div>
                 <Label className={`text-sm font-semibold transition-colors duration-300 ${isDarkMode ? 'text-gray-200' : 'text-gray-700'} flex items-center gap-2`}><Network className="w-4 h-4"/>Rede</Label>
-                <Input value={formData.rede} disabled className={`${isDarkMode ? 'bg-gray-600 text-gray-400' : 'bg-gray-100'} cursor-not-allowed`} />
+                <Input value={formData.rede} onChange={e => handleChange('rede', e.target.value)} className={isDarkMode ? 'bg-gray-700 text-white border-gray-600' : ''} />
               </div>
               <div>
                 <Label className={`text-sm font-semibold transition-colors duration-300 ${isDarkMode ? 'text-gray-200' : 'text-gray-700'} flex items-center gap-2`}><MapPin className="w-4 h-4"/>UF</Label>
-                <Input value={formData.uf} disabled className={`${isDarkMode ? 'bg-gray-600 text-gray-400' : 'bg-gray-100'} cursor-not-allowed`} />
+                <Input value={formData.uf} onChange={e => handleChange('uf', e.target.value)} className={isDarkMode ? 'bg-gray-700 text-white border-gray-600' : ''} />
               </div>
               <div>
                 <Label className={`text-sm font-semibold transition-colors duration-300 ${isDarkMode ? 'text-gray-200' : 'text-gray-700'} flex items-center gap-2`}><UserSquare className="w-4 h-4"/>Vendedor</Label>
-                <Input value={formData.vendedor} disabled className={`${isDarkMode ? 'bg-gray-600 text-gray-400' : 'bg-gray-100'} cursor-not-allowed`} />
+                <Input value={formData.vendedor} onChange={e => handleChange('vendedor', e.target.value)} className={isDarkMode ? 'bg-gray-700 text-white border-gray-600' : ''} />
               </div>
             </div>
             {/* Cálculo em tempo real */}

@@ -6,14 +6,14 @@ import { TrendingUp } from 'lucide-react'
 import { subDays, parseISO, isAfter, isBefore } from 'date-fns'
 
 export default function MediaPorRedeChart({ data }) {
-  const [selectedPeriod, setSelectedPeriod] = useState(30)
+  const [selectedPeriod, setSelectedPeriod] = useState(90)
 
   const chartData = useMemo(() => {
     const today = new Date()
     const startDate = subDays(today, selectedPeriod)
     const filteredData = data.filter(registro => {
       const recordDate = parseISO(registro.data + 'T00:00:00')
-      return isAfter(recordDate, startDate) && isBefore(recordDate, today)
+      return recordDate >= startDate && recordDate <= today
     })
     const redeData = {}
     filteredData.forEach(registro => {
@@ -23,8 +23,9 @@ export default function MediaPorRedeChart({ data }) {
       }
     })
     return Object.entries(redeData)
-      .map(([rede, caixasArray]) => ({ name: rede, media: Number((caixasArray.reduce((sum, val) => sum + val, 0) / caixasArray.length).toFixed(2)), total: caixasArray.reduce((sum, val) => sum + val, 0), registros: caixasArray.length }))
+      .map(([rede, caixasArray]) => ({ name: rede, media: Number((caixasArray.reduce((sum, val) => sum + val, 0) / (caixasArray.length || 1)).toFixed(2)), total: caixasArray.reduce((sum, val) => sum + val, 0), registros: caixasArray.length }))
       .sort((a, b) => b.media - a.media)
+      .slice(0, 10)
   }, [data, selectedPeriod])
 
   const periodButtons = [
@@ -89,4 +90,3 @@ export default function MediaPorRedeChart({ data }) {
     </Card>
   )
 }
-

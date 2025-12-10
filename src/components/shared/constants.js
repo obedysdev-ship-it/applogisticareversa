@@ -120,7 +120,7 @@ export async function initConstantsFromPrompt() {
 
       const { data: fretistasRows, error: fretistasError } = await supabase
         .from('fretistas')
-        .select('nome')
+        .select('nome, placa')
         .order('nome', { ascending: true })
       
       if (fretistasError) {

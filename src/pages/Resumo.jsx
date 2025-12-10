@@ -115,10 +115,43 @@ export default function Resumo() {
     URL.revokeObjectURL(url)
   }
 
+  const exportarXLSX = async () => {
+    try {
+      const { default: XLSX } = await import('xlsx-js-style')
+      const headers = ['Data','Cliente','Promotor','Fretista','Rede','UF','Vendedor','Qtd Caixas','Total (R$)']
+      const rows = filtered.map(r => [r.data, r.cliente, r.promotor, r.fretista, r.rede || '', r.uf || '', r.vendedor || '', Number(r.qtd_caixas||0), Number(r.total||0)])
+      const aoa = [headers, ...rows]
+      const ws = XLSX.utils.aoa_to_sheet(aoa)
+      // Estilos do cabeçalho
+      headers.forEach((_, i) => {
+        const cellAddress = XLSX.utils.encode_cell({ r: 0, c: i })
+        const cell = ws[cellAddress] || {}
+        cell.s = {
+          fill: { fgColor: { rgb: '10B981' } },
+          font: { bold: true, color: { rgb: 'FFFFFF' } }
+        }
+        ws[cellAddress] = cell
+      })
+      const wb = XLSX.utils.book_new()
+      XLSX.utils.book_append_sheet(wb, ws, 'Resumo')
+      XLSX.writeFile(wb, 'Resumo.xlsx')
+    } catch {}
+  }
+
   const enviarWhatsApp = () => {
-    const linhas = filtered.map(r => `${r.data} • ${r.cliente} • ${r.promotor} • ${r.fretista} • ${r.qtd_caixas} • R$ ${(Number(r.total||0)).toFixed(2)}`)
-    const txt = [`Resumo GDM`, `Período: ${from||'-'} a ${to||'-'}`, ...linhas, `Total Caixas: ${totais.caixas}`, `Total R$: ${totais.total.toFixed(2)}`].join('\n')
-    const url = `https://wa.me/?text=${encodeURIComponent(txt)}`
+    const header = [
+      '♻️ Resumo Logística Reversa ♻️',
+      '============================'
+    ]
+    const periodoLine = `📆 Período: ${from || '-'} a ${to || '-'}`
+    const linhas = filtered.map(r => `📌 ${r.data} • ${r.cliente} • ${r.promotor} • ${r.fretista} • ${Number(r.qtd_caixas||0)} • R$ ${(Number(r.total||0)).toFixed(2)}`)
+    const footer = [
+      '============================',
+      `📦 Total Caixas: ${totais.caixas}`,
+      `💲 Total R$: ${totais.total.toFixed(2)}`
+    ]
+    const txt = [...header, periodoLine, ...linhas, ...footer].join('\n')
+    const url = `https://api.whatsapp.com/send?text=${encodeURIComponent(txt)}`
     window.open(url, '_blank')
   }
 
@@ -293,7 +326,7 @@ export default function Resumo() {
                 <div className="p-3 bg-blue-600 rounded-lg"><Landmark className="w-6 h-6 text-white" /></div>
                 <div>
                   <p className={`${isDarkMode ? 'text-gray-300' : 'text-gray-600'} text-sm font-medium`}>Total Geral</p>
-                  <p className={`${isDarkMode ? 'text-white' : 'text-gray-900'} text-3xl font-bold`}>R$ {(filtered.reduce((s,r)=>s + Number(r.total||0),0)).toFixed(2)}</p>
+                  <p className={`${isDarkMode ? 'text-white' : 'text-gray-900'} text-3xl font-bold`}>R$ {(filtered.reduce((s,r)=>s + Number(r.qtd_caixas||0) * 1.00,0)).toFixed(2)}</p>
                   <p className={`${isDarkMode ? 'text-gray-400' : 'text-gray-500'} text-xs`}>Fretista + Promotor</p>
                 </div>
               </div>
@@ -304,6 +337,7 @@ export default function Resumo() {
         <div className="flex gap-3">
           <Button onClick={gerarPDF} disabled={filtered.length===0} className="bg-red-600 hover:bg-red-700 text-white"><Printer className="w-4 h-4 mr-2" />Gerar PDF</Button>
           <Button onClick={exportarCSV} disabled={filtered.length===0} className="bg-emerald-600 hover:bg-emerald-700 text-white"><FileSpreadsheet className="w-4 h-4 mr-2" />Exportar CSV</Button>
+          <Button onClick={exportarXLSX} disabled={filtered.length===0} className="bg-green-600 hover:bg-green-700 text-white"><FileSpreadsheet className="w-4 h-4 mr-2" />Relatório Xlsx</Button>
           <Button onClick={enviarWhatsApp} disabled={filtered.length===0} className="bg-green-500 hover:bg-green-600 text-white"><MessageCircle className="w-4 h-4 mr-2" />Enviar WhatsApp</Button>
         </div>
 

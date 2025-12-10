@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link, useLocation, useNavigate } from 'react-router-dom'
 import { createPageUrl } from '@/utils'
-import { LayoutDashboard, Plus, CheckSquare, FileText, Settings, Moon, Sun, LogOut } from 'lucide-react'
+import { LayoutDashboard, Plus, CheckSquare, FileText, Settings, Moon, Sun, LogOut, UserPlus } from 'lucide-react'
 import {
   Sidebar,
   SidebarContent,
@@ -24,6 +24,7 @@ const navigationItems = [
   { title: 'Registros', url: createPageUrl('Registros'), icon: Plus },
   { title: 'Revisão', url: createPageUrl('Revisao'), icon: CheckSquare },
   { title: 'Resumo', url: createPageUrl('Resumo'), icon: FileText },
+  { title: 'Cadastros', url: createPageUrl('Cadastros'), icon: UserPlus },
   { title: 'Corrigir Registros', url: createPageUrl('CorrigirRegistros'), icon: Settings },
 ]
 
@@ -40,7 +41,7 @@ function LayoutContent({ children }) {
         </SidebarHeader>
         <SidebarContent className="p-4">
           <SidebarGroup>
-            <SidebarGroupLabel className={`text-xs font-semibold uppercase tracking-wider px-2 py-3 transition-colors duration-300 ${isDarkMode ? 'text-gray-400' : 'text-gray-400'}`}>Menu Principal</SidebarGroupLabel>
+            <SidebarGroupLabel className={`text-xs font-semibold uppercase tracking-wider px-2 py-3 transition-colors duration-300 ${isDarkMode ? 'text-white' : 'text-gray-400'}`}>Menu Principal</SidebarGroupLabel>
             <SidebarGroupContent>
               <SidebarMenu className="space-y-2">
                 {navigationItems.map((item) => (
@@ -51,12 +52,12 @@ function LayoutContent({ children }) {
                         location.pathname === item.url
                           ? 'bg-green-600 text-white shadow-lg shadow-green-500/20'
                           : isDarkMode
-                            ? 'text-gray-300 hover:text-white hover:bg-gray-700'
+                            ? 'text-white hover:text-white hover:bg-gray-700'
                             : 'text-gray-600 hover:text-gray-900 hover:bg-green-50'
                       }`}
                     >
                       <Link to={item.url} className="flex items-center gap-3 px-4 py-3">
-                        <item.icon className={`w-5 h-5 ${location.pathname === item.url ? 'text-white' : isDarkMode ? 'text-gray-400 group-hover:text-green-400' : 'text-gray-400 group-hover:text-green-600'}`} />
+                        <item.icon className={`w-5 h-5 ${location.pathname === item.url ? 'text-white' : isDarkMode ? 'text-white group-hover:text-green-400' : 'text-gray-400 group-hover:text-green-600'}`} />
                         <span className="font-medium">{item.title}</span>
                       </Link>
                     </SidebarMenuButton>
