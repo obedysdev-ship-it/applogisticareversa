@@ -5,13 +5,17 @@ import App from './App.jsx'
 import './index.css'
 import { initConstantsFromPrompt } from '@/components/shared/constants'
 
-await initConstantsFromPrompt()
+(async () => {
+  try {
+    await initConstantsFromPrompt()
+  } catch {}
 
-createRoot(document.getElementById('root')).render(
-  <BrowserRouter>
-    <App />
-  </BrowserRouter>
-)
+  createRoot(document.getElementById('root')).render(
+    <BrowserRouter>
+      <App />
+    </BrowserRouter>
+  )
+})()
 
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => {
