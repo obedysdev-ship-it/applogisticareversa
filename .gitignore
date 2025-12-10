@@ -1,0 +1,16 @@
+# Node/Vite
+node_modules/
+dist/
+.DS_Store
+npm-debug.log*
+
+# Env & secrets
+.env
+.env.*
+.env.local
+applogisticareversa-*.json
+*.key
+
+# Generated exports
+**/*_files/
+

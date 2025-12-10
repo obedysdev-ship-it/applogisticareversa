@@ -1,0 +1,226 @@
+SEGUE LISTA COM NOMES DOS CLIENTES:
+
+Cliente:
+
+Armazem Cecilio Mota
+Assai Aeroporto
+Assai Barris
+Assai Cabula
+Assai Calcada
+Assai Camacari
+Assai Feira Sobradinho
+Assai Imbui
+Assai Inacio Barbosa
+Assai Jose Conrado De Araujo
+Assai Juazeiro
+Assai Lauro De Freitas
+Assai Luis Anselmo
+Assai Mussurunga
+Assai Nossa Sra Do Socorro
+Assai Paripe
+Assai Pau Da Lima
+Assai Petrolina
+Assai Porto
+Assai Sr Do Bonfim
+Assai Tomba
+Assai Vasco Da Gama
+Atac Camacari
+Atac Camacari Centro
+Atac Mares
+Atac Petrolina
+Atakarejo Sao Goncalo Dos Campos
+Atakarejo Alagoinha
+Atakarejo Aracaju
+Atakarejo Baixa De Quintas
+Atakarejo Boca Do Rio
+Atakarejo Camacari
+Atakarejo Cd Simoes Filho
+Atakarejo Cd Vitoria Da Conquista
+Atakarejo Engenho Velho De Brotas
+Atakarejo Feira De Santana
+Atakarejo Iguatemi
+Atakarejo Ilha
+Atakarejo Ilheus
+Atakarejo Itacimirim
+Atakarejo Lauro
+Atakarejo Patamares
+Atakarejo Patamares Pinto De Aguiar
+Atakarejo Pernambues
+Atakarejo Piata
+Atakarejo Porto Seguro
+Atakarejo Salvador
+Atakarejo Simoes Filho
+Atakarejo Vitoria Da Conquista
+Benassi Ceasa
+Bontempo Supermercados
+Caravelas Comercial De Alimentos Ltda
+Carballo Faro Horto
+Carballo Faro Pituba
+Carballo Faro Alphaville
+Cbd Costa Azul
+Cdp Alagoinhas
+Cdp Alagoinhas Loja
+Cdp Armacao Stiep Loja
+Cdp Boca Do Rio Loja
+Cdp Castelo Branco Loja
+Cdp Catu Loja
+Cdp Cd Monte Libano
+Cdp Centro Sede
+Cdp Centro Dias Davila
+Cdp Manoel Dia D'Avila Loja
+Cdp Marechal Rondon Loja
+Cdp Mata Premium Lj
+Cdp Ogunja Loja
+Cdp Rodoviaria Loja
+Cdp Sao Caetano Loja
+Cdp Sete Portas Loja
+Cdp Super Centro Mata Loja
+Cdp Super Mata Loja
+Cesta Do Povo Boca Do Rio
+Churrascaria & Pizzaria Cupim De Ouro
+Coageli Lj Centro
+Cogeali Lj Paripe
+Com De Alimentos Flor Da Chapada
+Deli E Cia Graca
+Dist Sao Roque Mangabeira
+Dist Sao Roque Calumbi
+Dist Sao Roque Centro
+Dist Sao Roque Conceicao
+Dist Sao Roque Sim
+Dist Sao Roque Sta Monica
+Dist Sao Roque Sto Estevao
+Economart Feira De Santana
+Economart Jequie
+Economart Luis Eduardo
+Economart Vitoria Da Conquista
+Exito Supermercado
+Feirao Das Frutas Atras Da Banca
+Feirao Das Frutas Maria Auxiliadora
+Frutos Da Terra
+G Barbosa Farolandia
+G Barbosa Hiper Norte
+G. Barbosa Rio Mar
+G. Barbosa Francisco Porto
+Gbarbosa Alagoinhas
+Gbarbosa Alagoinhas
+Gbarbosa Brotas
+Gbarbosa Costa Azul
+Gbarbosa Feira De Santana
+Gbarbosa Feira De Santana
+Gbarbosa Feira De Santana
+Gbarbosa Horto Bela Vista
+Gbarbosa Lauro De Freitas
+Gbarbosa Sao Cristovao
+Gbarbosa Sobradinho
+Gbarbosa Tomba
+Gbarbosa Vitoria Da Conquista
+Gbarbosa Cabula
+Gbarbosa Cd Bahia
+Gbarbosa Cd Sergipe
+Gbarbosa Conj. Marcos Freire I
+Gbarbosa Hiper Sul
+Gbarbosa Jardins
+Gbarbosa Juazeiro Centro
+Gbarbosa Luzia
+GbarbosaGuarajuba
+GbarbosaJuazeiro Santo Antonio
+GbarbosaVitoria Da Conquista
+Gral Panificacao
+Gran Hortifruti
+Hiper Carnes Barra Dos Coqueiros
+Hiper Ideal Cd
+Hiper Unimar Arembepe
+Hiper Unimar Barra Do Pojuca
+Hiperideal Vitoria
+Hiperideal Amazonas
+Hiperideal Armacao
+Hiperideal Buraquinho
+Hiperideal Caminho Das Arvores
+Hiperideal Feira De Santana
+Hiperideal Horto Jardins Acm
+Hiperideal Horto Vasco Da Gama
+Hiperideal Orla
+Hiperideal Parque Shopping
+Hiperideal Piata Orlando Gomes
+Hiperideal Piata Otavio Mangabeira
+Le Delis
+Masani Com
+Massimo Centro
+Massimo Farolandia
+Massimo Luzia
+Mateus Aracaju Santa Monica D Mateus Cd Feira De Santana/Ba
+Mateus Conceicao Do Coite
+Mateus Eunapolis
+Mateus Itabuna
+Mateus Jacobina
+Mateus Jose Conrado De Araujo
+Mateus Juazeiro
+Mateus Petrolina
+Mateus Porto Seguro
+Mateus Vitoria Da Conquista
+Megga Distribuidora
+Mel Distribuidora
+Mercadinho Economico
+Mercadinho Economico Centro
+Mercadinho Economico Quati
+Mercadinho Economico Jardim Maravilha
+Mix Mateus Da Gloria
+Multi Frios Premium
+Multi Frios Premium
+Novo Mix Lauro De Freitas
+Paris Delicatessen
+Perini Graca
+Perini Pituba
+Perini Vasco Da Gama
+Pga Comercio Atacadista De Frutas E Verd
+Ponto Verde Iapi
+Ponto Verde Sete Portas
+Ponto Verde Vila Laura
+Rede Compre Bem Supermercados Ltda
+Redemix ChameChame
+Redemix Rio Vermelho
+Rmix Stella Maris
+Rmix Alphaville
+Rmix Buraquinho
+Rmix Horto
+Rmix Imbui
+Rmix Itapua
+Rmix Ondina
+Rmix Pituba
+Rmix Pituba
+Rmix Simoes Filho
+Rmix Vitoria
+Roselly Ferreira Sales Da Silva Ltda
+Sams Aracaju
+Sams Cosme De Farias
+Sams Feira De Santana
+Sams Lauro De Freitas
+Sams Pituba
+Sao Roque Artemia Pires
+Serrana Barra
+Serrana Graca
+Serrana Itaigara
+Serrana Jardim Apipema
+Serrana Patamares
+Serrana Patamares
+Serrana Praia Do Forte
+Serrana Canela
+Serrana Guarajuba Monte Gordo
+Serrana Pituba
+Serrana Pituba
+Serrana Stella Maris
+Serrana Stella Maris Ii
+Serrana Vila Laura
+Sup Bombom Estancia Centro
+Supermercado Bombom Ltda Grageru
+Supermercado Compre Bem
+Supermercado Compre Bem Conselheiro Junq
+Supermercado Compre Bem Dantas Luma
+Supermercado Jhones
+Supermercado Jl
+Supermercado Nunes Peixoto Centro
+Total Atacado
+Wlamart Palmares 
+Outro (Digitar Manual)
+
+OBSERVAÇÃO: AO ESCOLHER A OPÇÃO "Outro (Digitar Manual), vai gerar um novo campo onde o usuário vai digitar manualmente o nome que quiser.

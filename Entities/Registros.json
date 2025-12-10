@@ -1,0 +1,64 @@
+{
+  "name": "Registro",
+  "type": "object",
+  "properties": {
+    "data": {
+      "type": "string",
+      "format": "date",
+      "description": "Data do registro"
+    },
+    "cliente": {
+      "type": "string",
+      "description": "Nome do cliente"
+    },
+    "promotor": {
+      "type": "string",
+      "description": "Nome do promotor"
+    },
+    "fretista": {
+      "type": "string",
+      "description": "Nome do fretista"
+    },
+    "qtd_caixas": {
+      "type": "number",
+      "description": "Quantidade de caixas"
+    },
+    "total": {
+      "type": "number",
+      "description": "Valor total (qtd_caixas * 0.50)"
+    },
+    "status_revisado": {
+      "type": "boolean",
+      "default": false,
+      "description": "Status de revisão"
+    },
+    "historico": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "default": [],
+      "description": "Log de alterações do registro"
+    },
+    "rede": {
+      "type": "string",
+      "description": "Rede do cliente"
+    },
+    "uf": {
+      "type": "string",
+      "description": "UF do cliente"
+    },
+    "vendedor": {
+      "type": "string",
+      "description": "Vendedor responsável pelo cliente"
+    }
+  },
+  "required": [
+    "data",
+    "cliente",
+    "promotor",
+    "fretista",
+    "qtd_caixas",
+    "total"
+  ]
+}

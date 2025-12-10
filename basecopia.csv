@@ -1,0 +1,1298 @@
+Data;Cliente;Promotor;Fretista;Rede;UF;Vendedor;Qtd Caixas;Total;Status Revisado
+2025-12-06;Atakarejo Patamares;Mateus Lima Oliveira;Roque;Atakarejo;BA;Ricardo;75;R$ 37.50;Sim
+2025-12-06;Atakarejo Aracaju;Islen Bergson De Jesus Cruz;Andre;Atakarejo;SE;Ricardo;141;R$ 70.50;Sim
+2025-12-06;Assai Pau Da Lima;Tiago Saleh Rodrigues;Anderson;Assai;BA;Nixon;66;R$ 33.00;Sim
+2025-12-06;Assai Cabula;Hugo de Jesus Conceicao;Danilo;Assai;BA;Nixon;33;R$ 16.50;Sim
+2025-12-06;Assai Paralela;Diego Bruno;Eden;Assai;BA;Nixon;29;R$ 14.50;Sim
+2025-12-06;Assai Camacari;Manoel Messias Gois Junior;Eden;Assai;BA;Nixon;34;R$ 17.00;Sim
+2025-12-06;Sams Pituba;Luis Alberto Santos Borges;Paulo Noel;Sams;BA;Ricardo;188;R$ 94.00;Sim
+2025-12-06;Assai Calcada;Claudio Jose De Almeida Santos;Natal;Assai;BA;Nixon;74;R$ 37.00;Sim
+2025-12-06;Assai Paralela;Alessandro Bastos de Almeida;Eden;Assai;BA;Nixon;29;R$ 14.50;Sim
+2025-12-05;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;15;R$ 7.50;Sim
+2025-12-05;Assai Paralela;Diego Bruno;Andre;Assai;BA;Nixon;37;R$ 18.50;Sim
+2025-12-05;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;37;R$ 18.50;Sim
+2025-12-05;Assai Paripe;Ronald Souza Dos Santos;Eden;Assai;BA;Nixon;29;R$ 14.50;Sim
+2025-12-05;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;92;R$ 46.00;Sim
+2025-12-05;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;92;R$ 46.00;Sim
+2025-12-04;Assai Barris;Renato Almeida Barreto;Eden;Assai;BA;Nixon;81;R$ 40.50;Sim
+2025-12-04;Assai Pau Da Lima;Tiago Saleh Rodrigues;Eden;Assai;BA;Nixon;50;R$ 25.00;Sim
+2025-12-04;Assai Cabula;Hugo de Jesus Conceicao;Paulo Noel;Assai;BA;Nixon;130;R$ 65.00;Sim
+2025-12-04;Atakarejo Patamares;Mateus Lima Oliveira;Eden;Atakarejo;BA;Ricardo;104;R$ 52.00;Sim
+2025-12-04;Sams Lauro De Freitas;Jadison de Andrade Santos;Paulo Noel;Sams;BA;Ricardo;72;R$ 36.00;Sim
+2025-12-04;Assai Calcada;Claudio Jose De Almeida Santos;Danilo;Assai;BA;Nixon;43;R$ 21.50;Sim
+2025-12-03;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;20;R$ 10.00;Sim
+2025-12-03;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;57;R$ 28.50;Sim
+2025-12-03;Assai Paralela;Diego Bruno;Andre;Assai;BA;Nixon;20;R$ 10.00;Sim
+2025-12-03;Assai Vasco Da Gama;Crislaine Machado dos Santos;Roque;Assai;BA;Nixon;25;R$ 12.50;Sim
+2025-12-03;Assai Vasco Da Gama;Danilo Regis Santos;Roque;Assai;BA;Nixon;25;R$ 12.50;Sim
+2025-12-03;Atakarejo Patamares;Mateus Lima Oliveira;Gildasio;Atakarejo;BA;Ricardo;135;R$ 67.50;Sim
+2025-12-03;Assai Barris;Renato Almeida Barreto;Eden;Assai;BA;Nixon;60;R$ 30.00;Sim
+2025-12-03;Rmix Horto;Ramon Borges Santos da Paixao;Eden;Redemix;BA;Ricardo;10;R$ 5.00;Sim
+2025-12-03;Sams Feira De Santana;Rogesson Geyson Lima da Silva;Natal;Sams;BA;Ricardo;42;R$ 21.00;Sim
+2025-12-02;Assai Pau Da Lima;Tiago Saleh Rodrigues;Roque;Assai;BA;Nixon;110;R$ 55.00;Sim
+2025-12-02;Assai Paralela;Alessandro Bastos de Almeida;Jancleiton;Assai;BA;Nixon;20;R$ 10.00;Sim
+2025-12-02;Sams Pituba;Luis Alberto Santos Borges;Jancleiton;Sams;BA;Ricardo;72;R$ 36.00;Sim
+2025-12-02;Assai Vasco Da Gama;Danilo Regis Santos;Danilo;Assai;BA;Nixon;13;R$ 6.50;Sim
+2025-12-02;Assai Vasco Da Gama;Crislaine Machado dos Santos;Danilo;Assai;BA;Nixon;13;R$ 6.50;Sim
+2025-12-02;Assai Paralela;Diego Bruno;Jancleiton;Assai;BA;Nixon;20;R$ 10.00;Sim
+2025-12-02;Assai Cabula;Hugo de Jesus Conceicao;Natal;Assai;BA;Nixon;60;R$ 30.00;Sim
+2025-12-02;Sams Aracaju;Carlos Henrique Barros de Oliveira;Tiago;Sams;SE;Vinicius;192;R$ 96.00;Sim
+2025-12-02;Assai Vasco Da Gama;Danilo Regis Santos;Danilo;;;;26;R$ 13.00;Sim
+2025-12-01;Atakarejo Vasco;Ramon Borges Santos da Paixao;Eden;Atakarejo;BA;Ricardo;109;R$ 54.50;Sim
+2025-12-01;Assai Barris;Renato Almeida Barreto;Danilo;Assai;BA;Nixon;61;R$ 30.50;Sim
+2025-12-01;Assai Paralela;Alessandro Bastos de Almeida;Roque;Assai;BA;Nixon;75;R$ 37.50;Sim
+2025-12-01;Assai Paralela;Diego Bruno;Roque;Assai;BA;Nixon;75;R$ 37.50;Sim
+2025-12-01;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;7;R$ 3.50;Sim
+2025-12-01;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;7;R$ 3.50;Sim
+2025-12-01;Atakarejo Patamares;Mateus Lima Oliveira;Gildasio;Atakarejo;BA;Ricardo;54;R$ 27.00;Sim
+2025-12-01;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;55;R$ 27.50;Sim
+2025-12-01;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;55;R$ 27.50;Sim
+2025-12-01;Sams Lauro De Freitas;Jadison de Andrade Santos;Natal;Sams;BA;Ricardo;64;R$ 32.00;Sim
+2025-12-01;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;2;R$ 1.00;Sim
+2025-11-29;Atakarejo Patamares;Mateus Lima Oliveira;Danilo;Atakarejo;BA;Ricardo;93;R$ 46.50;Sim
+2025-11-29;Assai Calcada;Claudio Jose De Almeida Santos;Jancleiton;Assai;BA;Nixon;20;R$ 10.00;Sim
+2025-11-29;Assai Paralela;Alessandro Bastos de Almeida;Danilo;Assai;BA;Nixon;44;R$ 22.00;Sim
+2025-11-29;Assai Paralela;Diego Bruno;Danilo;Assai;BA;Nixon;44;R$ 22.00;Sim
+2025-11-29;Assai Paripe;Ronald Souza Dos Santos;Jancleiton;Assai;BA;Nixon;58;R$ 29.00;Sim
+2025-11-29;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;50;R$ 25.00;Sim
+2025-11-29;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;50;R$ 25.00;Sim
+2025-11-28;Atakarejo Aracaju;Islen Bergson De Jesus Cruz;Tiago;Atakarejo;SE;Ricardo;52;R$ 26.00;Sim
+2025-11-28;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;23;R$ 11.50;Sim
+2025-11-28;Assai Paralela;Diego Bruno;Andre;Assai;BA;Nixon;23;R$ 11.50;Sim
+2025-11-28;Assai Paralela;Alessandro Bastos de Almeida;Danilo;Assai;BA;Nixon;23;R$ 11.50;Sim
+2025-11-28;Assai Paralela;Diego Bruno;Danilo;Assai;BA;Nixon;23;R$ 11.50;Sim
+2025-11-28;Deli E Cia Graca;Sem Promotor;Roque;;;;16;R$ 8.00;Sim
+2025-11-28;Assai Calcada;Claudio Jose De Almeida Santos;Roque;Assai;BA;Nixon;36;R$ 18.00;Sim
+2025-11-28;Assai Vasco Da Gama;Crislaine Machado dos Santos;Andre;Assai;BA;Nixon;57;R$ 28.50;Sim
+2025-11-28;Assai Vasco Da Gama;Danilo Regis Santos;Andre;Assai;BA;Nixon;57;R$ 28.50;Sim
+2025-11-28;Assai Pau Da Lima;Tiago Saleh Rodrigues;Eden;Assai;BA;Nixon;36;R$ 18.00;Sim
+2025-11-28;Sams Lauro De Freitas;Jadison de Andrade Santos;Natal;Sams;BA;Ricardo;22;R$ 11.00;Sim
+2025-11-28;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;3;R$ 1.50;Sim
+2025-11-28;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;20;R$ 10.00;Sim
+2025-11-27;Atakarejo Patamares;Mateus Lima Oliveira;Eden;Atakarejo;BA;Ricardo;85;R$ 42.50;Sim
+2025-11-27;Mateus Sao Cristovao;Ramon Borges Santos da Paixao;Eden;;;;13;R$ 6.50;Sim
+2025-11-27;Assai Cabula;Hugo de Jesus Conceicao;Paulo Noel;Assai;BA;Nixon;152;R$ 76.00;Sim
+2025-11-27;Assai Paralela;Alessandro Bastos de Almeida;Eden;Assai;BA;Nixon;40;R$ 20.00;Sim
+2025-11-27;Assai Paralela;Diego Bruno;Eden;Assai;BA;Nixon;40;R$ 20.00;Sim
+2025-11-27;Assai Barris;Renato Almeida Barreto;Roque;Assai;BA;Nixon;132;R$ 66.00;Sim
+2025-11-26;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;21;R$ 10.50;Sim
+2025-11-26;Sams Pituba;Luis Alberto Santos Borges;Danilo;Sams;BA;Ricardo;65;R$ 32.50;Sim
+2025-11-26;Atakarejo Aracaju;Islen Bergson De Jesus Cruz;Tiago;Atakarejo;SE;Ricardo;61;R$ 30.50;Sim
+2025-11-26;Assai Vasco Da Gama;Danilo Regis Santos;Roque;Assai;BA;Nixon;97;R$ 48.50;Sim
+2025-11-26;Assai Vasco Da Gama;Crislaine Machado dos Santos;Roque;Assai;BA;Nixon;97;R$ 48.50;Sim
+2025-11-25;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;6;R$ 3.00;Sim
+2025-11-25;Assai Paralela;Diego Bruno;Eden;Assai;BA;Nixon;35;R$ 17.50;Sim
+2025-11-25;Assai Paralela;Alessandro Bastos de Almeida;Eden;Assai;BA;Nixon;35;R$ 17.50;Sim
+2025-11-25;Assai Vasco Da Gama;Danilo Regis Santos;Andre;Assai;BA;Nixon;41;R$ 20.50;Sim
+2025-11-25;Assai Vasco Da Gama;Crislaine Machado dos Santos;Andre;Assai;BA;Nixon;41;R$ 20.50;Sim
+2025-11-25;Assai Barris;Renato Almeida Barreto;Anderson;Assai;BA;Nixon;118;R$ 59.00;Sim
+2025-11-25;Atakarejo Vasco;Ramon Borges Santos da Paixao;Andre;Atakarejo;BA;Ricardo;98;R$ 49.00;Sim
+2025-11-25;Assai Pau Da Lima;Tiago Saleh Rodrigues;Natal;Assai;BA;Nixon;10;R$ 5.00;Sim
+2025-11-25;Atakarejo Patamares;Mateus Lima Oliveira;Eden;Atakarejo;BA;Ricardo;36;R$ 18.00;Sim
+2025-11-25;Assai Calcada;Claudio Jose De Almeida Santos;Andre;Assai;BA;Nixon;15;R$ 7.50;Sim
+2025-11-24;Assai Pau Da Lima;Tiago Saleh Rodrigues;Paulo Noel;Assai;BA;Nixon;55;R$ 27.50;Sim
+2025-11-24;Sams Lauro De Freitas;Jadison de Andrade Santos;Danilo;Sams;BA;Ricardo;118;R$ 59.00;Sim
+2025-11-24;Atakarejo Patamares;Mateus Lima Oliveira;Paulo Noel;Atakarejo;BA;Ricardo;138;R$ 69.00;Sim
+2025-11-24;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;32;R$ 16.00;Sim
+2025-11-24;Assai Paralela;Alessandro Bastos de Almeida;Gildasio;Assai;BA;Nixon;43;R$ 21.50;Sim
+2025-11-24;Assai Paralela;Diego Bruno;Gildasio;Assai;BA;Nixon;43;R$ 21.50;Sim
+2025-11-22;Assai Paralela;Alessandro Bastos de Almeida;Eden;Assai;BA;Nixon;38;R$ 19.00;Sim
+2025-11-22;Assai Calcada;Claudio Jose De Almeida Santos;Danilo;Assai;BA;Nixon;26;R$ 13.00;Sim
+2025-11-22;Sams Pituba;Luis Alberto Santos Borges;Paulo Noel;Sams;BA;Ricardo;203;R$ 101.50;Sim
+2025-11-22;Assai Paralela;Diego Bruno;Eden;Assai;BA;Nixon;38;R$ 19.00;Sim
+2025-11-22;Assai Camacari;Manoel Messias Gois Junior;Eden;Assai;BA;Nixon;26;R$ 13.00;Sim
+2025-11-22;Sams Feira De Santana;Rogesson Geyson Lima da Silva;Natal;Sams;BA;Ricardo;82;R$ 41.00;Sim
+2025-11-22;Assai Vasco Da Gama;Crislaine Machado dos Santos;Andre;Assai;BA;Nixon;70;R$ 35.00;Sim
+2025-11-22;Assai Vasco Da Gama;Danilo Regis Santos;Andre;Assai;BA;Nixon;70;R$ 35.00;Sim
+2025-11-21;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-11-21;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;2;R$ 1.00;Sim
+2025-11-21;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;2;R$ 1.00;Sim
+2025-11-21;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;60;R$ 30.00;Sim
+2025-11-21;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;17;R$ 8.50;Sim
+2025-11-21;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;60;R$ 30.00;Sim
+2025-11-21;Assai Paralela;Diego Bruno;Andre;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-11-21;Assai Barris;Renato Almeida Barreto;Roque;Assai;BA;Nixon;66;R$ 33.00;Sim
+2025-11-19;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;70;R$ 35.00;Sim
+2025-11-19;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;70;R$ 35.00;Sim
+2025-11-19;Atakarejo Aracaju;Islen Bergson De Jesus Cruz;Tiago;Atakarejo;SE;Ricardo;94;R$ 47.00;Sim
+2025-11-19;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;2;R$ 1.00;Sim
+2025-11-19;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;15;R$ 7.50;Sim
+2025-11-19;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;15;R$ 7.50;Sim
+2025-11-19;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;11;R$ 5.50;Sim
+2025-11-19;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;5;R$ 2.50;Sim
+2025-11-19;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;2;R$ 1.00;Sim
+2025-11-19;Atakarejo Patamares;Mateus Lima Oliveira;Roque;Atakarejo;BA;Ricardo;84;R$ 42.00;Sim
+2025-11-19;Assai Paralela;Alessandro Bastos de Almeida;Eden;Assai;BA;Nixon;28;R$ 14.00;Sim
+2025-11-19;Assai Paralela;Diego Bruno;Eden;Assai;BA;Nixon;28;R$ 14.00;Sim
+2025-11-19;Assai Calcada;Claudio Jose De Almeida Santos;Natal;Assai;BA;Nixon;21;R$ 10.50;Sim
+2025-11-19;Assai Camacari;Manoel Messias Gois Junior;Jancleiton;Assai;BA;Nixon;132;R$ 66.00;Sim
+2025-11-18;Assai Barris;Renato Almeida Barreto;Danilo;Assai;BA;Nixon;103;R$ 51.50;Sim
+2025-11-18;Assai Cabula;Hugo de Jesus Conceicao;Danilo;Assai;BA;Nixon;23;R$ 11.50;Sim
+2025-11-18;Atakarejo Patamares;Mateus Lima Oliveira;Roque;Atakarejo;BA;Ricardo;94;R$ 47.00;Sim
+2025-11-18;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;8;R$ 4.00;Sim
+2025-11-18;Assai Calcada;Claudio Jose De Almeida Santos;Natal;Assai;BA;Nixon;66;R$ 33.00;Sim
+2025-11-18;Assai Pau Da Lima;Tiago Saleh Rodrigues;Paulo Noel;Assai;BA;Nixon;35;R$ 17.50;Sim
+2025-11-18;Assai Paralela;Alessandro Bastos de Almeida;Roque;Assai;BA;Nixon;46;R$ 23.00;Sim
+2025-11-18;Sams Lauro De Freitas;Jadison de Andrade Santos;Roque;Sams;BA;Ricardo;107;R$ 53.50;Sim
+2025-11-18;Assai Paralela;Diego Bruno;Roque;Assai;BA;Nixon;46;R$ 23.00;Sim
+2025-11-17;Assai Paralela;Diego Bruno;Andre;Assai;BA;Nixon;100;R$ 50.00;Sim
+2025-11-17;Assai Vasco Da Gama;Danilo Regis Santos;Anderson;Assai;BA;Nixon;103;R$ 51.50;Sim
+2025-11-17;Atakarejo Patamares;Mateus Lima Oliveira;Paulo Noel;Atakarejo;BA;Ricardo;50;R$ 25.00;Sim
+2025-11-17;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;100;R$ 50.00;Sim
+2025-11-17;Assai Vasco Da Gama;Eder Alves de Jesus;Anderson;Assai;BA;Nixon;103;R$ 51.50;Sim
+2025-11-17;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;17;R$ 8.50;Sim
+2025-11-14;Assai Paripe;Ronald Souza Dos Santos;Roque;Assai;BA;Nixon;25;R$ 12.50;Sim
+2025-11-14;Assai Camacari;Manoel Messias Gois Junior;Anderson;Assai;BA;Nixon;48;R$ 24.00;Sim
+2025-11-14;Assai Paralela;Diego Bruno;Eden;Assai;BA;Nixon;44;R$ 22.00;Sim
+2025-11-14;Assai Paralela;Eder Alves de Jesus;Eden;Assai;BA;Nixon;44;R$ 22.00;Sim
+2025-11-14;Sams Lauro De Freitas;Jadison de Andrade Santos;Natal;Sams;BA;Ricardo;44;R$ 22.00;Sim
+2025-11-14;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;39;R$ 19.50;Sim
+2025-11-14;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;39;R$ 19.50;Sim
+2025-11-14;Atakarejo Vasco;Ramon Borges Santos da Paixao;Eden;Atakarejo;BA;Ricardo;67;R$ 33.50;Sim
+2025-11-14;Rmix Ondina;Sem Promotor;Roque;Redemix;BA;Ricardo;26;R$ 13.00;Sim
+2025-11-14;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;18;R$ 9.00;Sim
+2025-11-14;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;7;R$ 3.50;Sim
+2025-11-14;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;2;R$ 1.00;Sim
+2025-11-14;Atakarejo Aracaju;Islen Bergson De Jesus Cruz;Tiago;Atakarejo;SE;Ricardo;122;R$ 61.00;Sim
+2025-11-13;Assai Calcada;Claudio Jose De Almeida Santos;Danilo;Assai;BA;Nixon;36;R$ 18.00;Sim
+2025-11-13;Assai Vasco Da Gama;Crislaine Machado dos Santos;Tiago;Assai;BA;Nixon;40;R$ 20.00;Sim
+2025-11-13;Assai Vasco Da Gama;Danilo Regis Santos;Tiago;Assai;BA;Nixon;40;R$ 20.00;Sim
+2025-11-13;Assai Barris;Renato Almeida Barreto;Roque;Assai;BA;Nixon;50;R$ 25.00;Sim
+2025-11-13;Atakarejo Patamares;Mateus Lima Oliveira;Eden;Atakarejo;BA;Ricardo;53;R$ 26.50;Sim
+2025-11-13;Assai Paralela;Alessandro Bastos de Almeida;Eden;Assai;BA;Nixon;21;R$ 10.50;Sim
+2025-11-13;Assai Paralela;Diego Bruno;Eden;Assai;BA;Nixon;21;R$ 10.50;Sim
+2025-11-13;Assai Pau Da Lima;Tiago Saleh Rodrigues;Jancleiton;Assai;BA;Nixon;55;R$ 27.50;Sim
+2025-11-12;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;9;R$ 4.50;Sim
+2025-11-12;Atakarejo Patamares;Alysson Ramos;Danilo;Atakarejo;BA;Ricardo;113;R$ 56.50;Sim
+2025-11-12;Atakarejo Patamares;Mateus Lima Oliveira;Danilo;Atakarejo;BA;Ricardo;113;R$ 56.50;Sim
+2025-11-12;Assai Cabula;Hugo de Jesus Conceicao;Andre;Assai;BA;Nixon;90;R$ 45.00;Sim
+2025-11-12;Assai Paralela;Diego Bruno;Anderson;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-11-12;Assai Paralela;Alessandro Bastos de Almeida;Anderson;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-11-12;Assai Barris;Renato Almeida Barreto;Paulo Noel;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-11-12;Assai Vasco Da Gama;Danilo Regis Santos;Roque;Assai;BA;Nixon;50;R$ 25.00;Sim
+2025-11-12;Assai Vasco Da Gama;Crislaine Machado dos Santos;Roque;Assai;BA;Nixon;50;R$ 25.00;Sim
+2025-11-12;Atakarejo Vasco;Ramon Borges Santos da Paixao;Danilo;Atakarejo;BA;Ricardo;145;R$ 72.50;Sim
+2025-11-12;Assai Pau Da Lima;Tiago Saleh Rodrigues;Roque;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-11-12;Atakarejo Itacimirim;Manoel Messias Gois Junior;Eden;Atakarejo;BA;Ricardo;43;R$ 21.50;Sim
+2025-11-12;Sams Aracaju;Carlos Henrique Barros de Oliveira;Tiago;Sams;SE;Vinicius;231;R$ 115.50;Sim
+2025-11-12;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;5;R$ 2.50;Sim
+2025-11-12;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;15;R$ 7.50;Sim
+2025-11-12;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;17;R$ 8.50;Sim
+2025-11-12;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;15;R$ 7.50;Sim
+2025-11-11;Assai Barris;Renato Almeida Barreto;Anderson;Assai;BA;Nixon;60;R$ 30.00;Sim
+2025-11-11;Assai Paripe;Ronald Souza Dos Santos;Natal;Assai;BA;Nixon;10;R$ 5.00;Sim
+2025-11-11;Assai Paralela;Diego Bruno;Eden;Assai;BA;Nixon;15;R$ 7.50;Sim
+2025-11-11;Assai Paralela;Alessandro Bastos de Almeida;Eden;Assai;BA;Nixon;15;R$ 7.50;Sim
+2025-11-11;Sams Lauro De Freitas;Jadison de Andrade Santos;Eden;Sams;BA;Ricardo;97;R$ 48.50;Sim
+2025-11-10;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;99;R$ 49.50;Não
+2025-11-10;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;99;R$ 49.50;Não
+2025-11-10;Assai Paralela;Alessandro Bastos de Almeida;Anderson;Assai;BA;Nixon;56;R$ 28.00;Não
+2025-11-10;Sams Pituba;Luis Alberto Santos Borges;Danilo;Sams;BA;Ricardo;71;R$ 35.50;Não
+2025-11-10;Assai Paralela;Diego Bruno;Anderson;Assai;BA;Nixon;56;R$ 28.00;Não
+2025-11-08;Assai Cabula;Hugo de Jesus Conceicao;Danilo;Assai;BA;Nixon;56;R$ 28.00;Não
+2025-11-08;Assai Pau Da Lima;Tiago Saleh Rodrigues;Jancleiton;Assai;BA;Nixon;105;R$ 52.50;Não
+2025-11-08;Sams Pituba;Luis Alberto Santos Borges;Danilo;Sams;BA;Ricardo;69;R$ 34.50;Não
+2025-11-08;Assai Paralela;Diego Bruno;Andre;Assai;BA;Nixon;96;R$ 48.00;Não
+2025-11-08;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;96;R$ 48.00;Não
+2025-11-07;Sams Feira De Santana;Rogesson Geyson Lima da Silva;Jancleiton;Sams;BA;Ricardo;60;R$ 30.00;Não
+2025-11-07;Atakarejo Vasco;Ramon Borges Santos da Paixao;Roque;Atakarejo;BA;Ricardo;79;R$ 39.50;Não
+2025-11-07;Sams Lauro De Freitas;Jadison de Andrade Santos;Danilo;Sams;BA;Ricardo;51;R$ 25.50;Não
+2025-11-07;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;22;R$ 11.00;Não
+2025-11-07;Assai Paralela;Diego Bruno;Andre;Assai;BA;Nixon;22;R$ 11.00;Não
+2025-11-07;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;47;R$ 23.50;Não
+2025-11-07;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;47;R$ 23.50;Não
+2025-11-07;Assai Barris;Renato Almeida Barreto;Anderson;Assai;BA;Nixon;57;R$ 28.50;Não
+2025-11-06;Assai Luis Anselmo;Hugo de Jesus Conceicao;Andre;Assai;BA;Nixon;14;R$ 7.00;Não
+2025-11-06;Sams Pituba;Luis Alberto Santos Borges;Danilo;Sams;BA;Ricardo;67;R$ 33.50;Não
+2025-11-06;Assai Paralela;Diego Bruno;Anderson;Assai;BA;Nixon;52;R$ 26.00;Não
+2025-11-06;Assai Paralela;Alessandro Bastos de Almeida;Anderson;Assai;BA;Nixon;52;R$ 26.00;Não
+2025-11-06;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;65;R$ 32.50;Não
+2025-11-06;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;65;R$ 32.50;Não
+2025-11-06;Assai Barris;Renato Almeida Barreto;Andre;Assai;BA;Nixon;55;R$ 27.50;Não
+2025-11-06;Atakarejo Aracaju;Islen Bergson De Jesus Cruz;Washington;Atakarejo;SE;Ricardo;130;R$ 65.00;Não
+2025-11-06;Assai Calcada;Claudio Jose De Almeida Santos;Natal;Assai;BA;Nixon;22;R$ 11.00;Não
+2025-11-05;Atakarejo Patamares;Mateus Lima Oliveira;Danilo;Atakarejo;BA;Ricardo;21;R$ 10.50;Não
+2025-11-05;Atakarejo Patamares;Alysson Ramos;Danilo;Atakarejo;BA;Ricardo;21;R$ 10.50;Não
+2025-11-05;Assai Pau Da Lima;Tiago Saleh Rodrigues;Anderson;Assai;BA;Nixon;40;R$ 20.00;Não
+2025-11-05;Assai Paralela;Diego Bruno;Paulo Noel;Assai;BA;Nixon;66;R$ 33.00;Não
+2025-11-05;Assai Paralela;Alessandro Bastos de Almeida;Paulo Noel;Assai;BA;Nixon;66;R$ 33.00;Não
+2025-11-04;Atakarejo Patamares;Ramon Borges Santos da Paixao;Roque;Atakarejo;BA;Ricardo;60;R$ 30.00;Não
+2025-11-04;Assai Vasco Da Gama;Danilo Regis Santos;Danilo;Assai;BA;Nixon;59;R$ 29.50;Não
+2025-11-04;Assai Vasco Da Gama;Crislaine Machado dos Santos;Danilo;Assai;BA;Nixon;59;R$ 29.50;Não
+2025-11-04;Assai Cabula;Hugo de Jesus Conceicao;Jancleiton;Assai;BA;Nixon;63;R$ 31.50;Não
+2025-11-04;Assai Calcada;Claudio Jose De Almeida Santos;Natal;Assai;BA;Nixon;86;R$ 43.00;Não
+2025-11-04;Assai Camacari;Manoel Messias Gois Junior;Roque;Assai;BA;Nixon;88;R$ 44.00;Não
+2025-11-04;Atakarejo Vasco;Ramon Borges Santos da Paixao;Natal;Atakarejo;BA;Ricardo;46;R$ 23.00;Não
+2025-11-04;Sams Lauro De Freitas;Jadison de Andrade Santos;Andre;Sams;BA;Ricardo;83;R$ 41.50;Não
+2025-11-04;Sams Pituba;Eder Alves de Jesus;Eden;;;;35;R$ 17.50;Não
+2025-11-04;Atakarejo Itacimirim;Manoel Messias Gois Junior;Andre;Atakarejo;BA;Ricardo;103;R$ 51.50;Não
+2025-11-03;Rmix Horto;Ramon Borges Santos da Paixao;Danilo;Redemix;BA;Ricardo;6;R$ 3.00;Não
+2025-11-03;Sams Pituba;Eder Alves de Jesus;Danilo;;;;60;R$ 30.00;Não
+2025-11-03;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;65;R$ 32.50;Não
+2025-11-03;Assai Paralela;Diego Bruno;Andre;Assai;BA;Nixon;65;R$ 32.50;Não
+2025-11-03;Assai Pau Da Lima;Tiago Saleh Rodrigues;Andre;Assai;BA;Nixon;81;R$ 40.50;Não
+2025-11-03;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;68;R$ 34.00;Não
+2025-11-03;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;68;R$ 34.00;Não
+2025-11-03;Assai Barris;Renato Almeida Barreto;Anderson;Assai;BA;Nixon;154;R$ 77.00;Não
+2025-11-01;Assai Cabula;Hugo de Jesus Conceicao;Natal;Assai;BA;Nixon;56;R$ 28.00;Não
+2025-11-01;Assai Cabula;Hugo de Jesus Conceicao;Paulo Noel;Assai;BA;Nixon;116;R$ 58.00;Não
+2025-11-01;Assai Paralela;Alessandro Bastos de Almeida;Eden;Assai;BA;Nixon;36;R$ 18.00;Não
+2025-11-01;Assai Paralela;Diego Bruno;Eden;Assai;BA;Nixon;36;R$ 18.00;Não
+2025-11-01;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;73;R$ 36.50;Não
+2025-11-01;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;73;R$ 36.50;Não
+2025-11-01;Sams Lauro De Freitas;Jadison de Andrade Santos;Danilo;;;;46;R$ 23.00;Não
+2025-10-31;Rmix Horto;Ramon Borges Santos da Paixao;Paulo Noel;Redemix;BA;Ricardo;8;R$ 4.00;Não
+2025-10-31;Sams Club;Eder Alves de Jesus;Paulo Noel;;;;90;R$ 45.00;Não
+2025-10-31;Assai Vasco Da Gama;Danilo Regis Santos;Paulo Noel;Assai;BA;Nixon;55;R$ 27.50;Não
+2025-10-31;Assai Pau Da Lima;Tiago Saleh Rodrigues;Andre;Assai;BA;Nixon;51;R$ 25.50;Não
+2025-10-31;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;45;R$ 22.50;Não
+2025-10-31;Assai Paralela;Diego Bruno;Andre;Assai;BA;Nixon;45;R$ 22.50;Não
+2025-10-31;Sams Feira De Santana;Rogesson Geyson Lima da Silva;Jancleiton;Sams;BA;Ricardo;55;R$ 27.50;Não
+2025-10-31;Atakarejo Vasco;Ramon Borges Santos da Paixao;Paulo Noel;;;;246;R$ 123.00;Não
+2025-10-31;Assai Vasco Da Gama;Crislaine Machado dos Santos;Paulo Noel;Assai;BA;Nixon;55;R$ 27.50;Não
+2025-10-30;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;49;R$ 24.50;Não
+2025-10-30;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;49;R$ 24.50;Não
+2025-10-30;Assai Paralela;Diego Bruno;Andre;Assai;BA;Nixon;25;R$ 12.50;Não
+2025-10-30;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;25;R$ 12.50;Não
+2025-10-30;Assai Calcada;Claudio Jose De Almeida Santos;Anderson;Assai;BA;Nixon;27;R$ 13.50;Não
+2025-10-30;Assai Barris;Renato Almeida Barreto;Roque;Assai;BA;Nixon;104;R$ 52.00;Não
+2025-10-30;Assai Pau Da Lima;Tiago Saleh Rodrigues;Natal;Assai;BA;Nixon;23;R$ 11.50;Não
+2025-10-29;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;40;R$ 20.00;Não
+2025-10-29;Assai Paralela;Diego Bruno;Andre;Assai;BA;Nixon;40;R$ 20.00;Não
+2025-10-29;Sams Lauro De Freitas;Jadison de Andrade Santos;Danilo;Sams;BA;Ricardo;27;R$ 13.50;Não
+2025-10-29;Assai Cabula;Hugo de Jesus Conceicao;Paulo Noel;Assai;BA;Nixon;93;R$ 46.50;Não
+2025-10-29;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;32;R$ 16.00;Não
+2025-10-29;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;32;R$ 16.00;Não
+2025-10-28;Assai Calcada;Claudio Jose De Almeida Santos;Paulo Noel;Assai;BA;Nixon;78;R$ 39.00;Não
+2025-10-28;Assai Pau Da Lima;Tiago Saleh Rodrigues;Jancleiton;Assai;BA;Nixon;25;R$ 12.50;Não
+2025-10-28;Sams Lauro De Freitas;Jadison de Andrade Santos;Roque;Sams;BA;Ricardo;43;R$ 21.50;Não
+2025-10-28;Atakarejo Vasco;Ramon Borges Santos da Paixao;Eden;Atakarejo;BA;Ricardo;34;R$ 17.00;Não
+2025-10-28;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;18;R$ 9.00;Não
+2025-10-28;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;18;R$ 9.00;Não
+2025-10-28;Assai Paralela;Diego Bruno;Roque;Assai;BA;Nixon;30;R$ 15.00;Não
+2025-10-28;Assai Paralela;Alessandro Bastos de Almeida;Roque;Assai;BA;Nixon;30;R$ 15.00;Não
+2025-10-28;Sams Pituba;Eder Alves de Jesus;Natal;;;;30;R$ 15.00;Não
+2025-10-28;Atakarejo Itacimirim;Manoel Messias Gois Junior;Danilo;Atakarejo;BA;Ricardo;127;R$ 63.50;Não
+2025-10-27;Assai Paralela;Diego Bruno;Danilo;Assai;BA;Nixon;34;R$ 17.00;Não
+2025-10-27;Assai Paralela;Alessandro Bastos de Almeida;Danilo;Assai;BA;Nixon;34;R$ 17.00;Não
+2025-10-27;Sams Club;Eder Alves de Jesus;Natal;;;;53;R$ 26.50;Não
+2025-10-27;Assai Cabula;Hugo de Jesus Conceicao;Anderson;Assai;BA;Nixon;75;R$ 37.50;Não
+2025-10-25;Assai Paralela;Alessandro Bastos de Almeida;Anderson;Assai;BA;Nixon;31;R$ 15.50;Não
+2025-10-25;Assai Paralela;Diego Bruno;Anderson;Assai;BA;Nixon;31;R$ 15.50;Não
+2025-10-25;Assai Vasco Da Gama;Crislaine Machado dos Santos;Danilo;Assai;BA;Nixon;21;R$ 10.50;Não
+2025-10-25;Assai Vasco Da Gama;Danilo Regis Santos;Danilo;Assai;BA;Nixon;21;R$ 10.50;Não
+2025-10-25;Assai Barris;Renato Almeida Barreto;Jancleiton;Assai;BA;Nixon;24;R$ 12.00;Não
+2025-10-24;Sams Club;Eder Alves de Jesus;Roque;;;;50;R$ 25.00;Não
+2025-10-24;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;9;R$ 4.50;Não
+2025-10-24;Assai Paralela;Diego Bruno;Andre;Assai;BA;Nixon;9;R$ 4.50;Não
+2025-10-24;Assai Pau Da Lima;Tiago Saleh Rodrigues;Andre;Assai;BA;Nixon;70;R$ 35.00;Não
+2025-10-24;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;55;R$ 27.50;Não
+2025-10-24;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;55;R$ 27.50;Não
+2025-10-24;Assai Calcada;Claudio Jose De Almeida Santos;Natal;Assai;BA;Nixon;20;R$ 10.00;Não
+2025-10-24;Atakarejo Aracaju;Islen Bergson De Jesus Cruz;Tiago;Atakarejo;SE;Ricardo;120;R$ 60.00;Não
+2025-10-23;Sams Lauro De Freitas;Jadison de Andrade Santos;Anderson;Sams;BA;Ricardo;87;R$ 43.50;Não
+2025-10-23;Assai Paralela;Alessandro Bastos de Almeida;Paulo Noel;Assai;BA;Nixon;9;R$ 4.50;Não
+2025-10-23;Assai Paralela;Diego Bruno;Paulo Noel;Assai;BA;Nixon;9;R$ 4.50;Não
+2025-10-23;Assai Barris;Renato Almeida Barreto;Natal;Assai;BA;Nixon;14;R$ 7.00;Não
+2025-10-22;Sams Pituba;Eder Alves de Jesus;Danilo;;;;46;R$ 23.00;Não
+2025-10-22;Atakarejo Patamares;Ramon Borges Santos da Paixao;Eden;;;;46;R$ 23.00;Não
+2025-10-22;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;46;R$ 23.00;Não
+2025-10-22;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;65;R$ 32.50;Não
+2025-10-22;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;65;R$ 32.50;Não
+2025-10-22;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;42;R$ 21.00;Não
+2025-10-22;Assai Paralela;Diego Bruno;Andre;Assai;BA;Nixon;42;R$ 21.00;Não
+2025-10-21;Assai Paralela;Diego Bruno;Eden;Assai;BA;Nixon;21;R$ 10.50;Não
+2025-10-21;Assai Paralela;Alessandro Bastos de Almeida;Eden;Assai;BA;Nixon;21;R$ 10.50;Não
+2025-10-21;Assai Barris;Renato Almeida Barreto;Danilo;Assai;BA;Nixon;128;R$ 64.00;Não
+2025-10-21;Assai Calcada;Claudio Jose De Almeida Santos;Natal;Assai;BA;Nixon;10;R$ 5.00;Não
+2025-10-18;Assai Paralela;Diego Bruno;Andre;Assai;BA;Nixon;72;R$ 36.00;Não
+2025-10-18;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;72;R$ 36.00;Não
+2025-10-18;Atakarejo Itacimirim;Manoel Messias Gois Junior;Paulo Noel;Atakarejo;BA;Ricardo;112;R$ 56.00;Não
+2025-10-18;Assai Paripe;Ronald Souza Dos Santos;Natal;Assai;BA;Nixon;17;R$ 8.50;Não
+2025-10-17;Assai Pau Da Lima;Tiago Saleh Rodrigues;Roque;Assai;BA;Nixon;74;R$ 37.00;Não
+2025-10-17;Mateus Aracaju Santa Monica;Islen Bergson De Jesus Cruz;Tiago;Mateus;SE;Ricardo;31;R$ 15.50;Não
+2025-10-17;Assai Calcada;Claudio Jose De Almeida Santos;Roque;Assai;BA;Nixon;7;R$ 3.50;Não
+2025-10-17;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;80;R$ 40.00;Não
+2025-10-17;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;80;R$ 40.00;Não
+2025-10-17;Assai Barris;Renato Almeida Barreto;Anderson;Assai;BA;Nixon;49;R$ 24.50;Não
+2025-10-17;Assai Paralela;Alessandro Bastos de Almeida;Paulo Noel;Assai;BA;Nixon;25;R$ 12.50;Não
+2025-10-17;Assai Paralela;Diego Bruno;Paulo Noel;Assai;BA;Nixon;25;R$ 12.50;Não
+2025-10-17;Assai Paripe;Ronald Souza Dos Santos;Roque;Assai;BA;Nixon;45;R$ 22.50;Não
+2025-10-16;Sams Pituba;Eder Alves de Jesus;Jancleiton;Sams;BA;Ricardo;110;R$ 55.00;Não
+2025-10-16;Assai Calcada;Claudio Jose De Almeida Santos;Anderson;Assai;BA;Nixon;46;R$ 23.00;Não
+2025-10-16;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;12;R$ 6.00;Não
+2025-10-16;Assai Paralela;Diego Bruno;Andre;Assai;BA;Nixon;12;R$ 6.00;Não
+2025-10-16;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;77;R$ 38.50;Não
+2025-10-16;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;77;R$ 38.50;Não
+2025-10-16;Assai Barris;Renato Almeida Barreto;Danilo;Assai;BA;Nixon;28;R$ 14.00;Não
+2025-10-16;Assai Cabula;Hugo de Jesus Conceicao;Paulo Noel;Assai;BA;Nixon;10;R$ 5.00;Não
+2025-10-16;Assai Barris;Renato Almeida Barreto;Paulo Noel;Assai;BA;Nixon;112;R$ 56.00;Não
+2025-10-16;Atakarejo Patamares;Mateus Lima Oliveira;Paulo Noel;Atakarejo;BA;Ricardo;22;R$ 11.00;Não
+2025-10-16;Atakarejo Patamares;Alysson Ramos;Paulo Noel;Atakarejo;BA;Ricardo;22;R$ 11.00;Não
+2025-10-15;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;36;R$ 18.00;Não
+2025-10-15;Assai Paralela;Diego Bruno;Andre;Assai;BA;Nixon;36;R$ 18.00;Não
+2025-10-15;Sams Lauro De Freitas;Jadison de Andrade Santos;Danilo;Sams;BA;Ricardo;55;R$ 27.50;Não
+2025-10-15;Atakarejo Patamares;Alysson Ramos;Eden;Atakarejo;BA;Ricardo;40;R$ 20.00;Não
+2025-10-15;Atakarejo Patamares;Mateus Lima Oliveira;Eden;Atakarejo;BA;Ricardo;40;R$ 20.00;Não
+2025-10-14;Assai Paralela;Diego Bruno;Andre;Assai;BA;Nixon;36;R$ 18.00;Não
+2025-10-14;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;36;R$ 18.00;Não
+2025-10-14;Atakarejo Patamares;Mateus Lima Oliveira;Andre;Atakarejo;BA;Ricardo;46;R$ 23.00;Não
+2025-10-14;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;36;R$ 18.00;Não
+2025-10-14;Assai Cabula;Hugo de Jesus Conceicao;Roque;Assai;BA;Nixon;21;R$ 10.50;Não
+2025-10-14;Sams Pituba;Eder Alves de Jesus;Danilo;Sams;BA;Ricardo;61;R$ 30.50;Não
+2025-10-14;Atakarejo Patamares;Alysson Ramos;Andre;Atakarejo;BA;Ricardo;46;R$ 23.00;Não
+2025-10-14;Assai Pau Da Lima;Tiago Saleh Rodrigues;Jancleiton;Assai;BA;Nixon;56;R$ 28.00;Não
+2025-10-14;Sams Aracaju;Jose Marcio Santos Rocha;Tiago;Sams;SE;Vinicius;165;R$ 82.50;Não
+2025-10-14;Sams Feira De Santana;Rogesson Geyson Lima da Silva;Natal;Sams;BA;Ricardo;25;R$ 12.50;Não
+2025-10-14;Atakarejo Patamares;Mateus Lima Oliveira;Danilo;Atakarejo;BA;Ricardo;9;R$ 4.50;Não
+2025-10-14;Atakarejo Patamares;Alysson Ramos;Danilo;Atakarejo;BA;Ricardo;9;R$ 4.50;Não
+2025-10-14;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;36;R$ 18.00;Não
+2025-10-13;Assai Paralela;Diego Bruno;Andre;Assai;BA;Nixon;33;R$ 16.50;Não
+2025-10-13;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;33;R$ 16.50;Não
+2025-10-13;Atakarejo Pinto De Aguiar;Alysson Ramos;Roque;Atakarejo;BA;Ricardo;24;R$ 12.00;Não
+2025-10-13;Atakarejo Itacimirim;Manoel Messias Gois Junior;Natal;Atakarejo;BA;Ricardo;77;R$ 38.50;Não
+2025-10-13;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;37;R$ 18.50;Não
+2025-10-13;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;37;R$ 18.50;Não
+2025-10-11;Sams Club;Eder Alves de Jesus;Jancleiton;;;;30;R$ 15.00;Não
+2025-10-11;Assai Paralela;Alessandro Bastos de Almeida;Paulo Noel;Assai;BA;Nixon;39;R$ 19.50;Não
+2025-10-11;Assai Paralela;Diego Bruno;Paulo Noel;Assai;BA;Nixon;39;R$ 19.50;Não
+2025-10-11;Sams Lauro De Freitas;Jadison de Andrade Santos;Danilo;;;;34;R$ 17.00;Não
+2025-10-11;Assai Camacari;Manoel Messias Gois Junior;Danilo;;;;52;R$ 26.00;Não
+2025-10-11;Assai Calcada;Claudio Jose De Almeida Santos;Eden;Assai;BA;Nixon;25;R$ 12.50;Não
+2025-10-10;Sams Feira De Santana;Rogesson Geyson Lima da Silva;Anderson;Sams;BA;Ricardo;55;R$ 27.50;Não
+2025-10-10;Sams Lauro De Freitas;Jadison de Andrade Santos;Anderson;Sams;BA;Ricardo;37;R$ 18.50;Não
+2025-10-10;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;141;R$ 70.50;Não
+2025-10-10;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;141;R$ 70.50;Não
+2025-10-10;Assai Cabula;Hugo de Jesus Conceicao;Eden;Assai;BA;Nixon;40;R$ 20.00;Não
+2025-10-10;Assai Paralela;Diego Bruno;Eden;Assai;BA;Nixon;25;R$ 12.50;Não
+2025-10-10;Assai Paralela;Alessandro Bastos de Almeida;Eden;Assai;BA;Nixon;25;R$ 12.50;Não
+2025-10-09;Assai Barris;Renato Almeida Barreto;Anderson;Assai;BA;Nixon;76;R$ 38.00;Não
+2025-10-09;Mateus Jose Conrado De Araujo;Islen Bergson De Jesus Cruz;Tiago;Mateus;SE;Ricardo;15;R$ 7.50;Não
+2025-10-09;Mateus Jose Conrado De Araujo;Carlos Henrique Barros de Oliveira;Tiago;Mateus;SE;Ricardo;15;R$ 7.50;Não
+2025-10-09;Sams Club;Eder Alves de Jesus;Roque;;;;66;R$ 33.00;Não
+2025-10-09;Atakarejo Paralela;Ramon Borges Santos da Paixao;Andre;;;;57;R$ 28.50;Não
+2025-10-09;Assai Calcada;Claudio Jose De Almeida Santos;Claudio;Assai;BA;Nixon;60;R$ 30.00;Não
+2025-10-09;Assai Pau Da Lima;Tiago Saleh Rodrigues;Roque;Assai;BA;Nixon;39;R$ 19.50;Não
+2025-10-09;Assai Cabula;Hugo de Jesus Conceicao;Renan;Assai;BA;Nixon;55;R$ 27.50;Não
+2025-10-09;Assai Paralela;Diego Bruno;Andre;Assai;BA;Nixon;31;R$ 15.50;Não
+2025-10-09;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;31;R$ 15.50;Não
+2025-10-08;Assai Calcada;Claudio Jose De Almeida Santos;Claudio;Assai;BA;Nixon;33;R$ 16.50;Não
+2025-10-08;Assai Paralela;Diego Bruno;Andre;Assai;BA;Nixon;25;R$ 12.50;Não
+2025-10-08;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;25;R$ 12.50;Não
+2025-10-08;Atakarejo Aracaju;Islen Bergson De Jesus Cruz;Tiago;Atakarejo;SE;Ricardo;55;R$ 27.50;Não
+2025-10-08;Assai Vasco Da Gama;Danilo Regis Santos;Gabriela;Assai;BA;Nixon;3;R$ 1.50;Não
+2025-10-08;Assai Vasco Da Gama;Crislaine Machado dos Santos;Gabriela;Assai;BA;Nixon;3;R$ 1.50;Não
+2025-10-07;Atakarejo Patamares;Alysson Ramos;Andre;Atakarejo;BA;Ricardo;59;R$ 29.50;Não
+2025-10-07;Assai Cabula;Hugo de Jesus Conceicao;Anderson;Assai;BA;Nixon;20;R$ 10.00;Não
+2025-10-07;Sams Lauro De Freitas;Jadison de Andrade Santos;Andre;Sams;BA;Ricardo;14;R$ 7.00;Não
+2025-10-07;Atakarejo Patamares;Mateus Lima Oliveira;Andre;Atakarejo;BA;Ricardo;59;R$ 29.50;Não
+2025-10-07;Assai Pau Da Lima;Tiago Saleh Rodrigues;Gabriela;Assai;BA;Nixon;72;R$ 36.00;Não
+2025-10-07;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;47;R$ 23.50;Não
+2025-10-07;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;115;R$ 57.50;Não
+2025-10-07;Assai Barris;Renato Almeida Barreto;Gabriel;Assai;BA;Nixon;149;R$ 74.50;Não
+2025-10-07;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;115;R$ 57.50;Não
+2025-10-07;Assai Paralela;Diego Bruno;Andre;Assai;BA;Nixon;47;R$ 23.50;Não
+2025-10-06;Assai Pau Da Lima;Tiago Saleh Rodrigues;Gabriela;Assai;BA;Nixon;32;R$ 16.00;Não
+2025-10-06;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;83;R$ 41.50;Não
+2025-10-06;Assai Paralela;Diego Bruno;Andre;Assai;BA;Nixon;83;R$ 41.50;Não
+2025-10-06;Assai Pau Da Lima;Tiago Saleh Rodrigues;Gabriela;Assai;BA;Nixon;83;R$ 41.50;Não
+2025-10-04;Atakarejo Patamares;Alysson Ramos;Gabriela;Atakarejo;BA;Ricardo;11;R$ 5.50;Não
+2025-10-04;Assai Vasco Da Gama;Danilo Regis Santos;Gabriel;Assai;BA;Nixon;116;R$ 58.00;Não
+2025-10-04;Assai Vasco Da Gama;Crislaine Machado dos Santos;Gabriel;Assai;BA;Nixon;116;R$ 58.00;Não
+2025-10-04;Assai Cabula;Hugo de Jesus Conceicao;Andre;Assai;BA;Nixon;30;R$ 15.00;Não
+2025-10-04;Assai Paralela;Diego Bruno;Andre;Assai;BA;Nixon;41;R$ 20.50;Não
+2025-10-04;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;41;R$ 20.50;Não
+2025-10-04;Assai Calcada;Claudio Jose De Almeida Santos;Natal;Assai;BA;Nixon;70;R$ 35.00;Não
+2025-10-04;Atakarejo Patamares;Mateus Lima Oliveira;Gabriela;Atakarejo;BA;Ricardo;11;R$ 5.50;Não
+2025-10-03;Sams Lauro De Freitas;Jadison de Andrade Santos;Anderson;Sams;BA;Ricardo;18;R$ 9.00;Não
+2025-10-03;Sams Pituba;Luis Alberto Santos Borges;Danilo;Sams;BA;Ricardo;35;R$ 17.50;Não
+2025-10-03;Assai Camacari;Ramon Borges Santos da Paixao;Natal;Assai;BA;Nixon;83;R$ 41.50;Não
+2025-10-03;Assai Cabula;Hugo de Jesus Conceicao;Claudio;Assai;BA;Nixon;41;R$ 20.50;Não
+2025-10-03;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;27;R$ 13.50;Não
+2025-10-03;Atakarejo Patamares;Alysson Ramos;Andre;Atakarejo;BA;Ricardo;39;R$ 19.50;Não
+2025-10-03;Atakarejo Patamares;Mateus Lima Oliveira;Andre;Atakarejo;BA;Ricardo;39;R$ 19.50;Não
+2025-10-03;Assai Paralela;Diego Bruno;Andre;Assai;BA;Nixon;27;R$ 13.50;Não
+2025-10-02;Sams Lauro De Freitas;Jadison de Andrade Santos;Andre;Sams;BA;Ricardo;29;R$ 14.50;Não
+2025-10-02;Sams Aracaju;Jose Marcio Santos Rocha;Tiago;Sams;SE;Vinicius;94;R$ 47.00;Não
+2025-10-02;Assai Pau Da Lima;Tiago Saleh Rodrigues;Danilo;Assai;BA;Nixon;15;R$ 7.50;Não
+2025-10-02;Assai Paralela;Diego Bruno;Andre;Assai;BA;Nixon;25;R$ 12.50;Não
+2025-10-02;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;25;R$ 12.50;Não
+2025-10-02;Sams Pituba;Luis Alberto Santos Borges;Danilo;Sams;BA;Ricardo;112;R$ 56.00;Não
+2025-10-02;Atakarejo Patamares;Mateus Lima Oliveira;Andre;Atakarejo;BA;Ricardo;66;R$ 33.00;Não
+2025-10-02;Atakarejo Patamares;Alysson Ramos;Andre;Atakarejo;BA;Ricardo;66;R$ 33.00;Não
+2025-10-01;Rmix Stella Maris;Aquila Vieira de Jesus Silva;Roque;Redemix;BA;Ricardo;7;R$ 3.50;Não
+2025-10-01;Assai Pau Da Lima;Tiago Saleh Rodrigues;Roque;Assai;BA;Nixon;29;R$ 14.50;Não
+2025-10-01;Assai Paralela;Diego Bruno;Roque;Assai;BA;Nixon;50;R$ 25.00;Não
+2025-10-01;Assai Paralela;Alessandro Bastos de Almeida;Roque;Assai;BA;Nixon;50;R$ 25.00;Não
+2025-10-01;Assai Barris;Renato Almeida Barreto;Anderson;Assai;BA;Nixon;117;R$ 58.50;Não
+2025-10-01;Assai Vasco Da Gama;Danilo Regis Santos;Tiago;Assai;BA;Nixon;26;R$ 13.00;Não
+2025-10-01;Assai Vasco Da Gama;Crislaine Machado dos Santos;Tiago;Assai;BA;Nixon;26;R$ 13.00;Não
+2025-10-01;Sams Lauro De Freitas;Jadison de Andrade Santos;Natal;Sams;BA;Ricardo;18;R$ 9.00;Não
+2025-09-30;Assai Paralela;Diego Bruno;Eden;Assai;BA;Nixon;61;R$ 30.50;Não
+2025-09-30;Assai Vasco Da Gama;Crislaine Machado dos Santos;Leandro;Assai;BA;Nixon;38;R$ 19.00;Não
+2025-09-30;Assai Vasco Da Gama;Danilo Regis Santos;Leandro;Assai;BA;Nixon;38;R$ 19.00;Não
+2025-09-30;Assai Paralela;Alessandro Bastos de Almeida;Eden;Assai;BA;Nixon;61;R$ 30.50;Não
+2025-09-30;Assai Cabula;Hugo de Jesus Conceicao;Deivinho;Assai;BA;Nixon;70;R$ 35.00;Não
+2025-09-29;Assai Vasco Da Gama;Danilo Regis Santos;Roque;Assai;BA;Nixon;91;R$ 45.50;Não
+2025-09-29;Assai Pau Da Lima;Tiago Saleh Rodrigues;Jancleiton;Assai;BA;Nixon;56;R$ 28.00;Não
+2025-09-29;Assai Vasco Da Gama;Crislaine Machado dos Santos;Roque;Assai;BA;Nixon;91;R$ 45.50;Não
+2025-09-29;Assai Calcada;Claudio Jose De Almeida Santos;Jancleiton;Assai;BA;Nixon;55;R$ 27.50;Não
+2025-09-29;Redemix Chame Chame;Ramon Borges Santos da Paixao;Roque;Redemix;BA;Ricardo;19;R$ 9.50;Não
+2025-09-29;Atakarejo Patamares;Alysson Ramos;Gabriel;Atakarejo;BA;Ricardo;65;R$ 32.50;Não
+2025-09-29;Atakarejo Patamares;Mateus Lima Oliveira;Gabriel;Atakarejo;BA;Ricardo;65;R$ 32.50;Não
+2025-09-29;Assai Paralela;Alessandro Bastos de Almeida;Eden;Assai;BA;Nixon;22;R$ 11.00;Não
+2025-09-29;Assai Paralela;Diego Bruno;Eden;Assai;BA;Nixon;22;R$ 11.00;Não
+2025-09-27;Assai Barris;Renato Almeida Barreto;Jancleiton;Assai;BA;Nixon;60;R$ 30.00;Não
+2025-09-27;Assai Cabula;Hugo de Jesus Conceicao;Deivinho;Assai;BA;Nixon;77;R$ 38.50;Não
+2025-09-27;Assai Paralela;Diego Bruno;Claudio;Assai;BA;Nixon;48;R$ 24.00;Não
+2025-09-27;Assai Paralela;Alessandro Bastos de Almeida;Claudio;Assai;BA;Nixon;48;R$ 24.00;Não
+2025-09-26;Sams Feira De Santana;Rogesson Geyson Lima da Silva;Natal;Sams;BA;Ricardo;19;R$ 9.50;Não
+2025-09-26;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;34;R$ 17.00;Não
+2025-09-26;Redemix Chame Chame;Ramon Borges Santos da Paixao;Não informado;Redemix;BA;Ricardo;34;R$ 17.00;Não
+2025-09-26;Atakarejo Patamares;Alysson Ramos;Andre;Atakarejo;BA;Ricardo;56;R$ 28.00;Não
+2025-09-26;Assai Paralela;Diego Bruno;Andre;Assai;BA;Nixon;34;R$ 17.00;Não
+2025-09-26;Atakarejo Patamares;Mateus Lima Oliveira;Andre;Atakarejo;BA;Ricardo;56;R$ 28.00;Não
+2025-09-25;Assai Calcada;Claudio Jose De Almeida Santos;Anderson;Assai;BA;Nixon;7;R$ 3.50;Não
+2025-09-25;Sams Lauro De Freitas;Jadison de Andrade Santos;Jancleiton;Sams;BA;Ricardo;27;R$ 13.50;Não
+2025-09-25;Assai Barris;Renato Almeida Barreto;Paulo Noel;Assai;BA;Nixon;45;R$ 22.50;Não
+2025-09-25;Assai Paralela;Diego Bruno;Gabriel;Assai;BA;Nixon;21;R$ 10.50;Não
+2025-09-25;Assai Paralela;Alessandro Bastos de Almeida;Gabriel;Assai;BA;Nixon;21;R$ 10.50;Não
+2025-09-25;Assai Vasco Da Gama;Danilo Regis Santos;Andre;Assai;BA;Nixon;25;R$ 12.50;Não
+2025-09-25;Assai Vasco Da Gama;Crislaine Machado dos Santos;Andre;Assai;BA;Nixon;25;R$ 12.50;Não
+2025-09-24;Atakarejo Aracaju;Islen Bergson De Jesus Cruz;Tiago;Atakarejo;SE;Ricardo;65;R$ 32.50;Não
+2025-09-24;Assai Paralela;Diego Bruno;Claudio;Assai;BA;Nixon;31;R$ 15.50;Não
+2025-09-24;Assai Paralela;Alessandro Bastos de Almeida;Claudio;Assai;BA;Nixon;31;R$ 15.50;Não
+2025-09-24;Assai Cabula;Hugo de Jesus Conceicao;Danilo;Assai;BA;Nixon;32;R$ 16.00;Não
+2025-09-24;Assai Pau Da Lima;Tiago Saleh Rodrigues;Paulo Noel;Assai;BA;Nixon;71;R$ 35.50;Não
+2025-09-24;Atakarejo Patamares;Alysson Ramos;Renato;Atakarejo;BA;Ricardo;33;R$ 16.50;Não
+2025-09-24;Atakarejo Patamares;Mateus Lima Oliveira;Renato;Atakarejo;BA;Ricardo;33;R$ 16.50;Não
+2025-09-23;Assai Vasco Da Gama;Crislaine Machado dos Santos;Gabriel;Assai;BA;Nixon;64;R$ 32.00;Não
+2025-09-23;Sams Lauro De Freitas;Jadison de Andrade Santos;Andre;Sams;BA;Ricardo;88;R$ 44.00;Não
+2025-09-23;Assai Calcada;Claudio Jose De Almeida Santos;Paulo Noel;Assai;BA;Nixon;65;R$ 32.50;Não
+2025-09-23;Assai Vasco Da Gama;Danilo Regis Santos;Gabriel;Assai;BA;Nixon;64;R$ 32.00;Não
+2025-09-23;Atakarejo Patamares;Mateus Lima Oliveira;Washington;Atakarejo;BA;Ricardo;36;R$ 18.00;Não
+2025-09-23;Atakarejo Patamares;Alysson Ramos;Washington;Atakarejo;BA;Ricardo;36;R$ 18.00;Não
+2025-09-22;Sams Pituba;Luis Alberto Santos Borges;Paulo Noel;Sams;BA;Ricardo;83;R$ 41.50;Sim
+2025-09-22;Assai Paralela;Diego Bruno;Anderson;Assai;BA;Nixon;24;R$ 12.00;Não
+2025-09-22;Assai Paralela;Alessandro Bastos de Almeida;Anderson;Assai;BA;Nixon;24;R$ 12.00;Não
+2025-09-20;Atakarejo Patamares;Mateus Lima Oliveira;Anderson;Atakarejo;BA;Ricardo;29;R$ 14.50;Não
+2025-09-20;Atakarejo Patamares;Alysson Ramos;Anderson;Atakarejo;BA;Ricardo;29;R$ 14.50;Não
+2025-09-20;Atakarejo Itacimirim;Ramon Borges Santos da Paixao;Natal;Atakarejo;BA;Ricardo;42;R$ 21.00;Não
+2025-09-20;Atakarejo Itacimirim;Jadison de Andrade Santos;Natal;Atakarejo;BA;Ricardo;42;R$ 21.00;Não
+2025-09-20;Assai Cabula;Hugo de Jesus Conceicao;Danilo;Assai;BA;Nixon;23;R$ 11.50;Não
+2025-09-20;Assai Barris;Renato Almeida Barreto;Paulo Noel;Assai;BA;Nixon;33;R$ 16.50;Não
+2025-09-20;Assai Vasco Da Gama;Danilo Regis Santos;Paulo Noel;Assai;BA;Nixon;41;R$ 20.50;Não
+2025-09-20;Assai Vasco Da Gama;Crislaine Machado dos Santos;Paulo Noel;Assai;BA;Nixon;41;R$ 20.50;Não
+2025-09-20;Assai Paralela;Alessandro Bastos de Almeida;Roque;Assai;BA;Nixon;22;R$ 11.00;Não
+2025-09-20;Assai Paralela;Diego Bruno;Roque;Assai;BA;Nixon;22;R$ 11.00;Não
+2025-09-19;Assai Paralela;Diego Bruno;Danilo;Assai;BA;Nixon;33;R$ 16.50;Não
+2025-09-19;Assai Paralela;Alessandro Bastos de Almeida;Danilo;Assai;BA;Nixon;33;R$ 16.50;Não
+2025-09-19;Sams Feira De Santana;Rogesson Geyson Lima da Silva;Jancleiton;Sams;BA;Ricardo;39;R$ 19.50;Não
+2025-09-19;Sams Aracaju;Jose Marcio Santos Rocha;Tiago;Sams;SE;Vinicius;175;R$ 87.50;Não
+2025-09-19;Assai Calcada;Claudio Jose De Almeida Santos;Eden;Assai;BA;Nixon;22;R$ 11.00;Não
+2025-09-18;Atakarejo Itacimirim;Jadison de Andrade Santos;Jancleiton;Atakarejo;BA;Ricardo;45;R$ 22.50;Não
+2025-09-18;Atakarejo Itacimirim;Ramon Borges Santos da Paixao;Jancleiton;Atakarejo;BA;Ricardo;45;R$ 22.50;Não
+2025-09-18;Sams Pituba;Luis Alberto Santos Borges;Claudio;Sams;BA;Ricardo;95;R$ 47.50;Não
+2025-09-18;Assai Barris;Renato Almeida Barreto;Eden;Assai;BA;Nixon;40;R$ 20.00;Não
+2025-09-18;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;20;R$ 10.00;Não
+2025-09-18;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;20;R$ 10.00;Não
+2025-09-17;Assai Vasco Da Gama;Danilo Regis Santos;Danilo;Assai;BA;Nixon;24;R$ 12.00;Não
+2025-09-17;Assai Paralela;Alessandro Bastos de Almeida;Roque;Assai;BA;Nixon;6;R$ 3.00;Não
+2025-09-17;Assai Paralela;Diego Bruno;Roque;Assai;BA;Nixon;6;R$ 3.00;Não
+2025-09-17;Assai Vasco Da Gama;Crislaine Machado dos Santos;Danilo;Assai;BA;Nixon;24;R$ 12.00;Não
+2025-09-16;Assai Cabula;Hugo de Jesus Conceicao;Jancleiton;Assai;BA;Nixon;15;R$ 7.50;Não
+2025-09-16;Assai Vasco Da Gama;Danilo Regis Santos;Jancleiton;Assai;BA;Nixon;28;R$ 14.00;Não
+2025-09-16;Assai Vasco Da Gama;Crislaine Machado dos Santos;Jancleiton;Assai;BA;Nixon;28;R$ 14.00;Não
+2025-09-16;Redemix Chame Chame;Ramon Borges Santos da Paixao;Paulo Noel;Redemix;BA;Ricardo;24;R$ 12.00;Não
+2025-09-16;Assai Paralela;Diego Bruno;Andre;Assai;BA;Nixon;19;R$ 9.50;Não
+2025-09-16;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;19;R$ 9.50;Não
+2025-09-16;Assai Vasco Da Gama;Danilo Regis Santos;Gabriela;Assai;BA;Nixon;27;R$ 13.50;Não
+2025-09-16;Assai Vasco Da Gama;Crislaine Machado dos Santos;Gabriela;Assai;BA;Nixon;27;R$ 13.50;Não
+2025-09-16;Sams Lauro De Freitas;Jadison de Andrade Santos;Andre;Sams;BA;Ricardo;38;R$ 19.00;Não
+2025-09-16;Atakarejo Patamares;Mateus Lima Oliveira;Andre;Atakarejo;BA;Ricardo;68;R$ 34.00;Não
+2025-09-16;Atakarejo Patamares;Alysson Ramos;Andre;Atakarejo;BA;Ricardo;68;R$ 34.00;Não
+2025-09-16;Assai Calcada;Claudio Jose De Almeida Santos;Gabriel;Assai;BA;Nixon;55;R$ 27.50;Não
+2025-09-16;Assai Pau Da Lima;Tiago Saleh Rodrigues;Eden;Assai;BA;Nixon;30;R$ 15.00;Não
+2025-09-15;Assai Paralela;Diego Bruno;Anderson;Assai;BA;Nixon;55;R$ 27.50;Sim
+2025-09-15;Assai Paralela;Alessandro Bastos de Almeida;Anderson;Assai;BA;Nixon;55;R$ 27.50;Sim
+2025-09-13;Atakarejo Aracaju;Islen Bergson De Jesus Cruz;Tiago;Atakarejo;SE;Ricardo;50;R$ 25.00;Sim
+2025-09-13;Assai Paralela;Diego Bruno;Paulo Noel;Assai;BA;Nixon;25;R$ 12.50;Sim
+2025-09-13;Assai Paralela;Alessandro Bastos de Almeida;Paulo Noel;Assai;BA;Nixon;25;R$ 12.50;Sim
+2025-09-13;Assai Barris;Renato Almeida Barreto;Paulo Noel;Assai;BA;Nixon;60;R$ 30.00;Sim
+2025-09-13;Assai Paralela;Alessandro Bastos de Almeida;Danilo;Assai;BA;Nixon;25;R$ 12.50;Sim
+2025-09-13;Assai Paralela;Diego Bruno;Danilo;Assai;BA;Nixon;25;R$ 12.50;Sim
+2025-09-13;Assai Barris;Renato Almeida Barreto;Natal;Assai;BA;Nixon;32;R$ 16.00;Sim
+2025-09-12;Assai Pau Da Lima;Tiago Saleh Rodrigues;Andre;Assai;BA;Nixon;18;R$ 9.00;Sim
+2025-09-12;Assai Paralela;Diego Bruno;Danilo;Assai;BA;Nixon;31;R$ 15.50;Sim
+2025-09-12;Assai Paralela;Alessandro Bastos de Almeida;Danilo;Assai;BA;Nixon;31;R$ 15.50;Sim
+2025-09-12;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;40;R$ 20.00;Sim
+2025-09-12;Assai Paralela;Diego Bruno;Andre;Assai;BA;Nixon;40;R$ 20.00;Sim
+2025-09-12;Assai Vasco Da Gama;Danilo Regis Santos;Danilo;Assai;BA;Nixon;70;R$ 35.00;Sim
+2025-09-12;Assai Vasco Da Gama;Crislaine Machado dos Santos;Danilo;Assai;BA;Nixon;70;R$ 35.00;Sim
+2025-09-12;Sams Pituba;Luis Alberto Santos Borges;Paulo Noel;Sams;BA;Ricardo;80;R$ 40.00;Sim
+2025-09-11;Assai Calcada;Claudio Jose De Almeida Santos;Paulo Noel;Assai;BA;Nixon;27;R$ 13.50;Sim
+2025-09-11;Assai Camacari;Aquila Vieira de Jesus Silva;Roque;Assai;BA;Nixon;23;R$ 11.50;Sim
+2025-09-11;Assai Cabula;Hugo de Jesus Conceicao;Natal;Assai;BA;Nixon;20;R$ 10.00;Sim
+2025-09-11;Assai Vasco Da Gama;Danilo Regis Santos;Paulo Noel;Assai;BA;Nixon;44;R$ 22.00;Sim
+2025-09-11;Assai Vasco Da Gama;Crislaine Machado dos Santos;Paulo Noel;Assai;BA;Nixon;44;R$ 22.00;Sim
+2025-09-10;Assai Pau Da Lima;Tiago Saleh Rodrigues;Andre;Assai;BA;Nixon;15;R$ 7.50;Sim
+2025-09-10;Assai Vasco Da Gama;Crislaine Machado dos Santos;Paulo Noel;Assai;BA;Nixon;45;R$ 22.50;Sim
+2025-09-10;Assai Vasco Da Gama;Danilo Regis Santos;Paulo Noel;Assai;BA;Nixon;45;R$ 22.50;Sim
+2025-09-10;Atakarejo Patamares;Mateus Lima Oliveira;Roque;Atakarejo;BA;Ricardo;70;R$ 35.00;Sim
+2025-09-10;Assai Paralela;Alessandro Bastos de Almeida;Anderson;Assai;BA;Nixon;18;R$ 9.00;Sim
+2025-09-10;Assai Paralela;Diego Bruno;Anderson;Assai;BA;Nixon;18;R$ 9.00;Sim
+2025-09-10;Redemix Chame Chame;Ramon Borges Santos da Paixao;Danilo;Redemix;BA;Ricardo;12;R$ 6.00;Sim
+2025-09-09;Sams Lauro De Freitas;Jadison de Andrade Santos;Paulo Noel;Sams;BA;Ricardo;75;R$ 37.50;Sim
+2025-09-09;Assai Cabula;Hugo de Jesus Conceicao;Natal;Assai;BA;Nixon;70;R$ 35.00;Sim
+2025-09-09;Assai Paralela;Alessandro Bastos de Almeida;Paulo Noel;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-09-09;Assai Paralela;Mateus Lima Oliveira;Paulo Noel;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-09-09;Assai Barris;Renato Almeida Barreto;Danilo;Assai;BA;Nixon;60;R$ 30.00;Sim
+2025-09-09;Sams Pituba;Luis Alberto Santos Borges;Andre;Sams;BA;Ricardo;80;R$ 40.00;Sim
+2025-09-09;Sams Feira De Santana;Rogesson Geyson Lima da Silva;Danilo;Sams;BA;Ricardo;30;R$ 15.00;Sim
+2025-09-08;Assai Calcada;Claudio Jose De Almeida Santos;Danilo;Assai;BA;Nixon;14;R$ 7.00;Sim
+2025-09-08;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;10;R$ 5.00;Sim
+2025-09-08;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;10;R$ 5.00;Sim
+2025-09-08;Assai Pau Da Lima;Tiago Saleh Rodrigues;Danilo;Assai;BA;Nixon;20;R$ 10.00;Sim
+2025-09-08;Assai Paralela;Mateus Lima Oliveira;Andre;Assai;BA;Nixon;60;R$ 30.00;Sim
+2025-09-08;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;60;R$ 30.00;Sim
+2025-09-08;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;40;R$ 20.00;Sim
+2025-09-08;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;40;R$ 20.00;Sim
+2025-09-08;Redemix Chame Chame;Ramon Borges Santos da Paixao;Eden;Redemix;BA;Ricardo;12;R$ 6.00;Sim
+2025-09-06;Assai Paralela;Alessandro Bastos de Almeida;Jancleiton;Assai;BA;Nixon;21;R$ 10.50;Sim
+2025-09-06;Assai Paralela;Mateus Lima Oliveira;Jancleiton;Assai;BA;Nixon;21;R$ 10.50;Sim
+2025-09-06;Assai Calcada;Claudio Jose De Almeida Santos;Anderson;Assai;BA;Nixon;53;R$ 26.50;Sim
+2025-09-06;Assai Pau Da Lima;Tiago Saleh Rodrigues;Paulo Noel;Assai;BA;Nixon;55;R$ 27.50;Sim
+2025-09-06;Assai Cabula;Hugo de Jesus Conceicao;Jancleiton;Assai;BA;Nixon;27;R$ 13.50;Sim
+2025-09-06;Atakarejo Aracaju;Islen Bergson De Jesus Cruz;Danilo;Atakarejo;SE;Ricardo;135;R$ 67.50;Sim
+2025-09-05;Assai Vasco Da Gama;Danilo Regis Santos;Roque;Assai;BA;Nixon;45;R$ 22.50;Sim
+2025-09-05;Assai Vasco Da Gama;Crislaine Machado dos Santos;Roque;Assai;BA;Nixon;45;R$ 22.50;Sim
+2025-09-05;Assai Paralela;Mateus Lima Oliveira;Eden;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-09-05;Assai Paralela;Alessandro Bastos de Almeida;Eden;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-09-04;Assai Barris;Renato Almeida Barreto;Eden;Assai;BA;Nixon;60;R$ 30.00;Sim
+2025-09-04;Assai Cabula;Hugo de Jesus Conceicao;Roque;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-09-04;Assai Paralela;Alessandro Bastos de Almeida;Paulo Noel;Assai;BA;Nixon;45;R$ 22.50;Sim
+2025-09-04;Assai Paralela;Mateus Lima Oliveira;Paulo Noel;Assai;BA;Nixon;45;R$ 22.50;Sim
+2025-09-04;Atakarejo Patamares;Alysson Ramos;Danilo;Atakarejo;BA;Ricardo;20;R$ 10.00;Sim
+2025-09-03;Redemix Chame Chame;Ramon Borges Santos da Paixao;Eden;Redemix;BA;Ricardo;17;R$ 8.50;Sim
+2025-09-03;Sams Pituba;Luis Alberto Santos Borges;Anderson;Sams;BA;Ricardo;80;R$ 40.00;Sim
+2025-09-03;Atakarejo Itacimirim;Manoel Messias Gois Junior;Natal;Atakarejo;BA;Ricardo;90;R$ 45.00;Sim
+2025-09-02;Assai Vasco Da Gama;Danilo Regis Santos;Paulo Noel;Assai;BA;Nixon;70;R$ 35.00;Sim
+2025-09-02;Assai Vasco Da Gama;Crislaine Machado dos Santos;Paulo Noel;Assai;BA;Nixon;70;R$ 35.00;Sim
+2025-09-02;Assai Paralela;Mateus Lima Oliveira;Paulo Noel;Assai;BA;Nixon;10;R$ 5.00;Sim
+2025-09-02;Assai Paralela;Alessandro Bastos de Almeida;Paulo Noel;Assai;BA;Nixon;10;R$ 5.00;Sim
+2025-09-02;Assai Cabula;Hugo de Jesus Conceicao;Eden;Assai;BA;Nixon;35;R$ 17.50;Sim
+2025-09-02;Sams Lauro De Freitas;Jadison de Andrade Santos;Paulo Noel;Sams;BA;Ricardo;62;R$ 31.00;Sim
+2025-09-02;Assai Paripe;Ronald Souza Dos Santos;Andre;Assai;BA;Nixon;12;R$ 6.00;Sim
+2025-09-02;Sams Aracaju;Jose Marcio Santos Rocha;Danilo;Sams;SE;Vinicius;265;R$ 132.50;Sim
+2025-09-02;Assai Camacari;Manoel Messias Gois Junior;Paulo Noel;Assai;BA;Nixon;70;R$ 35.00;Sim
+2025-09-01;Assai Barris;Renato Almeida Barreto;Anderson;Assai;BA;Nixon;90;R$ 45.00;Sim
+2025-09-01;Assai Paralela;Mateus Lima Oliveira;Paulo Noel;Assai;BA;Nixon;65;R$ 32.50;Sim
+2025-09-01;Assai Paralela;Alessandro Bastos de Almeida;Paulo Noel;Assai;BA;Nixon;65;R$ 32.50;Sim
+2025-09-01;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-09-01;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-09-01;Assai Pau Da Lima;Tiago Saleh Rodrigues;Paulo Noel;Assai;BA;Nixon;90;R$ 45.00;Sim
+2025-09-01;Atakarejo Patamares;Eder Alves de Jesus;Andre;Atakarejo;BA;Ricardo;67;R$ 33.50;Sim
+2025-09-01;Sams Pituba;Luis Alberto Santos Borges;Jancleiton;Sams;BA;Ricardo;63;R$ 31.50;Sim
+2025-08-30;Redemix Chame Chame;Ramon Borges Santos da Paixao;Danilo;Redemix;BA;Ricardo;17;R$ 8.50;Sim
+2025-08-30;Sams Pituba;Luis Alberto Santos Borges;Danilo;Sams;BA;Ricardo;105;R$ 52.50;Sim
+2025-08-30;Assai Calcada;Claudio Jose De Almeida Santos;Anderson;Assai;BA;Nixon;21;R$ 10.50;Sim
+2025-08-30;Assai Vasco Da Gama;Crislaine Machado dos Santos;Paulo Noel;Assai;BA;Nixon;50;R$ 25.00;Sim
+2025-08-30;Assai Vasco Da Gama;Danilo Regis Santos;Paulo Noel;Assai;BA;Nixon;50;R$ 25.00;Sim
+2025-08-30;Assai Paralela;Alessandro Bastos de Almeida;Eden;Assai;BA;Nixon;35;R$ 17.50;Sim
+2025-08-30;Assai Paralela;Mateus Lima Oliveira;Eden;Assai;BA;Nixon;35;R$ 17.50;Sim
+2025-08-29;Assai Paralela;Alessandro Bastos de Almeida;Jancleiton;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-08-29;Assai Paralela;Mateus Lima Oliveira;Jancleiton;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-08-29;Assai Cabula;Hugo de Jesus Conceicao;Anderson;Assai;BA;Nixon;19;R$ 9.50;Sim
+2025-08-29;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;35;R$ 17.50;Sim
+2025-08-29;Sams Lauro De Freitas;Jadison de Andrade Santos;Andre;Sams;BA;Ricardo;17;R$ 8.50;Sim
+2025-08-29;Assai Vasco Da Gama;Crislaine Machado dos Santos;Paulo Noel;Assai;BA;Nixon;35;R$ 17.50;Sim
+2025-08-29;Assai Vasco Da Gama;Danilo Regis Santos;Paulo Noel;Assai;BA;Nixon;35;R$ 17.50;Sim
+2025-08-28;Atakarejo Patamares;Eder Alves de Jesus;Paulo Noel;Atakarejo;BA;Ricardo;65;R$ 32.50;Sim
+2025-08-28;Assai Paripe;Ronald Souza Dos Santos;Roque;Assai;BA;Nixon;25;R$ 12.50;Sim
+2025-08-28;Mateus Aracaju Santa Monica;Islen Bergson De Jesus Cruz;Danilo;Mateus;SE;Ricardo;40;R$ 20.00;Sim
+2025-08-28;Assai Cabula;Hugo de Jesus Conceicao;Paulo Noel;Assai;BA;Nixon;45;R$ 22.50;Sim
+2025-08-28;Assai Paralela;Mateus Lima Oliveira;Andre;Assai;BA;Nixon;34;R$ 17.00;Sim
+2025-08-28;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;34;R$ 17.00;Sim
+2025-08-28;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-08-28;Sams Feira De Santana;Rogesson Geyson Lima da Silva;Natal;Sams;BA;Ricardo;36;R$ 18.00;Sim
+2025-08-28;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-08-28;Assai Pau Da Lima;Tiago Saleh Rodrigues;Danilo;Assai;BA;Nixon;25;R$ 12.50;Sim
+2025-08-28;Assai Calcada;Claudio Jose De Almeida Santos;Roque;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-08-27;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;65;R$ 32.50;Sim
+2025-08-27;Sams Lauro De Freitas;Jadison de Andrade Santos;Paulo Noel;Sams;BA;Ricardo;78;R$ 39.00;Sim
+2025-08-27;Atakarejo Patamares;Eder Alves de Jesus;Paulo Noel;Atakarejo;BA;Ricardo;72;R$ 36.00;Sim
+2025-08-27;Atakarejo Aracaju;Islen Bergson De Jesus Cruz;Danilo;Atakarejo;SE;Ricardo;140;R$ 70.00;Sim
+2025-08-27;Atakarejo Itacimirim;Manoel Messias Gois Junior;Natal;Atakarejo;BA;Ricardo;54;R$ 27.00;Sim
+2025-08-27;Assai Barris;Renato Almeida Barreto;Paulo Noel;Assai;BA;Nixon;75;R$ 37.50;Sim
+2025-08-27;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;65;R$ 32.50;Sim
+2025-08-27;Atakarejo Patamares;Alessandro Bastos de Almeida;Paulo Noel;Atakarejo;BA;Ricardo;10;R$ 5.00;Sim
+2025-08-27;Assai Paralela;Mateus Lima Oliveira;Paulo Noel;Assai;BA;Nixon;10;R$ 5.00;Sim
+2025-08-27;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;5;R$ 2.50;Sim
+2025-08-26;Assai Paralela;Alessandro Bastos de Almeida;Paulo Noel;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-08-26;Assai Cabula;Hugo de Jesus Conceicao;Danilo;Assai;BA;Nixon;28;R$ 14.00;Sim
+2025-08-26;Assai Paralela;Mateus Lima Oliveira;Paulo Noel;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-08-26;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;40;R$ 20.00;Sim
+2025-08-26;Assai Pau Da Lima;Tiago Saleh Rodrigues;Jancleiton;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-08-26;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;40;R$ 20.00;Sim
+2025-08-26;Atakarejo Lauro;Filipe Carvalho Costa;Paulo Noel;Atakarejo;BA;Ricardo;130;R$ 65.00;Sim
+2025-08-25;Sams Pituba;Luis Alberto Santos Borges;Danilo;Sams;BA;Ricardo;75;R$ 37.50;Sim
+2025-08-25;Assai Paralela;Mateus Lima Oliveira;Paulo Noel;Assai;BA;Nixon;20;R$ 10.00;Sim
+2025-08-25;Assai Paralela;Alessandro Bastos de Almeida;Paulo Noel;Assai;BA;Nixon;20;R$ 10.00;Sim
+2025-08-23;Assai Paralela;Alessandro Bastos de Almeida;Anderson;Assai;BA;Nixon;37;R$ 18.50;Sim
+2025-08-23;Redemix Chame Chame;Ramon Borges Santos da Paixao;Roque;Redemix;BA;Ricardo;8;R$ 4.00;Sim
+2025-08-23;Assai Calcada;Claudio Jose De Almeida Santos;Anderson;Assai;BA;Nixon;20;R$ 10.00;Sim
+2025-08-23;Atakarejo Itacimirim;Manoel Messias Gois Junior;Natal;Atakarejo;BA;Ricardo;44;R$ 22.00;Sim
+2025-08-23;Assai Vasco Da Gama;Crislaine Machado dos Santos;Danilo;Assai;BA;Nixon;60;R$ 30.00;Sim
+2025-08-23;Assai Vasco Da Gama;Danilo Regis Santos;Danilo;Assai;BA;Nixon;60;R$ 30.00;Sim
+2025-08-23;Assai Paralela;Mateus Lima Oliveira;Anderson;Assai;BA;Nixon;36;R$ 18.00;Sim
+2025-08-22;Assai Paralela;Mateus Lima Oliveira;Paulo Noel;Assai;BA;Nixon;26;R$ 13.00;Sim
+2025-08-22;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;6;R$ 3.00;Sim
+2025-08-22;Atakarejo Patamares;Eder Alves de Jesus;Danilo;Atakarejo;BA;Ricardo;70;R$ 35.00;Sim
+2025-08-22;Assai Paralela;Alessandro Bastos de Almeida;Paulo Noel;Assai;BA;Nixon;26;R$ 13.00;Sim
+2025-08-22;Mateus Jose Conrado De Araujo;Islen Bergson De Jesus Cruz;Danilo;Mateus;SE;Ricardo;30;R$ 15.00;Sim
+2025-08-22;Sams Pituba;Luis Alberto Santos Borges;Paulo Noel;Sams;BA;Ricardo;65;R$ 32.50;Sim
+2025-08-22;Assai Calcada;Claudio Jose De Almeida Santos;Anderson;Assai;BA;Nixon;16;R$ 8.00;Sim
+2025-08-22;Assai Pau Da Lima;Tiago Saleh Rodrigues;Andre;Assai;BA;Nixon;20;R$ 10.00;Sim
+2025-08-22;Assai Cabula;Hugo de Jesus Conceicao;Roque;Assai;BA;Nixon;82;R$ 41.00;Sim
+2025-08-21;Assai Barris;Renato Almeida Barreto;Danilo;Assai;BA;Nixon;42;R$ 21.00;Sim
+2025-08-21;Assai Calcada;Claudio Jose De Almeida Santos;Anderson;Assai;BA;Nixon;26;R$ 13.00;Sim
+2025-08-21;Sams Lauro De Freitas;Jadison de Andrade Santos;Eden;Sams;BA;Ricardo;50;R$ 25.00;Sim
+2025-08-21;Assai Cabula;Hugo de Jesus Conceicao;Danilo;Assai;BA;Nixon;41;R$ 20.50;Sim
+2025-08-21;Sams Pituba;Luis Alberto Santos Borges;Paulo Noel;Sams;BA;Ricardo;59;R$ 29.50;Sim
+2025-08-21;Assai Pau Da Lima;Tiago Saleh Rodrigues;Natal;Assai;BA;Nixon;27;R$ 13.50;Sim
+2025-08-21;Assai Vasco Da Gama;Danilo Regis Santos;Paulo Noel;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-08-21;Assai Vasco Da Gama;Crislaine Machado dos Santos;Paulo Noel;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-08-21;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;28;R$ 14.00;Sim
+2025-08-20;Atakarejo Patamares;Eder Alves de Jesus;Roque;Atakarejo;BA;Ricardo;27;R$ 13.50;Sim
+2025-08-20;Assai Barris;Renato Almeida Barreto;Paulo Noel;Assai;BA;Nixon;41;R$ 20.50;Sim
+2025-08-20;Assai Paralela;Mateus Lima Oliveira;Andre;Assai;BA;Nixon;25;R$ 12.50;Sim
+2025-08-20;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;25;R$ 12.50;Sim
+2025-08-20;Assai Vasco Da Gama;Danilo Regis Santos;Anderson;Assai;BA;Nixon;25;R$ 12.50;Sim
+2025-08-20;Assai Vasco Da Gama;Crislaine Machado dos Santos;Anderson;Assai;BA;Nixon;25;R$ 12.50;Sim
+2025-08-19;Assai Paralela;Mateus Lima Oliveira;Anderson;Assai;BA;Nixon;50;R$ 25.00;Sim
+2025-08-19;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;85;R$ 42.50;Sim
+2025-08-19;Atakarejo Patamares;Eder Alves de Jesus;Anderson;Atakarejo;BA;Ricardo;103;R$ 51.50;Sim
+2025-08-19;Assai Paralela;Alessandro Bastos de Almeida;Anderson;Assai;BA;Nixon;50;R$ 25.00;Sim
+2025-08-19;Assai Cabula;Hugo de Jesus Conceicao;Jancleiton;Assai;BA;Nixon;23;R$ 11.50;Sim
+2025-08-19;Assai Camacari;Manoel Messias Gois Junior;Natal;Atakarejo;BA;Ricardo;61;R$ 30.50;Sim
+2025-08-19;Atakarejo Itacimirim;Manoel Messias Gois Junior;Natal;Atakarejo;BA;Ricardo;64;R$ 32.00;Sim
+2025-08-19;Atakarejo Vasco;Eder Alves de Jesus;Roque;Atakarejo;BA;Ricardo;22;R$ 11.00;Sim
+2025-08-19;Atakarejo Aracaju;Islen Bergson De Jesus Cruz;Tiago;Atakarejo;SE;Ricardo;160;R$ 80.00;Sim
+2025-08-19;Atakarejo Aracaju;Carlos Henrique Barros de Oliveira;Tiago;Atakarejo;SE;Ricardo;64;R$ 32.00;Sim
+2025-08-19;Assai Pau Da Lima;Tiago Saleh Rodrigues;Eden;Assai;BA;Nixon;38;R$ 19.00;Sim
+2025-08-19;Sams Feira De Santana;Rogesson Geyson Lima da Silva;Andre;Sams;BA;Ricardo;26;R$ 13.00;Sim
+2025-08-18;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;26;R$ 13.00;Sim
+2025-08-18;Assai Paralela;Mateus Lima Oliveira;Danilo;Assai;BA;Nixon;70;R$ 35.00;Sim
+2025-08-18;Assai Paralela;Alessandro Bastos de Almeida;Danilo;Assai;BA;Nixon;70;R$ 35.00;Sim
+2025-08-18;Redemix Chame Chame;Ramon Borges Santos da Paixao;Eden;Redemix;BA;Ricardo;14;R$ 7.00;Sim
+2025-08-18;Assai Barris;Renato Almeida Barreto;Eden;Assai;BA;Nixon;31;R$ 15.50;Sim
+2025-08-18;Sams Pituba;Luis Alberto Santos Borges;Paulo Noel;Sams;BA;Ricardo;52;R$ 26.00;Sim
+2025-08-18;Atakarejo Vasco;Eder Alves de Jesus;Eden;Atakarejo;BA;Ricardo;90;R$ 45.00;Sim
+2025-08-18;Assai Calcada;Claudio Jose De Almeida Santos;Natal;Assai;BA;Nixon;40;R$ 20.00;Sim
+2025-08-18;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;65;R$ 32.50;Sim
+2025-08-18;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;65;R$ 32.50;Sim
+2025-08-16;Assai Vasco Da Gama;Danilo Regis Santos;Natal;Assai;BA;Nixon;23;R$ 11.50;Sim
+2025-08-16;Assai Paralela;Mateus Lima Oliveira;Danilo;Assai;BA;Nixon;19;R$ 9.50;Sim
+2025-08-16;Assai Vasco Da Gama;Crislaine Machado dos Santos;Natal;Assai;BA;Nixon;22;R$ 11.00;Sim
+2025-08-16;Assai Pau Da Lima;Tiago Saleh Rodrigues;Anderson;Assai;BA;Nixon;25;R$ 12.50;Sim
+2025-08-16;Assai Camacari;Manoel Messias Gois Junior;Danilo;;;;42;R$ 21.00;Sim
+2025-08-16;Assai Paralela;Alessandro Bastos de Almeida;Danilo;Assai;BA;Nixon;19;R$ 9.50;Sim
+2025-08-16;Assai Luis Anselmo;Ramon Borges Santos da Paixao;Natal;Assai;BA;Nixon;7;R$ 3.50;Sim
+2025-08-16;Sams Lauro De Freitas;Jadison de Andrade Santos;Danilo;;;;18;R$ 9.00;Sim
+2025-08-15;Assai Paralela;Mateus Lima Oliveira;Paulo Noel;Assai;BA;Nixon;21;R$ 10.50;Sim
+2025-08-15;Assai Paralela;Alessandro Bastos de Almeida;Paulo Noel;Assai;BA;Nixon;21;R$ 10.50;Sim
+2025-08-15;Assai Vasco Da Gama;Danilo Regis Santos;Paulo Noel;Assai;BA;Nixon;65;R$ 32.50;Sim
+2025-08-15;Assai Vasco Da Gama;Crislaine Machado dos Santos;Paulo Noel;Assai;BA;Nixon;65;R$ 32.50;Sim
+2025-08-15;Sams Lauro De Freitas;Jadison de Andrade Santos;Danilo;Sams;BA;Ricardo;75;R$ 37.50;Sim
+2025-08-15;Atakarejo Patamares;Eder Alves de Jesus;Paulo Noel;Atakarejo;BA;Ricardo;48;R$ 24.00;Sim
+2025-08-15;Sams Feira De Santana;Rogesson Geyson Lima da Silva;Eden;Sams;BA;Ricardo;28;R$ 14.00;Sim
+2025-08-15;Assai Cabula;Hugo de Jesus Conceicao;Paulo Noel;Assai;BA;Nixon;40;R$ 20.00;Sim
+2025-08-15;Redemix Chame Chame;Ramon Borges Santos da Paixao;Jancleiton;Redemix;BA;Ricardo;11;R$ 5.50;Sim
+2025-08-15;Atakarejo Itacimirim;Manoel Messias Gois Junior;Natal;Atakarejo;BA;Ricardo;27;R$ 13.50;Sim
+2025-08-14;Assai Calcada;Claudio Jose De Almeida Santos;Paulo Noel;Assai;BA;Nixon;37;R$ 18.50;Sim
+2025-08-14;Assai Paripe;Ronald Souza Dos Santos;Danilo;Assai;BA;Nixon;6;R$ 3.00;Sim
+2025-08-14;Assai Paralela;Mateus Lima Oliveira;Eden;Assai;BA;Nixon;17;R$ 8.50;Sim
+2025-08-14;Assai Paralela;Alessandro Bastos de Almeida;Eden;Assai;BA;Nixon;17;R$ 8.50;Sim
+2025-08-14;Assai Pau Da Lima;Tiago Saleh Rodrigues;Danilo;;;;15;R$ 7.50;Sim
+2025-08-14;Assai Cabula;Hugo de Jesus Conceicao;Andre;Assai;BA;Nixon;27;R$ 13.50;Sim
+2025-08-14;Sams Pituba;Jose Marcio Santos Rocha;Danilo;Sams;BA;Ricardo;135;R$ 67.50;Sim
+2025-08-13;Redemix Chame Chame;Ramon Borges Santos da Paixao;Anderson;Redemix;BA;Ricardo;12;R$ 6.00;Sim
+2025-08-13;Assai Camacari;Manoel Messias Gois Junior;Danilo;Assai;BA;Nixon;17;R$ 8.50;Sim
+2025-08-13;Assai Calcada;Claudio Jose De Almeida Santos;Paulo Noel;Assai;BA;Nixon;55;R$ 27.50;Sim
+2025-08-13;Assai Paralela;Mateus Lima Oliveira;Eden;Assai;BA;Nixon;50;R$ 25.00;Sim
+2025-08-13;Assai Pau Da Lima;Tiago Saleh Rodrigues;Paulo Noel;Assai;BA;Nixon;32;R$ 16.00;Sim
+2025-08-13;Assai Paralela;Alessandro Bastos de Almeida;Eden;Assai;BA;Nixon;51;R$ 25.50;Sim
+2025-08-13;Assai Vasco Da Gama;Danilo Regis Santos;Jancleiton;Assai;BA;Nixon;22;R$ 11.00;Sim
+2025-08-13;Assai Vasco Da Gama;Crislaine Machado dos Santos;Jancleiton;Assai;BA;Nixon;21;R$ 10.50;Sim
+2025-08-13;Sams Pituba;Luis Alberto Santos Borges;Eden;Sams;BA;Ricardo;110;R$ 55.00;Sim
+2025-08-12;Assai Paripe;Ronald Souza Dos Santos;Danilo;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-08-12;Assai Paralela;Mateus Lima Oliveira;Paulo Noel;Assai;BA;Nixon;9;R$ 4.50;Sim
+2025-08-12;Assai Paralela;Alessandro Bastos de Almeida;Paulo Noel;Assai;BA;Nixon;9;R$ 4.50;Sim
+2025-08-12;Atakarejo Patamares;Eder Alves de Jesus;Paulo Noel;Atakarejo;BA;Ricardo;90;R$ 45.00;Sim
+2025-08-12;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;65;R$ 32.50;Sim
+2025-08-12;Assai Cabula;Hugo de Jesus Conceicao;Paulo Noel;Assai;BA;Nixon;19;R$ 9.50;Sim
+2025-08-12;Atakarejo Itacimirim;Manoel Messias Gois Junior;Natal;Atakarejo;BA;Ricardo;70;R$ 35.00;Sim
+2025-08-12;Sams Feira De Santana;Rogesson Geyson Lima da Silva;Andre;Sams;BA;Ricardo;40;R$ 20.00;Sim
+2025-08-12;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;65;R$ 32.50;Sim
+2025-08-11;Assai Cabula;Hugo de Jesus Conceicao;Eden;Assai;BA;Nixon;36;R$ 18.00;Sim
+2025-08-11;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;9;R$ 4.50;Sim
+2025-08-11;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;9;R$ 4.50;Sim
+2025-08-11;Assai Paralela;Alessandro Bastos de Almeida;Danilo;Assai;BA;Nixon;52;R$ 26.00;Sim
+2025-08-11;Assai Paralela;Mateus Lima Oliveira;Danilo;Assai;BA;Nixon;52;R$ 26.00;Sim
+2025-08-09;Sams Pituba;Luis Alberto Santos Borges;Paulo Noel;Sams;BA;Ricardo;60;R$ 30.00;Sim
+2025-08-09;Assai Paralela;Mateus Lima Oliveira;Andre;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-08-09;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-08-09;Assai Calcada;Claudio Jose De Almeida Santos;Eden;Assai;BA;Nixon;12;R$ 6.00;Sim
+2025-08-09;Atakarejo Lauro;Filipe Carvalho Costa;Natal;Atakarejo;BA;Ricardo;47;R$ 23.50;Sim
+2025-08-09;Assai Pau Da Lima;Tiago Saleh Rodrigues;Jancleiton;Assai;BA;Nixon;35;R$ 17.50;Sim
+2025-08-09;Assai Vasco Da Gama;Danilo Regis Santos;Danilo;Assai;BA;Nixon;57;R$ 28.50;Sim
+2025-08-09;Assai Vasco Da Gama;Crislaine Machado dos Santos;Danilo;Assai;BA;Nixon;57;R$ 28.50;Sim
+2025-08-09;Assai Barris;Ramon Borges Santos da Paixao;Danilo;Assai;BA;Nixon;29;R$ 14.50;Sim
+2025-08-08;Atakarejo Itacimirim;Manoel Messias Gois Junior;Anderson;Atakarejo;BA;Ricardo;125;R$ 62.50;Sim
+2025-08-08;Atakarejo Patamares;Eder Alves de Jesus;Eden;Atakarejo;BA;Ricardo;92;R$ 46.00;Sim
+2025-08-08;Assai Cabula;Hugo de Jesus Conceicao;Roque;Assai;BA;Nixon;14;R$ 7.00;Sim
+2025-08-08;Sams Feira De Santana;Rogesson Geyson Lima da Silva;Danilo;Sams;BA;Ricardo;35;R$ 17.50;Sim
+2025-08-08;Sams Lauro De Freitas;Jadison de Andrade Santos;Paulo Noel;Sams;BA;Ricardo;36;R$ 18.00;Sim
+2025-08-08;Assai Paripe;Ronald Souza Dos Santos;Andre;Assai;BA;Nixon;9;R$ 4.50;Sim
+2025-08-08;Assai Camacari;Manoel Messias Gois Junior;Anderson;Assai;BA;Nixon;125;R$ 62.50;Sim
+2025-08-08;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;67;R$ 33.50;Sim
+2025-08-07;Sams Pituba;Luis Alberto Santos Borges;Danilo;Sams;BA;Ricardo;65;R$ 32.50;Sim
+2025-08-07;Assai Barris;Ramon Borges Santos da Paixao;Danilo;Assai;BA;Nixon;23;R$ 11.50;Sim
+2025-08-07;Assai Cabula;Hugo de Jesus Conceicao;Natal;Assai;BA;Nixon;28;R$ 14.00;Sim
+2025-08-07;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;38;R$ 19.00;Sim
+2025-08-07;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;38;R$ 19.00;Sim
+2025-08-07;Assai Calcada;Claudio Jose De Almeida Santos;Danilo;Assai;BA;Nixon;8;R$ 4.00;Sim
+2025-08-07;Assai Paralela;Mateus Lima Oliveira;Andre;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-08-07;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-08-07;Assai Pau Da Lima;Tiago Saleh Rodrigues;Natal;Assai;BA;Nixon;7;R$ 3.50;Sim
+2025-08-06;Assai Vasco Da Gama;Crislaine Machado dos Santos;Anderson;Assai;BA;Nixon;19;R$ 9.50;Sim
+2025-08-06;Sams Aracaju;Jose Marcio Santos Rocha;Danilo;Sams;SE;Vinicius;84;R$ 42.00;Sim
+2025-08-06;Atakarejo Patamares;Eder Alves de Jesus;Paulo Noel;Atakarejo;BA;Ricardo;170;R$ 85.00;Sim
+2025-08-06;Assai Calcada;Claudio Jose De Almeida Santos;Natal;Assai;BA;Nixon;54;R$ 27.00;Sim
+2025-08-06;Rmix Pituba;Sem Promotor;Eden;Redemix;BA;Ricardo;15;R$ 7.50;Sim
+2025-08-06;Assai Paralela;Mateus Lima Oliveira;Paulo Noel;Assai;BA;Nixon;40;R$ 20.00;Sim
+2025-08-06;Assai Paralela;Alessandro Bastos de Almeida;Paulo Noel;Assai;BA;Nixon;40;R$ 20.00;Sim
+2025-08-06;Redemix Chame Chame;Ronalde Bispo Santos;Roque;Redemix;BA;Ricardo;40;R$ 20.00;Sim
+2025-08-06;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;45;R$ 22.50;Sim
+2025-08-06;Assai Vasco Da Gama;Danilo Regis Santos;Anderson;Assai;BA;Nixon;19;R$ 9.50;Sim
+2025-08-06;Assai Pau Da Lima;Tiago Saleh Rodrigues;Paulo Noel;Assai;BA;Nixon;19;R$ 9.50;Sim
+2025-08-05;Assai Paralela;Mateus Lima Oliveira;Eden;Assai;BA;Nixon;45;R$ 22.50;Sim
+2025-08-05;Assai Vasco Da Gama;Danilo Regis Santos;Paulo Noel;Assai;BA;Nixon;45;R$ 22.50;Sim
+2025-08-05;Sams Cosme De Farias;Ramon Borges Santos da Paixao;Roque;Sams;BA;Ricardo;75;R$ 37.50;Sim
+2025-08-05;Atakarejo Itacimirim;Manoel Messias Gois Junior;Natal;Atakarejo;BA;Ricardo;70;R$ 35.00;Sim
+2025-08-05;Assai Vasco Da Gama;Crislaine Machado dos Santos;Paulo Noel;Assai;BA;Nixon;45;R$ 22.50;Sim
+2025-08-05;Assai Paralela;Alessandro Bastos de Almeida;Eden;Assai;BA;Nixon;45;R$ 22.50;Sim
+2025-08-05;Atakarejo Aracaju;Carlos Henrique Barros de Oliveira;Danilo;Atakarejo;SE;Ricardo;92;R$ 46.00;Sim
+2025-08-04;Sams Pituba;Luis Alberto Santos Borges;Paulo Noel;Sams;BA;Ricardo;67;R$ 33.50;Sim
+2025-08-04;Assai Barris;Ramon Borges Santos da Paixao;Danilo;Assai;BA;Nixon;47;R$ 23.50;Sim
+2025-08-04;Assai Pau Da Lima;Tiago Saleh Rodrigues;Anderson;Assai;BA;Nixon;72;R$ 36.00;Sim
+2025-08-04;Rmix Alphaville;Eder Alves de Jesus;Roque;Redemix;BA;Ricardo;26;R$ 13.00;Sim
+2025-08-04;Assai Paralela;Alessandro Bastos de Almeida;Roque;Assai;BA;Nixon;50;R$ 25.00;Sim
+2025-08-04;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;50;R$ 25.00;Sim
+2025-08-04;Assai Paripe;Ronald Souza Dos Santos;Anderson;Assai;BA;Nixon;15;R$ 7.50;Sim
+2025-08-04;Assai Paralela;Mateus Lima Oliveira;Roque;Assai;BA;Nixon;50;R$ 25.00;Sim
+2025-08-04;Sams Lauro De Freitas;Jadison de Andrade Santos;Paulo Noel;Sams;BA;Ricardo;37;R$ 18.50;Sim
+2025-08-04;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;50;R$ 25.00;Sim
+2025-08-04;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;101;R$ 50.50;Sim
+2025-08-02;Assai Calcada;Claudio Jose De Almeida Santos;Paulo Noel;Assai;BA;Nixon;32;R$ 16.00;Sim
+2025-08-02;Atakarejo Itacimirim;Manoel Messias Gois Junior;Anderson;Atakarejo;BA;Ricardo;70;R$ 35.00;Sim
+2025-08-02;Assai Paralela;Mateus Lima Oliveira;Eden;Assai;BA;Nixon;8;R$ 4.00;Sim
+2025-08-02;Assai Barris;Ramon Borges Santos da Paixao;Paulo Noel;Assai;BA;Nixon;35;R$ 17.50;Sim
+2025-08-02;Assai Paralela;Alessandro Bastos de Almeida;Eden;Assai;BA;Nixon;8;R$ 4.00;Sim
+2025-08-02;Assai Vasco Da Gama;Danilo Regis Santos;Roque;Assai;BA;Nixon;25;R$ 12.50;Sim
+2025-08-02;Assai Vasco Da Gama;Crislaine Machado dos Santos;Roque;Assai;BA;Nixon;25;R$ 12.50;Sim
+2025-08-02;Assai Cabula;Hugo de Jesus Conceicao;Danilo;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-08-02;Atakarejo Patamares;Eder Alves de Jesus;Eden;Atakarejo;BA;Ricardo;60;R$ 30.00;Sim
+2025-08-01;Sams Lauro De Freitas;Jadison de Andrade Santos;Roque;Sams;BA;Ricardo;36;R$ 18.00;Sim
+2025-08-01;Assai Pau Da Lima;Tiago Saleh Rodrigues;Paulo Noel;Assai;BA;Nixon;22;R$ 11.00;Sim
+2025-08-01;Atakarejo Patamares;Eder Alves de Jesus;Jancleiton;Atakarejo;BA;Ricardo;51;R$ 25.50;Sim
+2025-08-01;Sams Pituba;Luis Alberto Santos Borges;Danilo;Sams;BA;Ricardo;73;R$ 36.50;Sim
+2025-08-01;Assai Cabula;Hugo de Jesus Conceicao;Paulo Noel;Assai;BA;Nixon;26;R$ 13.00;Sim
+2025-08-01;Assai Calcada;Claudio Jose De Almeida Santos;Jancleiton;Assai;BA;Nixon;12;R$ 6.00;Sim
+2025-08-01;Assai Paralela;Mateus Lima Oliveira;Andre;Assai;BA;Nixon;19;R$ 9.50;Sim
+2025-08-01;Assai Paralela;Alessandro Bastos de Almeida;Andre;Assai;BA;Nixon;19;R$ 9.50;Sim
+2025-08-01;Assai Vasco Da Gama;Danilo Regis Santos;Gildasio;Assai;BA;Nixon;90;R$ 45.00;Sim
+2025-08-01;Assai Vasco Da Gama;Crislaine Machado dos Santos;Gildasio;Assai;BA;Nixon;90;R$ 45.00;Sim
+2025-08-01;Assai Barris;Ramon Borges Santos da Paixao;Anderson;Assai;BA;Nixon;42;R$ 21.00;Sim
+2025-07-31;Assai Calcada;Claudio Jose De Almeida Santos;Roque;Assai;BA;Nixon;45;R$ 22.50;Sim
+2025-07-31;Assai Barris;Ramon Borges Santos da Paixao;Paulo Noel;Assai;BA;Nixon;40;R$ 20.00;Sim
+2025-07-31;Assai Cabula;Hugo de Jesus Conceicao;Danilo;Assai;BA;Nixon;88;R$ 44.00;Sim
+2025-07-31;Assai Paralela;Alessandro Bastos de Almeida;Eden;Assai;BA;Nixon;20;R$ 10.00;Sim
+2025-07-31;Assai Vasco Da Gama;Danilo Regis Santos;Natal;Assai;BA;Nixon;78;R$ 39.00;Sim
+2025-07-31;Assai Vasco Da Gama;Crislaine Machado dos Santos;Natal;Assai;BA;Nixon;78;R$ 39.00;Sim
+2025-07-31;Assai Paralela;Mateus Lima Oliveira;Eden;Assai;BA;Nixon;20;R$ 10.00;Sim
+2025-07-31;Assai Pau Da Lima;Tiago Saleh Rodrigues;Anderson;Assai;BA;Nixon;60;R$ 30.00;Sim
+2025-07-30;Sams Pituba;Luis Alberto Santos Borges;Eden;Sams;BA;Ricardo;74;R$ 37.00;Sim
+2025-07-30;Assai Paralela;Alessandro Bastos de Almeida;Roque;Assai;BA;Nixon;19;R$ 9.50;Sim
+2025-07-30;Assai Barris;Ramon Borges Santos da Paixao;Danilo;Assai;BA;Nixon;14;R$ 7.00;Sim
+2025-07-30;Assai Paralela;Mateus Lima Oliveira;Roque;Assai;BA;Nixon;19;R$ 9.50;Sim
+2025-07-30;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;9;R$ 4.50;Sim
+2025-07-29;Sams Feira De Santana;Rogesson Geyson Lima da Silva;Anderson;Sams;BA;Ricardo;39;R$ 19.50;Sim
+2025-07-29;Assai Camacari;Manoel Messias Gois Junior;Danilo;Assai;BA;Nixon;58;R$ 29.00;Sim
+2025-07-29;Sams Aracaju;Jose Marcio Santos Rocha;Danilo;Sams;SE;Vinicius;110;R$ 55.00;Sim
+2025-07-29;Atakarejo Vasco;Eder Alves de Jesus;Roque;Atakarejo;BA;Ricardo;83;R$ 41.50;Sim
+2025-07-29;Atakarejo Patamares;Eder Alves de Jesus;Paulo Noel;Atakarejo;BA;Ricardo;51;R$ 25.50;Sim
+2025-07-29;Sams Lauro De Freitas;Jadison de Andrade Santos;Danilo;Sams;BA;Ricardo;45;R$ 22.50;Sim
+2025-07-29;Redemix Chame Chame;Ronalde Bispo Santos;Roque;Redemix;BA;Ricardo;44;R$ 22.00;Sim
+2025-07-29;Assai Cabula;Hugo de Jesus Conceicao;Eden;Assai;BA;Nixon;94;R$ 47.00;Sim
+2025-07-29;Assai Paralela;Mateus Lima Oliveira;Paulo Noel;Assai;BA;Nixon;54;R$ 27.00;Sim
+2025-07-29;Assai Paralela;Alessandro Bastos de Almeida;Paulo Noel;Assai;BA;Nixon;54;R$ 27.00;Sim
+2025-07-29;Assai Barris;Ramon Borges Santos da Paixao;Roque;Assai;BA;Nixon;10;R$ 5.00;Sim
+2025-07-29;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;10;R$ 5.00;Sim
+2025-07-29;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;16;R$ 8.00;Sim
+2025-07-28;Assai Vasco Da Gama;Danilo Regis Santos;Roque;Assai;BA;Nixon;32;R$ 16.00;Sim
+2025-07-28;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;11;R$ 5.50;Sim
+2025-07-28;Sams Pituba;Luis Alberto Santos Borges;Paulo Noel;Sams;BA;Ricardo;142;R$ 71.00;Sim
+2025-07-28;Assai Vasco Da Gama;Crislaine Machado dos Santos;Roque;Assai;BA;Nixon;32;R$ 16.00;Sim
+2025-07-28;Assai Paralela;Mateus Lima Oliveira;Eden;Assai;BA;Nixon;65;R$ 32.50;Sim
+2025-07-28;Assai Paralela;Alessandro Bastos de Almeida;Eden;Assai;BA;Nixon;65;R$ 32.50;Sim
+2025-07-28;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;37;R$ 18.50;Sim
+2025-07-26;Assai Barris;Ramon Borges Santos da Paixao;Danilo;Assai;BA;Nixon;54;R$ 27.00;Sim
+2025-07-26;Sams Lauro De Freitas;Jadison de Andrade Santos;Jancleiton;Sams;BA;Ricardo;60;R$ 30.00;Sim
+2025-07-25;Assai Vasco Da Gama;Danilo Regis Santos;Danilo;Assai;BA;Nixon;35;R$ 17.50;Sim
+2025-07-25;Assai Vasco Da Gama;Crislaine Machado dos Santos;Danilo;Assai;BA;Nixon;35;R$ 17.50;Sim
+2025-07-25;Atakarejo Patamares;Eder Alves de Jesus;Jancleiton;Atakarejo;BA;Ricardo;41;R$ 20.50;Sim
+2025-07-25;Assai Paralela;Alessandro Bastos de Almeida;Eden;Assai;BA;Nixon;12;R$ 6.00;Sim
+2025-07-25;Assai Paralela;Mateus Lima Oliveira;Eden;Assai;BA;Nixon;12;R$ 6.00;Sim
+2025-07-25;Atakarejo Itacimirim;Manoel Messias Gois Junior;Natal;Assai;BA;Nixon;145;R$ 72.50;Sim
+2025-07-25;Atakarejo Patamares;Eder Alves de Jesus;Danilo;Atakarejo;BA;Ricardo;42;R$ 21.00;Sim
+2025-07-25;Assai Calcada;Claudio Jose De Almeida Santos;Roque;Assai;BA;Nixon;35;R$ 17.50;Sim
+2025-07-25;Redemix Chame Chame;Ronalde Bispo Santos;Eden;Redemix;BA;Ricardo;28;R$ 14.00;Sim
+2025-07-24;Assai Calcada;Claudio Jose De Almeida Santos;Danilo;Assai;BA;Nixon;35;R$ 17.50;Sim
+2025-07-24;Assai Paralela;Alessandro Bastos de Almeida;Paulo Noel;Assai;BA;Nixon;20;R$ 10.00;Sim
+2025-07-24;Sams Lauro De Freitas;Jadison de Andrade Santos;Jancleiton;Sams;BA;Ricardo;87;R$ 43.50;Sim
+2025-07-24;Assai Vasco Da Gama;Danilo Regis Santos;Roque;Assai;BA;Nixon;41;R$ 20.50;Sim
+2025-07-24;Assai Paralela;Mateus Lima Oliveira;Paulo Noel;Assai;BA;Nixon;20;R$ 10.00;Sim
+2025-07-24;Assai Barris;Ramon Borges Santos da Paixao;Paulo Noel;Assai;BA;Nixon;68;R$ 34.00;Sim
+2025-07-24;Assai Vasco Da Gama;Crislaine Machado dos Santos;Roque;Assai;BA;Nixon;41;R$ 20.50;Sim
+2025-07-23;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;4;R$ 2.00;Sim
+2025-07-23;Sams Aracaju;Jose Marcio Santos Rocha;Danilo;Sams;SE;Vinicius;247;R$ 123.50;Sim
+2025-07-23;Assai Paralela;Mateus Lima Oliveira;Paulo Noel;Assai;BA;Nixon;4;R$ 2.00;Sim
+2025-07-23;Assai Paralela;Alessandro Bastos de Almeida;Paulo Noel;Assai;BA;Nixon;4;R$ 2.00;Sim
+2025-07-22;Assai Calcada;Claudio Jose De Almeida Santos;Paulo Noel;Assai;BA;Nixon;17;R$ 8.50;Sim
+2025-07-22;Sams Feira De Santana;Rogesson Geyson Lima da Silva;Natal;Sams;BA;Ricardo;43;R$ 21.50;Sim
+2025-07-22;Atakarejo Vasco;Eder Alves de Jesus;Eden;Atakarejo;BA;Ricardo;106;R$ 53.00;Sim
+2025-07-22;Sams Pituba;Hugo de Jesus Conceicao;Danilo;Sams;BA;Ricardo;64;R$ 32.00;Sim
+2025-07-22;Atakarejo Patamares;Joao Ivan Santos Moreira;Roque;Atakarejo;BA;Ricardo;80;R$ 40.00;Sim
+2025-07-22;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;104;R$ 52.00;Sim
+2025-07-22;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;104;R$ 52.00;Sim
+2025-07-22;Assai Paralela;Mateus Lima Oliveira;Danilo;Assai;BA;Nixon;48;R$ 24.00;Sim
+2025-07-22;Assai Paralela;Alessandro Bastos de Almeida;Danilo;Assai;BA;Nixon;48;R$ 24.00;Sim
+2025-07-22;Assai Barris;Ramon Borges Santos da Paixao;Paulo Noel;Assai;BA;Nixon;26;R$ 13.00;Sim
+2025-07-21;Assai Pau Da Lima;Tiago Saleh Rodrigues;Paulo Noel;Assai;BA;Nixon;14;R$ 7.00;Sim
+2025-07-21;Assai Barris;Ramon Borges Santos da Paixao;Roque;Assai;BA;Nixon;63;R$ 31.50;Sim
+2025-07-21;Assai Paralela;Mateus Lima Oliveira;Eden;Assai;BA;Nixon;46;R$ 23.00;Sim
+2025-07-21;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;17;R$ 8.50;Sim
+2025-07-21;Assai Paralela;Alessandro Bastos de Almeida;Eden;Assai;BA;Nixon;46;R$ 23.00;Sim
+2025-07-19;Assai Barris;Ramon Borges Santos da Paixao;Anderson;Assai;BA;Nixon;32;R$ 16.00;Sim
+2025-07-19;Assai Paralela;Mateus Lima Oliveira;Natal;Assai;BA;Nixon;29;R$ 14.50;Sim
+2025-07-19;Assai Paralela;Alessandro Bastos de Almeida;Natal;Assai;BA;Nixon;29;R$ 14.50;Sim
+2025-07-19;Assai Vasco Da Gama;Danilo Regis Santos;Paulo Noel;Assai;BA;Nixon;62;R$ 31.00;Sim
+2025-07-19;Assai Vasco Da Gama;Crislaine Machado dos Santos;Paulo Noel;Assai;BA;Nixon;62;R$ 31.00;Sim
+2025-07-18;Assai Camacari;Manoel Messias Gois Junior;Jancleiton;Assai;BA;Nixon;54;R$ 27.00;Sim
+2025-07-18;Sams Pituba;Hugo de Jesus Conceicao;Anderson;Sams;BA;Ricardo;103;R$ 51.50;Sim
+2025-07-18;Assai Calcada;Claudio Jose De Almeida Santos;Paulo Noel;Assai;BA;Nixon;19;R$ 9.50;Sim
+2025-07-18;Assai Paralela;Mateus Lima Oliveira;Roque;Assai;BA;Nixon;57;R$ 28.50;Sim
+2025-07-18;Assai Paralela;Alessandro Bastos de Almeida;Roque;Assai;BA;Nixon;57;R$ 28.50;Sim
+2025-07-18;Assai Barris;Ramon Borges Santos da Paixao;Paulo Noel;Assai;BA;Nixon;29;R$ 14.50;Sim
+2025-07-18;Atakarejo Vasco;Eder Alves de Jesus;Paulo Noel;Atakarejo;BA;Ricardo;122;R$ 61.00;Sim
+2025-07-18;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;25;R$ 12.50;Sim
+2025-07-18;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;25;R$ 12.50;Sim
+2025-07-18;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;11;R$ 5.50;Sim
+2025-07-17;Sams Lauro De Freitas;Jadison de Andrade Santos;Paulo Noel;Sams;BA;Ricardo;124;R$ 62.00;Sim
+2025-07-17;Assai Calcada;Claudio Jose De Almeida Santos;Jancleiton;Assai;BA;Nixon;25;R$ 12.50;Sim
+2025-07-17;Assai Paralela;Danilo Regis Santos;Paulo Noel;Assai;BA;Nixon;40;R$ 20.00;Sim
+2025-07-17;Redemix Chame Chame;Ronalde Bispo Santos;Roque;Redemix;BA;Ricardo;21;R$ 10.50;Sim
+2025-07-17;Assai Cabula;Hugo de Jesus Conceicao;Anderson;Assai;BA;Nixon;130;R$ 65.00;Sim
+2025-07-17;Assai Barris;Ramon Borges Santos da Paixao;Anderson;Assai;BA;Nixon;21;R$ 10.50;Sim
+2025-07-17;Assai Paralela;Crislaine Machado dos Santos;Paulo Noel;Assai;BA;Nixon;40;R$ 20.00;Sim
+2025-07-17;Assai Pau Da Lima;Ramon Borges Santos da Paixao;Paulo Noel;Assai;BA;Nixon;65;R$ 32.50;Sim
+2025-07-17;Assai Pau Da Lima;Tiago Saleh Rodrigues;Paulo Noel;Assai;BA;Nixon;60;R$ 30.00;Sim
+2025-07-17;Sams Feira De Santana;Rogesson Geyson Lima da Silva;Eden;Sams;BA;Ricardo;22;R$ 11.00;Sim
+2025-07-16;Rmix Horto;Eder Alves de Jesus;Roque;Redemix;BA;Ricardo;6;R$ 3.00;Sim
+2025-07-16;Assai Vasco Da Gama;Danilo Regis Santos;Paulo Noel;Assai;BA;Nixon;105;R$ 52.50;Sim
+2025-07-16;Assai Vasco Da Gama;Crislaine Machado dos Santos;Paulo Noel;Assai;BA;Nixon;105;R$ 52.50;Sim
+2025-07-16;Assai Barris;Ramon Borges Santos da Paixao;Paulo Noel;Assai;BA;Nixon;38;R$ 19.00;Sim
+2025-07-16;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;19;R$ 9.50;Sim
+2025-07-15;Assai Calcada;Claudio Jose De Almeida Santos;Paulo Noel;Assai;BA;Nixon;18;R$ 9.00;Sim
+2025-07-15;Gbarbosa 035 Costa Azul;Filipe Carvalho Costa;Danilo;G Barbosa;BA;Vinicius;98;R$ 49.00;Sim
+2025-07-15;Assai Paralela;Mateus Lima Oliveira;Jancleiton;Assai;BA;Nixon;17;R$ 8.50;Sim
+2025-07-15;Assai Cabula;Hugo de Jesus Conceicao;Danilo;Assai;BA;Nixon;6;R$ 3.00;Sim
+2025-07-15;Assai Paralela;Alessandro Bastos de Almeida;Jancleiton;Assai;BA;Nixon;17;R$ 8.50;Sim
+2025-07-14;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;64;R$ 32.00;Sim
+2025-07-14;Assai Paralela;Mateus Lima Oliveira;Danilo;Assai;BA;Nixon;68;R$ 34.00;Sim
+2025-07-14;Assai Paralela;Alessandro Bastos de Almeida;Danilo;Assai;BA;Nixon;68;R$ 34.00;Sim
+2025-07-14;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;64;R$ 32.00;Sim
+2025-07-14;Assai Barris;Renato Almeida Barreto;Andre;Assai;BA;Nixon;95;R$ 47.50;Sim
+2025-07-14;Atakarejo Itacimirim;Manoel Messias Gois Junior;Danilo;Atakarejo;BA;Ricardo;90;R$ 45.00;Sim
+2025-07-14;Atakarejo Vasco;Eder Alves de Jesus;Eden;Atakarejo;BA;Ricardo;144;R$ 72.00;Sim
+2025-07-12;Assai Paralela;Alessandro Bastos de Almeida;Eden;Assai;BA;Nixon;38;R$ 19.00;Sim
+2025-07-12;Atakarejo Aracaju;Islen Bergson De Jesus Cruz;Paulo Noel;Atakarejo;SE;Ricardo;50;R$ 25.00;Sim
+2025-07-12;Assai Paralela;Mateus Lima Oliveira;Eden;Assai;BA;Nixon;38;R$ 19.00;Sim
+2025-07-12;Redemix Chame Chame;Ronalde Bispo Santos;Danilo;Redemix;BA;Ricardo;47;R$ 23.50;Sim
+2025-07-12;Assai Calcada;Claudio Jose De Almeida Santos;Jancleiton;Assai;BA;Nixon;66;R$ 33.00;Sim
+2025-07-11;Assai Paralela;Mateus Lima Oliveira;Anderson;Assai;BA;Nixon;8;R$ 4.00;Sim
+2025-07-11;Atakarejo Patamares;Eder Alves de Jesus;Eden;Atakarejo;BA;Ricardo;21;R$ 10.50;Sim
+2025-07-11;Assai Paralela;Alessandro Bastos de Almeida;Anderson;Assai;BA;Nixon;8;R$ 4.00;Sim
+2025-07-11;Assai Vasco Da Gama;Crislaine Machado dos Santos;Paulo Noel;Assai;BA;Nixon;55;R$ 27.50;Sim
+2025-07-11;Assai Vasco Da Gama;Danilo Regis Santos;Paulo Noel;Assai;BA;Nixon;55;R$ 27.50;Sim
+2025-07-11;Rmix Stella Maris;Joao Ivan Santos Moreira;Roque;Redemix;BA;Ricardo;14;R$ 7.00;Sim
+2025-07-11;Sams Feira De Santana;Rogesson Geyson Lima da Silva;Andre;Sams;BA;Ricardo;18;R$ 9.00;Sim
+2025-07-11;Sams Aracaju;Jose Marcio Santos Rocha;Danilo;Sams;SE;Vinicius;70;R$ 35.00;Sim
+2025-07-10;Assai Imbui;Mateus Lima Oliveira;Jancleiton;;;;47;R$ 23.50;Sim
+2025-07-10;Assai Calcada;Claudio Jose De Almeida Santos;Roque;Assai;BA;Nixon;6;R$ 3.00;Sim
+2025-07-10;Assai Vasco Da Gama;Crislaine Machado dos Santos;Paulo Noel;Assai;BA;Nixon;15;R$ 7.50;Sim
+2025-07-10;Assai Cabula;Antonio Carlos Santos Sales;Eden;Assai;BA;Nixon;160;R$ 80.00;Sim
+2025-07-10;Assai Barris;Renato Almeida Barreto;Paulo Noel;Assai;BA;Nixon;100;R$ 50.00;Sim
+2025-07-10;Assai Imbui;Alessandro Bastos de Almeida;Jancleiton;;;;47;R$ 23.50;Sim
+2025-07-10;Assai Vasco Da Gama;Danilo Regis Santos;Paulo Noel;Assai;BA;Nixon;15;R$ 7.50;Sim
+2025-07-10;Assai Vasco Da Gama;Crislaine Machado dos Santos;Roque;Assai;BA;Nixon;33;R$ 16.50;Sim
+2025-07-10;Assai Vasco Da Gama;Danilo Regis Santos;Roque;Assai;BA;Nixon;33;R$ 16.50;Sim
+2025-07-10;Sams Aracaju;Jose Marcio Santos Rocha;Danilo;Sams;SE;Vinicius;65;R$ 32.50;Sim
+2025-07-10;Assai Pau Da Lima;Ramon Borges Santos da Paixao;Paulo Noel;Assai;BA;Nixon;32;R$ 16.00;Sim
+2025-07-10;Sams Lauro De Freitas;Jadison de Andrade Santos;Anderson;Sams;BA;Ricardo;65;R$ 32.50;Sim
+2025-07-09;Assai Barris;Renato Almeida Barreto;Danilo;Assai;BA;Nixon;46;R$ 23.00;Sim
+2025-07-09;Assai Imbui;Alessandro Bastos de Almeida;Roque;;;;16;R$ 8.00;Sim
+2025-07-09;Assai Imbui;Mateus Lima Oliveira;Roque;;;;16;R$ 8.00;Sim
+2025-07-09;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;28;R$ 14.00;Sim
+2025-07-09;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;28;R$ 14.00;Sim
+2025-07-09;Assai Calcada;Claudio Jose De Almeida Santos;Danilo;Assai;BA;Nixon;50;R$ 25.00;Sim
+2025-07-09;Assai Camacari;Manoel Messias Gois Junior;Natal;Assai;BA;Nixon;26;R$ 13.00;Sim
+2025-07-08;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;97;R$ 48.50;Sim
+2025-07-08;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;97;R$ 48.50;Sim
+2025-07-08;Atakarejo Patamares;Eder Alves de Jesus;Jancleiton;Atakarejo;BA;Ricardo;104;R$ 52.00;Sim
+2025-07-08;Assai Camacari;Manoel Messias Gois Junior;Danilo;Assai;BA;Nixon;125;R$ 62.50;Sim
+2025-07-08;Assai Imbui;Alessandro Bastos de Almeida;Andre;;;;38;R$ 19.00;Sim
+2025-07-08;Assai Imbui;Mateus Lima Oliveira;Andre;;;;38;R$ 19.00;Sim
+2025-07-08;Sams Feira De Santana;Rogesson Geyson Lima da Silva;Natal;Sams;BA;Ricardo;19;R$ 9.50;Sim
+2025-07-08;Assai Vasco Da Gama;Danilo Regis Santos;Andre;Assai;BA;Nixon;20;R$ 10.00;Sim
+2025-07-08;Assai Vasco Da Gama;Crislaine Machado dos Santos;Andre;Assai;BA;Nixon;20;R$ 10.00;Sim
+2025-07-07;Atakarejo Aracaju;Carlos Henrique Barros de Oliveira;Danilo;Atakarejo;SE;Ricardo;117;R$ 58.50;Sim
+2025-07-07;Assai Imbui;Alessandro Bastos de Almeida;Paulo Noel;;;;55;R$ 27.50;Sim
+2025-07-07;Assai Barris;Renato Almeida Barreto;Jancleiton;Assai;BA;Nixon;92;R$ 46.00;Sim
+2025-07-07;Assai Imbui;Mateus Lima Oliveira;Paulo Noel;;;;55;R$ 27.50;Sim
+2025-07-07;Sams Pituba;Luis Alberto Santos Borges;Paulo Noel;Sams;BA;Ricardo;80;R$ 40.00;Sim
+2025-07-07;Mateus Jose Conrado De Araujo;Islen Bergson De Jesus Cruz;Danilo;Mateus;SE;Ricardo;33;R$ 16.50;Sim
+2025-07-05;Assai Vasco Da Gama;Crislaine Machado dos Santos;Paulo Noel;Assai;BA;Nixon;75;R$ 37.50;Sim
+2025-07-05;Assai Barris;Renato Almeida Barreto;Paulo Noel;Assai;BA;Nixon;71;R$ 35.50;Sim
+2025-07-05;Assai Vasco Da Gama;Danilo Regis Santos;Paulo Noel;Assai;BA;Nixon;75;R$ 37.50;Sim
+2025-07-05;Assai Pau Da Lima;Ramon Borges Santos da Paixao;Danilo;Assai;BA;Nixon;60;R$ 30.00;Sim
+2025-07-05;Atakarejo Aracaju;Islen Bergson De Jesus Cruz;Danilo;Atakarejo;SE;Ricardo;90;R$ 45.00;Sim
+2025-07-05;Assai Calcada;Claudio Jose De Almeida Santos;Danilo;Assai;BA;Nixon;60;R$ 30.00;Sim
+2025-07-05;Assai Imbui;Alessandro Bastos de Almeida;Roque;;;;75;R$ 37.50;Sim
+2025-07-05;Assai Imbui;Mateus Lima Oliveira;Roque;;;;75;R$ 37.50;Sim
+2025-07-04;Sams Aracaju;Jose Marcio Santos Rocha;Danilo;Sams;SE;Vinicius;46;R$ 23.00;Sim
+2025-07-04;Assai Cabula;Antonio Carlos Santos Sales;Anderson;Assai;BA;Nixon;69;R$ 34.50;Sim
+2025-07-04;Atakarejo Itacimirim;Manoel Messias Gois Junior;Roque;Atakarejo;BA;Ricardo;95;R$ 47.50;Sim
+2025-07-04;Atakarejo Engenho Velho De Brotas;Eder Alves de Jesus;Eden;;;;81;R$ 40.50;Sim
+2025-07-04;Atakarejo Lauro;Hugo de Jesus Conceicao;Paulo Noel;Atakarejo;BA;Ricardo;23;R$ 11.50;Sim
+2025-07-04;Assai Imbui;Mateus Lima Oliveira;Anderson;;;;58;R$ 29.00;Sim
+2025-07-04;Assai Imbui;Alessandro Bastos de Almeida;Anderson;;;;58;R$ 29.00;Sim
+2025-07-04;Sams Lauro De Freitas;Jadison de Andrade Santos;Roque;Sams;BA;Ricardo;69;R$ 34.50;Sim
+2025-07-03;Assai Paripe;Ronald Souza Dos Santos;Paulo Noel;Assai;BA;Nixon;6;R$ 3.00;Sim
+2025-07-03;Assai Camacari;Manoel Messias Gois Junior;Danilo;Assai;BA;Nixon;34;R$ 17.00;Sim
+2025-07-03;Sams Pituba;Luis Alberto Santos Borges;Roque;Sams;BA;Ricardo;58;R$ 29.00;Sim
+2025-07-03;Assai Calcada;Claudio Jose De Almeida Santos;Paulo Noel;Assai;BA;Nixon;31;R$ 15.50;Sim
+2025-07-03;Assai Barris;Renato Almeida Barreto;Danilo;Assai;BA;Nixon;75;R$ 37.50;Sim
+2025-07-03;Assai Imbui;Alessandro Bastos de Almeida;Eden;;;;44;R$ 22.00;Sim
+2025-07-03;Assai Vasco Da Gama;Danilo Regis Santos;Andre;Assai;BA;Nixon;75;R$ 37.50;Sim
+2025-07-03;Assai Vasco Da Gama;Crislaine Machado dos Santos;Andre;Assai;BA;Nixon;75;R$ 37.50;Sim
+2025-07-03;Assai Imbui;Mateus Lima Oliveira;Eden;;;;44;R$ 22.00;Sim
+2025-07-03;Assai Vasco Da Gama;Crislaine Machado dos Santos;Danilo;Assai;BA;Nixon;67;R$ 33.50;Sim
+2025-07-03;Assai Vasco Da Gama;Danilo Regis Santos;Danilo;Assai;BA;Nixon;67;R$ 33.50;Sim
+2025-07-03;Assai Cabula;Antonio Carlos Santos Sales;Anderson;Assai;BA;Nixon;20;R$ 10.00;Sim
+2025-07-03;Assai Cabula;Antonio Carlos Santos Sales;Eden;Assai;BA;Nixon;110;R$ 55.00;Sim
+2025-07-03;Assai Pau Da Lima;Ramon Borges Santos da Paixao;Paulo Noel;Assai;BA;Nixon;45;R$ 22.50;Sim
+2025-07-03;Assai Calcada;Claudio Jose De Almeida Santos;Natal;Assai;BA;Nixon;15;R$ 7.50;Sim
+2025-07-02;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;9;R$ 4.50;Sim
+2025-07-02;Cliente do Ceasa;Trielo Ceasa BA;Trielo Ceasa BA;Outros;BA;;14;R$ 7.00;Sim
+2025-07-01;Sams Aracaju;Jose Marcio Santos Rocha;Danilo;Sams;SE;Vinicius;44;R$ 22.00;Sim
+2025-07-01;Assai Vasco Da Gama;Crislaine Machado dos Santos;Paulo Noel;Assai;BA;Nixon;70;R$ 35.00;Sim
+2025-07-01;Assai Vasco Da Gama;Danilo Regis Santos;Paulo Noel;Assai;BA;Nixon;70;R$ 35.00;Sim
+2025-07-01;Assai Imbui;Mateus Lima Oliveira;Roque;;;;35;R$ 17.50;Sim
+2025-07-01;Assai Imbui;Alessandro Bastos de Almeida;Roque;;;;35;R$ 17.50;Sim
+2025-07-01;Atakarejo Itacimirim;Manoel Messias Gois Junior;Natal;Atakarejo;BA;Ricardo;65;R$ 32.50;Sim
+2025-07-01;Atakarejo Patamares;Joao Ivan Santos Moreira;Paulo Noel;Atakarejo;BA;Ricardo;110;R$ 55.00;Sim
+2025-07-01;Sams Lauro De Freitas;Jadison de Andrade Santos;Roque;Sams;BA;Ricardo;24;R$ 12.00;Sim
+2025-07-01;Supermercado Bombom Ltda Grageru;Islen Bergson De Jesus Cruz;Andre;;;;29;R$ 14.50;Sim
+2025-07-01;Atakarejo Engenho Velho De Brotas;Eder Alves de Jesus;Paulo Noel;;;;32;R$ 16.00;Sim
+2025-07-01;Sams Feira De Santana;Rogesson Geyson Lima da Silva;Eden;Sams;BA;Ricardo;52;R$ 26.00;Sim
+2025-07-01;Atakarejo Alagoinha;Carlos Henrique Barros de Oliveira;Andre;Atakarejo;BA;Ricardo;115;R$ 57.50;Sim
+2025-07-01;Assai Barris;Renato Almeida Barreto;Paulo Noel;Assai;BA;Nixon;53;R$ 26.50;Sim
+2025-06-30;Assai Imbui;Mateus Lima Oliveira;Andre;;;;35;R$ 17.50;Sim
+2025-06-30;Assai Barris;Renato Almeida Barreto;Natal;Assai;BA;Nixon;74;R$ 37.00;Sim
+2025-06-30;Assai Pau Da Lima;Ramon Borges Santos da Paixao;Roque;Assai;BA;Nixon;35;R$ 17.50;Sim
+2025-06-30;Sams Pituba;Luis Alberto Santos Borges;Danilo;Sams;BA;Ricardo;61;R$ 30.50;Sim
+2025-06-30;Assai Imbui;Alessandro Bastos de Almeida;Andre;;;;35;R$ 17.50;Sim
+2025-06-30;Assai Pau Da Lima;Ramon Borges Santos da Paixao;Paulo Noel;Assai;BA;Nixon;20;R$ 10.00;Sim
+2025-06-28;Assai Vasco Da Gama;Crislaine Machado dos Santos;Jancleiton;Assai;BA;Nixon;38;R$ 19.00;Sim
+2025-06-28;Assai Vasco Da Gama;Danilo Regis Santos;Roque;Assai;BA;Nixon;61;R$ 30.50;Sim
+2025-06-28;Atakarejo Engenho Velho De Brotas;Eder Alves de Jesus;Roque;;;;49;R$ 24.50;Sim
+2025-06-28;Assai Imbui;Mateus Lima Oliveira;Danilo;;;;3;R$ 1.50;Sim
+2025-06-28;Assai Imbui;Alessandro Bastos de Almeida;Danilo;;;;3;R$ 1.50;Sim
+2025-06-28;Assai Vasco Da Gama;Crislaine Machado dos Santos;Roque;Assai;BA;Nixon;61;R$ 30.50;Sim
+2025-06-28;Assai Paripe;Claudio Jose De Almeida Santos;Natal;Assai;BA;Nixon;6;R$ 3.00;Sim
+2025-06-28;Assai Vasco Da Gama;Danilo Regis Santos;Jancleiton;Assai;BA;Nixon;38;R$ 19.00;Sim
+2025-06-28;Assai Barris;Renato Almeida Barreto;Jancleiton;Assai;BA;Nixon;55;R$ 27.50;Sim
+2025-06-28;Sams Pituba;Luis Alberto Santos Borges;Paulo Noel;Sams;BA;Ricardo;82;R$ 41.00;Sim
+2025-06-28;Assai Pau Da Lima;Ramon Borges Santos da Paixao;Paulo Noel;Assai;BA;Nixon;18;R$ 9.00;Sim
+2025-06-28;Assai Calcada;Ronalde Bispo Santos;Natal;Assai;BA;Nixon;20;R$ 10.00;Sim
+2025-06-27;Outro;Ronald Souza Dos Santos;Paulo Noel;;;;4;R$ 2.00;Sim
+2025-06-27;Sams Aracaju;Jose Marcio Santos Rocha;Danilo;Sams;SE;Vinicius;39;R$ 19.50;Sim
+2025-06-27;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;55;R$ 27.50;Sim
+2025-06-27;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;55;R$ 27.50;Sim
+2025-06-27;Sams Lauro De Freitas;Jadison de Andrade Santos;Paulo Noel;Sams;BA;Ricardo;42;R$ 21.00;Sim
+2025-06-27;Assai Cabula;Antonio Carlos Santos Sales;Roque;Assai;BA;Nixon;46;R$ 23.00;Sim
+2025-06-27;Assai Imbui;Mateus Lima Oliveira;Anderson;;;;9;R$ 4.50;Sim
+2025-06-27;Assai Imbui;Alessandro Bastos de Almeida;Anderson;;;;9;R$ 4.50;Sim
+2025-06-27;Atakarejo Patamares;Eder Alves de Jesus;Paulo Noel;Atakarejo;BA;Ricardo;86;R$ 43.00;Sim
+2025-06-27;Assai Barris;Renato Almeida Barreto;Paulo Noel;Assai;BA;Nixon;108;R$ 54.00;Sim
+2025-06-26;Assai Imbui;Mateus Lima Oliveira;Andre;;;;20;R$ 10.00;Sim
+2025-06-26;Assai Vasco Da Gama;Crislaine Machado dos Santos;Danilo;Assai;BA;Nixon;51;R$ 25.50;Sim
+2025-06-26;Assai Vasco Da Gama;Danilo Regis Santos;Danilo;Assai;BA;Nixon;51;R$ 25.50;Sim
+2025-06-26;Assai Cabula;Antonio Carlos Santos Sales;Danilo;Assai;BA;Nixon;50;R$ 25.00;Sim
+2025-06-26;Assai Paripe;Claudio Jose De Almeida Santos;Andre;Assai;BA;Nixon;25;R$ 12.50;Sim
+2025-06-26;Assai Imbui;Alessandro Bastos de Almeida;Andre;;;;20;R$ 10.00;Sim
+2025-06-26;Assai Calcada;Ronalde Bispo Santos;Roque;Assai;BA;Nixon;48;R$ 24.00;Sim
+2025-06-26;Assai Camacari;Manoel Messias Gois Junior;Anderson;Assai;BA;Nixon;67;R$ 33.50;Sim
+2025-06-26;Assai Pau Da Lima;Ramon Borges Santos da Paixao;Roque;Assai;BA;Nixon;8;R$ 4.00;Sim
+2025-06-25;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;35;R$ 17.50;Sim
+2025-06-25;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;35;R$ 17.50;Sim
+2025-06-25;Assai Barris;Renato Almeida Barreto;Danilo;Assai;BA;Nixon;50;R$ 25.00;Sim
+2025-06-25;Assai Imbui;Mateus Lima Oliveira;Paulo Noel;;;;30;R$ 15.00;Sim
+2025-06-25;Assai Imbui;Alessandro Bastos de Almeida;Paulo Noel;;;;30;R$ 15.00;Sim
+2025-06-23;Assai Vasco Da Gama;Danilo Regis Santos;Danilo;Assai;BA;Nixon;32;R$ 16.00;Sim
+2025-06-23;Assai Vasco Da Gama;Crislaine Machado dos Santos;Danilo;Assai;BA;Nixon;32;R$ 16.00;Sim
+2025-06-23;Assai Pau Da Lima;Ramon Borges Santos da Paixao;Paulo Noel;Assai;BA;Nixon;66;R$ 33.00;Sim
+2025-06-23;Atakarejo Patamares;Eder Alves de Jesus;Danilo;Atakarejo;BA;Ricardo;71;R$ 35.50;Sim
+2025-06-21;Assai Paripe;Claudio Jose De Almeida Santos;Paulo Noel;Assai;BA;Nixon;7;R$ 3.50;Sim
+2025-06-21;Sams Lauro De Freitas;Jadison de Andrade Santos;Jancleiton;Sams;BA;Ricardo;37;R$ 18.50;Sim
+2025-06-21;Assai Cabula;Antonio Carlos Santos Sales;Eden;Assai;BA;Nixon;50;R$ 25.00;Sim
+2025-06-21;Assai Imbui;Alessandro Bastos de Almeida;Danilo;;;;70;R$ 35.00;Sim
+2025-06-21;Assai Vasco Da Gama;Danilo Regis Santos;Paulo Noel;Assai;BA;Nixon;66;R$ 33.00;Sim
+2025-06-21;Assai Vasco Da Gama;Crislaine Machado dos Santos;Paulo Noel;Assai;BA;Nixon;66;R$ 33.00;Sim
+2025-06-20;Sams Aracaju;Jose Marcio Santos Rocha;Danilo;Sams;SE;Vinicius;48;R$ 24.00;Sim
+2025-06-20;Assai Imbui;Alessandro Bastos de Almeida;Andre;;;;100;R$ 50.00;Sim
+2025-06-20;Assai Cabula;Antonio Carlos Santos Sales;Paulo Noel;Assai;BA;Nixon;60;R$ 30.00;Sim
+2025-06-20;Assai Paripe;Claudio Jose De Almeida Santos;Anderson;Assai;BA;Nixon;26;R$ 13.00;Sim
+2025-06-20;Assai Calcada;Ronald Souza Dos Santos;Anderson;Assai;BA;Nixon;27;R$ 13.50;Sim
+2025-06-20;Sams Pituba;Luis Alberto Santos Borges;Danilo;Sams;BA;Ricardo;50;R$ 25.00;Sim
+2025-06-20;Sams Feira De Santana;Rogesson Geyson Lima da Silva;Natal;Sams;BA;Ricardo;15;R$ 7.50;Sim
+2025-06-20;Mateus Aracaju Santa Monica;Islen Bergson De Jesus Cruz;Danilo;Mateus;SE;Ricardo;35;R$ 17.50;Sim
+2025-06-18;Mateus Jose Conrado De Araujo;Islen Bergson De Jesus Cruz;Danilo;Mateus;SE;Ricardo;36;R$ 18.00;Sim
+2025-06-18;Sams Lauro De Freitas;Jadison de Andrade Santos;Paulo Noel;Sams;BA;Ricardo;34;R$ 17.00;Sim
+2025-06-18;Rmix Stella Maris;Joao Ivan Santos Moreira;Natal;Redemix;BA;Ricardo;16;R$ 8.00;Sim
+2025-06-18;Assai Paripe;Claudio Jose De Almeida Santos;Paulo Noel;Assai;BA;Nixon;12;R$ 6.00;Sim
+2025-06-18;Assai Vasco Da Gama;Danilo Regis Santos;Paulo Noel;Assai;BA;Nixon;55;R$ 27.50;Sim
+2025-06-18;Assai Vasco Da Gama;Crislaine Machado dos Santos;Paulo Noel;Assai;BA;Nixon;55;R$ 27.50;Sim
+2025-06-17;Atakarejo Patamares;Joao Ivan Santos Moreira;Paulo Noel;Atakarejo;BA;Ricardo;65;R$ 32.50;Sim
+2025-06-17;Assai Barris;Renato Almeida Barreto;Anderson;Assai;BA;Nixon;104;R$ 52.00;Sim
+2025-06-17;Assai Cabula;Antonio Carlos Santos Sales;Paulo Noel;Assai;BA;Nixon;65;R$ 32.50;Sim
+2025-06-17;Assai Vasco Da Gama;Crislaine Machado dos Santos;Danilo;Assai;BA;Nixon;60;R$ 30.00;Sim
+2025-06-17;Assai Vasco Da Gama;Danilo Regis Santos;Danilo;Assai;BA;Nixon;60;R$ 30.00;Sim
+2025-06-17;Atakarejo Engenho Velho De Brotas;Antonio Carlos Santos Sales;Roque;;;;15;R$ 7.50;Sim
+2025-06-17;Assai Imbui;Alessandro Bastos de Almeida;Andre;;;;70;R$ 35.00;Sim
+2025-06-17;Rmix Stella Maris;Joao Ivan Santos Moreira;Danilo;Redemix;BA;Ricardo;32;R$ 16.00;Sim
+2025-06-17;Sams Feira De Santana;Rogesson Geyson Lima da Silva;Natal;Sams;BA;Ricardo;20;R$ 10.00;Sim
+2025-06-16;Sams Aracaju;Luis Alberto Santos Borges;Paulo Noel;Sams;SE;Vinicius;101;R$ 50.50;Sim
+2025-06-16;Assai Pau Da Lima;Tiago Saleh Rodrigues;Natal;Assai;BA;Nixon;68;R$ 34.00;Sim
+2025-06-14;Atakarejo Lauro;Hugo de Jesus Conceicao;Andre;Atakarejo;BA;Ricardo;10;R$ 5.00;Sim
+2025-06-14;Assai Paripe;Claudio Jose De Almeida Santos;Danilo;Assai;BA;Nixon;28;R$ 14.00;Sim
+2025-06-14;Assai Calcada;Ronalde Bispo Santos;Natal;Assai;BA;Nixon;18;R$ 9.00;Sim
+2025-06-13;Assai Vasco Da Gama;Danilo Regis Santos;Roque;Assai;BA;Nixon;43;R$ 21.50;Sim
+2025-06-13;Atakarejo Lauro;Hugo de Jesus Conceicao;Anderson;Atakarejo;BA;Ricardo;33;R$ 16.50;Sim
+2025-06-13;Assai Vasco Da Gama;Crislaine Machado dos Santos;Roque;Assai;BA;Nixon;43;R$ 21.50;Sim
+2025-06-13;Sams Aracaju;Jose Marcio Santos Rocha;Danilo;Sams;SE;Vinicius;25;R$ 12.50;Sim
+2025-06-13;Sams Pituba;Luis Alberto Santos Borges;Paulo Noel;Sams;BA;Ricardo;67;R$ 33.50;Sim
+2025-06-13;Atakarejo Aracaju;Carlos Henrique Barros de Oliveira;Danilo;Atakarejo;SE;Ricardo;76;R$ 38.00;Sim
+2025-06-13;Sams Feira De Santana;Rogesson Geyson Lima da Silva;Andre;Sams;BA;Ricardo;34;R$ 17.00;Sim
+2025-06-12;Atakarejo Itacimirim;Manoel Messias Gois Junior;Eden;Atakarejo;BA;Ricardo;37;R$ 18.50;Sim
+2025-06-12;Assai Paripe;Claudio Jose De Almeida Santos;Roque;Assai;BA;Nixon;64;R$ 32.00;Sim
+2025-06-12;Assai Calcada;Ronalde Bispo Santos;Paulo Noel;Assai;BA;Nixon;27;R$ 13.50;Sim
+2025-06-12;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;33;R$ 16.50;Sim
+2025-06-12;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;33;R$ 16.50;Sim
+2025-06-12;Assai Imbui;Mateus Lima Oliveira;Andre;;;;20;R$ 10.00;Sim
+2025-06-12;Assai Imbui;Alessandro Bastos de Almeida;Andre;;;;20;R$ 10.00;Sim
+2025-06-11;Assai Vasco Da Gama;Danilo Regis Santos;Roque;Assai;BA;Nixon;38;R$ 19.00;Sim
+2025-06-11;Assai Vasco Da Gama;Crislaine Machado dos Santos;Roque;Assai;BA;Nixon;38;R$ 19.00;Sim
+2025-06-11;Redemix ChameChame;Ronald Souza Dos Santos;Danilo;;;;26;R$ 13.00;Sim
+2025-06-11;Assai Barris;Renato Almeida Barreto;Natal;Assai;BA;Nixon;35;R$ 17.50;Sim
+2025-06-11;Assai Cabula;Antonio Carlos Santos Sales;Andre;Assai;BA;Nixon;135;R$ 67.50;Sim
+2025-06-10;Atakarejo Itacimirim;Manoel Messias Gois Junior;Anderson;Atakarejo;BA;Ricardo;217;R$ 108.50;Sim
+2025-06-10;Atakarejo Lauro;Eder Alves de Jesus;Anderson;Atakarejo;BA;Ricardo;50;R$ 25.00;Sim
+2025-06-10;Assai Pau Da Lima;Tiago Saleh Rodrigues;Andre;Assai;BA;Nixon;100;R$ 50.00;Sim
+2025-06-10;Assai Paripe;Claudio Jose De Almeida Santos;Natal;Assai;BA;Nixon;63;R$ 31.50;Sim
+2025-06-10;Assai Calcada;Ronalde Bispo Santos;Natal;Assai;BA;Nixon;25;R$ 12.50;Sim
+2025-06-10;Assai Imbui;Mateus Lima Oliveira;Andre;;;;76;R$ 38.00;Sim
+2025-06-10;Assai Vasco Da Gama;Danilo Regis Santos;Roque;Assai;BA;Nixon;52;R$ 26.00;Sim
+2025-06-10;Assai Vasco Da Gama;Crislaine Machado dos Santos;Roque;Assai;BA;Nixon;52;R$ 26.00;Sim
+2025-06-09;Assai Vasco Da Gama;Danilo Regis Santos;Anderson;Assai;BA;Nixon;51;R$ 25.50;Sim
+2025-06-09;Assai Vasco Da Gama;Crislaine Machado dos Santos;Anderson;Assai;BA;Nixon;51;R$ 25.50;Sim
+2025-06-09;Assai Imbui;Mateus Lima Oliveira;Danilo;;;;113;R$ 56.50;Sim
+2025-06-09;Gbarbosa Costa Azul;Hugo de Jesus Conceicao;Natal;;;;15;R$ 7.50;Sim
+2025-06-09;Sams Pituba;Luis Alberto Santos Borges;Jancleiton;Sams;BA;Ricardo;158;R$ 79.00;Sim
+2025-06-09;Assai Barris;Renato Almeida Barreto;Paulo Noel;Assai;BA;Nixon;101;R$ 50.50;Sim
+2025-06-09;Sams Lauro De Freitas;Jadison de Andrade Santos;Danilo;Sams;BA;Ricardo;74;R$ 37.00;Sim
+2025-06-07;Assai Vasco Da Gama;Danilo Regis Santos;Paulo Noel;Assai;BA;Nixon;37;R$ 18.50;Sim
+2025-06-07;Assai Vasco Da Gama;Crislaine Machado dos Santos;Paulo Noel;Assai;BA;Nixon;37;R$ 18.50;Sim
+2025-06-07;Assai Imbui;Mateus Lima Oliveira;Andre;;;;90;R$ 45.00;Sim
+2025-06-07;Assai Calcada;Ronalde Bispo Santos;Anderson;Assai;BA;Nixon;52;R$ 26.00;Sim
+2025-06-07;Assai Barris;Renato Almeida Barreto;Anderson;Assai;BA;Nixon;43;R$ 21.50;Sim
+2025-06-07;Gbarbosa Costa Azul;Hugo de Jesus Conceicao;Natal;;;;27;R$ 13.50;Sim
+2025-06-06;Assai Barris;Renato Almeida Barreto;Eden;Assai;BA;Nixon;8;R$ 4.00;Sim
+2025-06-06;Assai Cabula;Antonio Carlos Santos Sales;Roque;Assai;BA;Nixon;60;R$ 30.00;Sim
+2025-06-06;Assai Calcada;Ronalde Bispo Santos;Andre;Assai;BA;Nixon;27;R$ 13.50;Sim
+2025-06-06;Assai Camacari;Manoel Messias Gois Junior;Jancleiton;Assai;BA;Nixon;23;R$ 11.50;Sim
+2025-06-06;Assai Imbui;Mateus Lima Oliveira;Paulo Noel;;;;84;R$ 42.00;Sim
+2025-06-06;Assai Paripe;Claudio Jose De Almeida Santos;Anderson;Assai;BA;Nixon;67;R$ 33.50;Sim
+2025-06-06;Assai Pau Da Lima;Tiago Saleh Rodrigues;Danilo;Assai;BA;Nixon;27;R$ 13.50;Sim
+2025-06-06;Atakarejo Patamares;Joao Ivan Santos Moreira;Paulo Noel;Atakarejo;BA;Ricardo;54;R$ 27.00;Sim
+2025-06-06;Atakarejo Engenho Velho De Brotas;Antonio Carlos Santos Sales;Roque;;;;40;R$ 20.00;Sim
+2025-06-06;Mateus Jose Conrado De Araujo;Islen Bergson De Jesus Cruz;Danilo;Mateus;SE;Ricardo;59;R$ 29.50;Sim
+2025-06-06;Rmix Stella Maris;Joao Ivan Santos Moreira;Paulo Noel;Redemix;BA;Ricardo;13;R$ 6.50;Sim
+2025-06-06;Sams Lauro De Freitas;Jadison de Andrade Santos;Jancleiton;Sams;BA;Ricardo;10;R$ 5.00;Sim
+2025-06-05;Atakarejo Lauro;Joao Ivan Santos Moreira;Paulo Noel;Atakarejo;BA;Ricardo;95;R$ 47.50;Sim
+2025-06-05;Assai Barris;Renato Almeida Barreto;Natal;Assai;BA;Nixon;44;R$ 22.00;Sim
+2025-06-05;Assai Cabula;Antonio Carlos Santos Sales;Anderson;Assai;BA;Nixon;95;R$ 47.50;Sim
+2025-06-05;Assai Paripe;Claudio Jose De Almeida Santos;Andre;Assai;BA;Nixon;35;R$ 17.50;Sim
+2025-06-05;Sams Lauro De Freitas;Jadison de Andrade Santos;Paulo Noel;Sams;BA;Ricardo;50;R$ 25.00;Sim
+2025-06-05;Gbarbosa Costa Azul;Hugo de Jesus Conceicao;Eden;;;;15;R$ 7.50;Sim
+2025-06-05;Assai Pau Da Lima;Tiago Saleh Rodrigues;Eden;Assai;BA;Nixon;55;R$ 27.50;Sim
+2025-06-04;Assai Imbui;Mateus Lima Oliveira;Andre;;;;63;R$ 31.50;Sim
+2025-06-04;Rmix Stella Maris;Joao Ivan Santos Moreira;Paulo Noel;Redemix;BA;Ricardo;14;R$ 7.00;Sim
+2025-06-04;Redemix ChameChame;Ronald Souza Dos Santos;Jancleiton;;;;19;R$ 9.50;Sim
+2025-06-04;Mateus Jose Conrado De Araujo;Islen Bergson De Jesus Cruz;Danilo;Mateus;SE;Ricardo;86;R$ 43.00;Sim
+2025-06-03;Assai Imbui;Mateus Lima Oliveira;Paulo Noel;;;;51;R$ 25.50;Sim
+2025-06-03;Sams Feira De Santana;Rogesson Geyson Lima da Silva;Eden;Sams;BA;Ricardo;33;R$ 16.50;Sim
+2025-06-03;Assai Calcada;Ronalde Bispo Santos;Natal;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-06-03;Assai Vasco Da Gama;Eder Alves de Jesus;Roque;Assai;BA;Nixon;22;R$ 11.00;Sim
+2025-06-03;Assai Vasco Da Gama;Danilo Regis Santos;Roque;Assai;BA;Nixon;22;R$ 11.00;Sim
+2025-06-03;Assai Vasco Da Gama;Eder Alves de Jesus;Roque;Assai;BA;Nixon;37;R$ 18.50;Sim
+2025-06-03;Assai Vasco Da Gama;Danilo Regis Santos;Roque;Assai;BA;Nixon;37;R$ 18.50;Sim
+2025-06-03;Atakarejo Aracaju;Islen Bergson De Jesus Cruz;Andre;Atakarejo;SE;Ricardo;106;R$ 53.00;Sim
+2025-06-03;Atakarejo Lauro;Joao Ivan Santos Moreira;Jancleiton;Atakarejo;BA;Ricardo;75;R$ 37.50;Sim
+2025-06-03;Atakarejo Engenho Velho De Brotas;Antonio Carlos Santos Sales;Roque;;;;72;R$ 36.00;Sim
+2025-06-03;Gbarbosa Costa Azul;Hugo de Jesus Conceicao;Natal;;;;20;R$ 10.00;Sim
+2025-06-03;Sams Aracaju;Carlos Henrique Barros de Oliveira;Andre;Sams;SE;Vinicius;50;R$ 25.00;Sim
+2025-06-03;Sams Lauro De Freitas;Jadison de Andrade Santos;Paulo Noel;Sams;BA;Ricardo;35;R$ 17.50;Sim
+2025-06-02;Assai Calcada;Ronalde Bispo Santos;Paulo Noel;Assai;BA;Nixon;57;R$ 28.50;Sim
+2025-06-02;Rmix Stella Maris;Joao Ivan Santos Moreira;Jancleiton;Redemix;BA;Ricardo;14;R$ 7.00;Sim
+2025-06-02;Sams Pituba;Luis Alberto Santos Borges;Paulo Noel;Sams;BA;Ricardo;70;R$ 35.00;Sim
+2025-06-02;Assai Vasco Da Gama;Danilo Regis Santos;Andre;Assai;BA;Nixon;72;R$ 36.00;Sim
+2025-06-02;Assai Vasco Da Gama;Eder Alves de Jesus;Andre;Assai;BA;Nixon;72;R$ 36.00;Sim
+2025-06-02;Assai Imbui;Mateus Lima Oliveira;Danilo;;;;55;R$ 27.50;Sim
+2025-05-31;Assai Imbui;Mateus Lima Oliveira;Paulo Noel;;;;66;R$ 33.00;Sim
+2025-05-31;Atakarejo Engenho Velho De Brotas;Antonio Carlos Santos Sales;Roque;;;;44;R$ 22.00;Sim
+2025-05-31;Atakarejo Itacimirim;Manoel Messias Gois Junior;Danilo;Atakarejo;BA;Ricardo;82;R$ 41.00;Sim
+2025-05-31;Atakarejo Lauro;Joao Ivan Santos Moreira;Danilo;Atakarejo;BA;Ricardo;83;R$ 41.50;Sim
+2025-05-31;Sams Pituba;Luis Alberto Santos Borges;Danilo;Sams;BA;Ricardo;75;R$ 37.50;Sim
+2025-05-31;Assai Paripe;Claudio Jose De Almeida Santos;Eden;Assai;BA;Nixon;43;R$ 21.50;Sim
+2025-05-31;Assai Barris;Renato Almeida Barreto;Natal;Assai;BA;Nixon;57;R$ 28.50;Sim
+2025-05-31;Assai Pau Da Lima;Tiago Saleh Rodrigues;Anderson;Assai;BA;Nixon;68;R$ 34.00;Sim
+2025-05-31;Gbarbosa Costa Azul;Hugo de Jesus Conceicao;Danilo;;;;35;R$ 17.50;Sim
+2025-05-30;Rmix Stella Maris;Joao Ivan Santos Moreira;Danilo;Redemix;BA;Ricardo;17;R$ 8.50;Sim
+2025-05-30;Assai Vasco Da Gama;Crislaine Machado dos Santos;Roque;Assai;BA;Nixon;85;R$ 42.50;Sim
+2025-05-30;Assai Vasco Da Gama;Danilo Regis Santos;Roque;Assai;BA;Nixon;85;R$ 42.50;Sim
+2025-05-30;Assai Cabula;Antonio Carlos Santos Sales;Anderson;Assai;BA;Nixon;18;R$ 9.00;Sim
+2025-05-30;Sams Feira De Santana;Rogesson Geyson Lima da Silva;Andre;Sams;BA;Ricardo;31;R$ 15.50;Sim
+2025-05-30;Atakarejo Aracaju;Islen Bergson De Jesus Cruz;Danilo;Atakarejo;SE;Ricardo;90;R$ 45.00;Sim
+2025-05-29;Atakarejo Patamares;Ronald Souza Dos Santos;Paulo Noel;Atakarejo;BA;Ricardo;21;R$ 10.50;Sim
+2025-05-29;Atakarejo Itacimirim;Manoel Messias Gois Junior;Natal;Atakarejo;BA;Ricardo;134;R$ 67.00;Sim
+2025-05-29;Assai Pau Da Lima;Tiago Saleh Rodrigues;Andre;Assai;BA;Nixon;90;R$ 45.00;Sim
+2025-05-29;Assai Imbui;Mateus Lima Oliveira;Andre;;;;29;R$ 14.50;Sim
+2025-05-29;Assai Paripe;Claudio Jose De Almeida Santos;Eden;Assai;BA;Nixon;13;R$ 6.50;Sim
+2025-05-29;Assai Vasco Da Gama;Danilo Regis Santos;Paulo Noel;Assai;BA;Nixon;42;R$ 21.00;Sim
+2025-05-29;Assai Vasco Da Gama;Crislaine Machado dos Santos;Paulo Noel;Assai;BA;Nixon;42;R$ 21.00;Sim
+2025-05-29;Assai Barris;Renato Almeida Barreto;Paulo Noel;Assai;BA;Nixon;28;R$ 14.00;Sim
+2025-05-28;Assai Barris;Renato Almeida Barreto;Paulo Noel;Assai;BA;Nixon;47;R$ 23.50;Sim
+2025-05-28;Atakarejo Itacimirim;Manoel Messias Gois Junior;Anderson;Atakarejo;BA;Ricardo;62;R$ 31.00;Sim
+2025-05-28;Sams Pituba;Luis Alberto Santos Borges;Danilo;Sams;BA;Ricardo;45;R$ 22.50;Sim
+2025-05-28;Assai Vasco Da Gama;Crislaine Machado dos Santos;Andre;Assai;BA;Nixon;55;R$ 27.50;Sim
+2025-05-28;Assai Vasco Da Gama;Danilo Regis Santos;Andre;Assai;BA;Nixon;55;R$ 27.50;Sim
+2025-05-28;Sams Lauro De Freitas;Jadison de Andrade Santos;Paulo Noel;Sams;BA;Ricardo;90;R$ 45.00;Sim
+2025-05-27;Assai Calcada;Ronalde Bispo Santos;Paulo Noel;Assai;BA;Nixon;57;R$ 28.50;Sim
+2025-05-27;Assai Vasco Da Gama;Danilo Regis Santos;Eden;Assai;BA;Nixon;11;R$ 5.50;Sim
+2025-05-27;Assai Vasco Da Gama;Crislaine Machado dos Santos;Eden;Assai;BA;Nixon;11;R$ 5.50;Sim
+2025-05-27;Assai Imbui;Mateus Lima Oliveira;Paulo Noel;;;;47;R$ 23.50;Sim
+2025-05-27;Sams Aracaju;Carlos Henrique Barros de Oliveira;Paulo Noel;Sams;SE;Vinicius;50;R$ 25.00;Sim
+2025-05-27;Sams Feira De Santana;Rogesson Geyson Lima da Silva;Natal;Sams;BA;Ricardo;37;R$ 18.50;Sim
+2025-05-27;Assai Cabula;Ronald Souza Dos Santos;Roque;Assai;BA;Nixon;33;R$ 16.50;Sim
+2025-05-27;Assai Paripe;Claudio Jose De Almeida Santos;Roque;Assai;BA;Nixon;18;R$ 9.00;Sim
+2025-05-26;Assai Vasco Da Gama;Crislaine Machado dos Santos;Andre;Assai;BA;Nixon;23;R$ 11.50;Sim
+2025-05-26;Redemix ChameChame;Antonio Carlos Santos Sales;Anderson;;;;13;R$ 6.50;Sim
+2025-05-26;Sams Pituba;Luis Alberto Santos Borges;Danilo;Sams;BA;Ricardo;70;R$ 35.00;Sim
+2025-05-26;Assai Imbui;Mateus Lima Oliveira;Paulo Noel;;;;205;R$ 102.50;Sim
+2025-05-26;Assai Vasco Da Gama;Danilo Regis Santos;Andre;Assai;BA;Nixon;23;R$ 11.50;Sim
+2025-05-26;Atakarejo Engenho Velho De Brotas;Antonio Carlos Santos Sales;Andre;;;;55;R$ 27.50;Sim
+2025-05-26;Assai Barris;Renato Almeida Barreto;Andre;Assai;BA;Nixon;128;R$ 64.00;Sim
+2025-05-26;Atakarejo Lauro;Joao Ivan Santos Moreira;Eden;Atakarejo;BA;Ricardo;84;R$ 42.00;Sim
+2025-05-26;Gbarbosa Costa Azul;Hugo de Jesus Conceicao;Danilo;;;;39;R$ 19.50;Sim
+2025-05-24;Assai Paripe;Claudio Jose De Almeida Santos;Paulo Noel;Assai;BA;Nixon;32;R$ 16.00;Sim
+2025-05-24;Assai Vasco Da Gama;Crislaine Machado dos Santos;Danilo;Assai;BA;Nixon;72;R$ 36.00;Sim
+2025-05-24;Assai Vasco Da Gama;Danilo Regis Santos;Danilo;Assai;BA;Nixon;72;R$ 36.00;Sim
+2025-05-23;Atakarejo Itacimirim;Manoel Messias Gois Junior;Anderson;Atakarejo;BA;Ricardo;60;R$ 30.00;Sim
+2025-05-23;Atakarejo Engenho Velho De Brotas;Aquila Vieira de Jesus Silva;Paulo Noel;;;;50;R$ 25.00;Sim
+2025-05-23;Atakarejo Engenho Velho De Brotas;Ramon Borges Santos da Paixao;Paulo Noel;;;;50;R$ 25.00;Sim
+2025-05-23;Sams Pituba;Luis Alberto Santos Borges;Andre;Sams;BA;Ricardo;97;R$ 48.50;Sim
+2025-05-23;Assai Cabula;Ronald Souza Dos Santos;Danilo;Assai;BA;Nixon;19;R$ 9.50;Sim
+2025-05-23;Sams Lauro De Freitas;Jadison de Andrade Santos;Anderson;Sams;BA;Ricardo;45;R$ 22.50;Sim
+2025-05-23;Atakarejo Aracaju;Islen Bergson De Jesus Cruz;Danilo;Atakarejo;SE;Ricardo;180;R$ 90.00;Sim
+2025-05-22;Assai Calcada;Ronalde Bispo Santos;Andre;Assai;BA;Nixon;20;R$ 10.00;Sim
+2025-05-22;Assai Cabula;Ronald Souza Dos Santos;Roque;Assai;BA;Nixon;54;R$ 27.00;Sim
+2025-05-22;Assai Imbui;Mateus Lima Oliveira;Eden;;;;50;R$ 25.00;Sim
+2025-05-22;Assai Pau Da Lima;Tiago Saleh Rodrigues;Eden;Assai;BA;Nixon;53;R$ 26.50;Sim
+2025-05-22;Assai Vasco Da Gama;Danilo Regis Santos;Paulo Noel;Assai;BA;Nixon;33;R$ 16.50;Sim
+2025-05-22;Assai Vasco Da Gama;Crislaine Machado dos Santos;Paulo Noel;Assai;BA;Nixon;33;R$ 16.50;Sim
+2025-05-21;Sams Aracaju;Carlos Henrique Barros de Oliveira;Danilo;Sams;SE;Vinicius;133;R$ 66.50;Sim
+2025-05-21;Sams Feira De Santana;Rogesson Geyson Lima da Silva;Natal;Sams;BA;Ricardo;52;R$ 26.00;Sim
+2025-05-21;Sams Lauro De Freitas;Jadison de Andrade Santos;Roque;Sams;BA;Ricardo;65;R$ 32.50;Sim
+2025-05-21;Gbarbosa Costa Azul;Hugo de Jesus Conceicao;Paulo Noel;;;;49;R$ 24.50;Sim
+2025-05-21;Redemix ChameChame;Antonio Carlos Santos Sales;Paulo Noel;;;;21;R$ 10.50;Sim
+2025-05-21;Assai Imbui;Mateus Lima Oliveira;Eden;;;;53;R$ 26.50;Sim
+2025-05-20;Sams Pituba;Luis Alberto Santos Borges;Danilo;Sams;BA;Ricardo;105;R$ 52.50;Sim
+2025-05-20;Assai Calcada;Ronalde Bispo Santos;Danilo;Assai;BA;Nixon;38;R$ 19.00;Sim
+2025-05-20;Atakarejo Patamares;Eder Alves de Jesus;Paulo Noel;Atakarejo;BA;Ricardo;52;R$ 26.00;Sim
+2025-05-20;Gbarbosa Costa Azul;Hugo de Jesus Conceicao;Paulo Noel;;;;18;R$ 9.00;Sim
+2025-05-20;Assai Vasco Da Gama;Danilo Regis Santos;Danilo;Assai;BA;Nixon;52;R$ 26.00;Sim
+2025-05-20;Assai Vasco Da Gama;Crislaine Machado dos Santos;Danilo;Assai;BA;Nixon;52;R$ 26.00;Sim
+2025-05-20;Assai Imbui;Mateus Lima Oliveira;Paulo Noel;;;;82;R$ 41.00;Sim
+2025-05-19;Redemix ChameChame;Antonio Carlos Santos Sales;Anderson;;;;12;R$ 6.00;Sim
+2025-05-19;Assai Vasco Da Gama;Danilo Regis Santos;Paulo Noel;Assai;BA;Nixon;50;R$ 25.00;Sim
+2025-05-19;Assai Barris;Renato Almeida Barreto;Danilo;Assai;BA;Nixon;104;R$ 52.00;Sim
+2025-05-19;Assai Imbui;Mateus Lima Oliveira;Andre;;;;196;R$ 98.00;Sim
+2025-05-19;Assai Pau Da Lima;Tiago Saleh Rodrigues;Andre;Assai;BA;Nixon;63;R$ 31.50;Sim
+2025-05-19;Assai Vasco Da Gama;Crislaine Machado dos Santos;Paulo Noel;Assai;BA;Nixon;50;R$ 25.00;Sim
+2025-05-19;Assai Pau Da Lima;Tiago Saleh Rodrigues;Natal;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-05-17;Assai Vasco Da Gama;Crislaine Machado dos Santos;Danilo;Assai;BA;Nixon;21;R$ 10.50;Sim
+2025-05-17;Assai Calcada;Ronalde Bispo Santos;Natal;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-05-17;Gbarbosa Costa Azul;Hugo de Jesus Conceicao;Anderson;;;;22;R$ 11.00;Sim
+2025-05-17;Assai Vasco Da Gama;Danilo Regis Santos;Danilo;Assai;BA;Nixon;21;R$ 10.50;Sim
+2025-05-16;Atakarejo Engenho Velho De Brotas;Antonio Carlos Santos Sales;Danilo;;;;170;R$ 85.00;Sim
+2025-05-16;Atakarejo Itacimirim;Manoel Messias Gois Junior;Anderson;Atakarejo;BA;Ricardo;44;R$ 22.00;Sim
+2025-05-16;Assai Vasco Da Gama;Crislaine Machado dos Santos;Danilo;Assai;BA;Nixon;32;R$ 16.00;Sim
+2025-05-16;Assai Vasco Da Gama;Danilo Regis Santos;Danilo;Assai;BA;Nixon;32;R$ 16.00;Sim
+2025-05-16;Assai Cabula;Ronald Souza Dos Santos;Paulo Noel;Assai;BA;Nixon;33;R$ 16.50;Sim
+2025-05-16;Assai Barris;Renato Almeida Barreto;Roque;Assai;BA;Nixon;26;R$ 13.00;Sim
+2025-05-16;Assai Paripe;Claudio Jose De Almeida Santos;Danilo;Assai;BA;Nixon;4;R$ 2.00;Sim
+2025-05-15;Sams Feira De Santana;Rogesson Geyson Lima da Silva;Eden;Sams;BA;Ricardo;25;R$ 12.50;Sim
+2025-05-15;Atakarejo Aracaju;Islen Bergson De Jesus Cruz;Danilo;Atakarejo;SE;Ricardo;110;R$ 55.00;Sim
+2025-05-15;Atakarejo Aracaju;Islen Bergson De Jesus Cruz;Danilo;Atakarejo;SE;Ricardo;158;R$ 79.00;Sim
+2025-05-15;Gbarbosa Costa Azul;Hugo de Jesus Conceicao;Andre;;;;9;R$ 4.50;Sim
+2025-05-15;Assai Imbui;Mateus Lima Oliveira;Paulo Noel;;;;75;R$ 37.50;Sim
+2025-05-15;Assai Vasco Da Gama;Eder Alves de Jesus;Roque;Assai;BA;Nixon;10;R$ 5.00;Sim
+2025-05-15;Assai Vasco Da Gama;Danilo Regis Santos;Roque;Assai;BA;Nixon;10;R$ 5.00;Sim
+2025-05-15;Sams Aracaju;Carlos Henrique Barros de Oliveira;Danilo;Sams;SE;Vinicius;159;R$ 79.50;Sim
+2025-05-15;Assai Paripe;Claudio Jose De Almeida Santos;Natal;Assai;BA;Nixon;18;R$ 9.00;Sim
+2025-05-15;Assai Barris;Renato Almeida Barreto;Danilo;Assai;BA;Nixon;149;R$ 74.50;Sim
+2025-05-14;Assai Vasco Da Gama;Danilo Regis Santos;Roque;Assai;BA;Nixon;46;R$ 23.00;Sim
+2025-05-14;Assai Calcada;Ronalde Bispo Santos;Anderson;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-05-14;Assai Imbui;Mateus Lima Oliveira;Eden;;;;109;R$ 54.50;Sim
+2025-05-14;Atakarejo Aracaju;Islen Bergson De Jesus Cruz;Paulo Noel;Atakarejo;SE;Ricardo;45;R$ 22.50;Sim
+2025-05-14;Sams Lauro De Freitas;Jadison de Andrade Santos;Danilo;Sams;BA;Ricardo;25;R$ 12.50;Sim
+2025-05-14;Gbarbosa Costa Azul;Hugo de Jesus Conceicao;Paulo Noel;;;;19;R$ 9.50;Sim
+2025-05-14;Assai Vasco Da Gama;Eder Alves de Jesus;Roque;Assai;BA;Nixon;46;R$ 23.00;Sim
+2025-05-14;Assai Camacari;Manoel Messias Gois Junior;Danilo;Assai;BA;Nixon;39;R$ 19.50;Sim
+2025-05-13;Assai Pau Da Lima;Tiago Saleh Rodrigues;Andre;Assai;BA;Nixon;30;R$ 15.00;Sim
+2025-05-12;Assai Imbui;Mateus Lima Oliveira;Eden;;;;24;R$ 12.00;Sim
+2025-05-12;Sams Pituba;Luis Alberto Santos Borges;Danilo;Sams;BA;Ricardo;94;R$ 47.00;Sim
+2025-05-12;Assai Pau Da Lima;Tiago Saleh Rodrigues;Andre;Assai;BA;Nixon;41;R$ 20.50;Sim

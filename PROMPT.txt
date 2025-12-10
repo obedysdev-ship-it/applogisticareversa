@@ -1,0 +1,471 @@
+RECRIAR ESSE app:
+
+Nome: LOGReversa-GDM
+
+LEIA TODOS OS ARQUIVOS ATUAIS E RECRIE ESSE APP
+RESPONSIVO, DESKTOP E MOBILE COM PWA.
+BONITO, MODERNO, PROFISSIONAL
+USE REACT, TYPESCRIPT, JAVASCRIPT, CSS, HTML
+USE O SUPABASE PARA SALVAR OS DADOS + EXPORTAÇÃO EM TEMPO REAL PARA O GOOGLE SHEETS PARA OS DADOS REGISTRADOS.
+
+AO ACESSO DO APP NAO SERÁ LOGIN E SENHA, SERA APENAS SENHA.
+
+4 telas com menu responsivo Lateral:
+
+1° Tela do APP: Tela de Dashboard Nessa tela, terá um resumo geral com:
+
+Terá alguns filtros para utilizar: Data Cliente Promotor Fretista
+
+Terá também os resumos:
+
+Soma Total por cliente Soma Total por promotor Soma Total por fretista
+
+Soma Qtd caixas por cliente Soma Qtd caixas por promotor Soma Qtd caixas por fretista
+
+Top 5 clientes em Soma Qtd Caixas Top 5 promotores em Soma Total Total 5 fretistas em Soma Total
+
+2° Tela do APP: tela de registros
+
+Data:
+Cliente:
+Promotor:
+Fretista:
+Qtd Caixas:
+Total (será calculado automático, será o valor de 0,50 multiplicado pela quantidade digitada no registro) ou seja, ao digitar a quantidade no campo Qtd Caixas, o campo total fará a conta automática e preencherá sozinho com o valor baseado na multiplicação por 0,50. 7.Status Revisado (Sim ou Não)
+3° tela: tela de Revisão Nessa tela, é possível visualizar todos os registros ja realizados, e pode-se alterar ou excluir qualquer um dos registros. Pode-se confirmar o status tambem de Revisado ( sim ou não )
+
+4° Tela do APP: Resumo Nessa tela, terá alguns filtro: Data, Promotor, Fretista, Cliente. Onde pode ser selecionado para que possa ser filtrado um Resumo Especifico. Esse resumo trará todos os registros ordenados por data. Trará: Promotor, Fretista, Cliente, (Vai depender do filtro selecionado), Datas de registros, os registros das Qtd Caixas, e os Total registrados. No final do resumo, terá o total somado da qtd caixas e a soma do total)
+
+Nessa mesma tela terá um botão (Enviar Resumo) onde ao ser clicado, vai gerar todo esse resumo (digitado) e será encaminhado automaticamente para o WhatsApp, onde posso escolher em qual contato ou grupo enviar.
+
+Nessa mesma tela também tera um botão (Exportar CSV), onde poderá ser baixado um arquivo com todos os registros ja realizados ou baseado nos filtros selecionados. Follow Google's Material Design principles with paper-like cards, bold colors, and responsive animations. Use elevation shadows to indicate hierarchy and focus. Implement a consistent grid system with proper spacing and alignment. Buttons should be flat with hover effects and ripple animations on click. Use Google's typeface recommendations and follow Material color palette guidelines. Add subtle transitions between states and responsive micro-interactions.
+
+Incluir um filtro de data por período entre duas datas selecionadas (semana, mês ou ano) na tela dashboard e na tela de resumo
+
+
+INCLUIR FILTRO NA TELA DE REVISÃO E DASHBOARD: PROMOTOR (COM LISTA DE SELAÇÃO COMPLETA) CLIENTE (COM LISTA DE SELAÇÃO COMPLETA) FRETISTA (DA LISTA DE FRETISTAS) DATA (ENTRE DUAS DATAS PRE SELECIONADAS E/OU SEMANA, MES, ANO) FILTRO DE STATUS (REVISADO E PENDENTE)
+
+NA TELA DE DASHBOARD, OS 3 GRAFICOS DE TOP 5 QUERO QUE VIRE TOP 10
+
+INCLUIR LISTAS DE FRETISTAS, PROMOTORES E CLIENTES NOS CAMPOS DE PROMOTORES E CLIENTES E FRETISTAS, NA TELA DE REGISTROS E NOS FILTROS NA TELA DE REVISAO E RESUMO
+
+SEGUE LISTA DE FRETISTAS:
+
+Anderson Andre Danilo Eden Ednilson Elvis Gildasio Jancleiton Josenilson Natal Paulo Noel Roque Outro (Digitar Manual)
+
+OBSERVAÇÃO: AO ESCOLHER A OPÇÃO "Outro (Digitar Manual), vai gerar um novo campo onde o usuário vai digitar manualmente o nome que quiser.
+
+SEGUE LISTA COM NOMES DOS PROMOTORES:
+
+Alessandro Bastos de Almeida Alex Santos Nascimento Anderson Nunes da Silva Antonio Carlos Santos Sales Antonio de jesus cerqueira Aquila Vieira de Jesus Silva Bianca da Silva Varjao Caio Wenner Santos Rudnicki Carlos Henrique Barros de Oliveira Claudio Jose De Almeida Santos Crislaine Machado dos Santos Danilo Regis Santos Douglas de Jesus Reis Eder Alves de Jesus Fernando Pereira da Silva Junior Filipe Carvalho Costa Geocacio Pereira da Silva Gilmario da Conceicao Silva Hugo de Jesus Conceicao Islen Bergson De Jesus Cruz Jadison de Andrade Santos Joabe dos Santos Silva Joao Ivan Santos Moreira Jobson Emanuel Dos Santos Jose Marcio Santos Rocha Lucas Macedo Imbirussu Luis Alberto Santos Borges Manoel Messias Gois Junior Mateus Lima Oliveira Nixon de Jesus Araujo Ramon Borges Santos da Paixao Renato Almeida Barreto Richard Dos Santos Reis Robson da Silva Domiciano Rogesson Geyson Lima da Silva Ronald Souza Dos Santos Ronalde Bispo Santos Tiago Saleh Rodrigues Outro (Digitar Manual)
+
+OBSERVAÇÃO: AO ESCOLHER A OPÇÃO "Outro (Digitar Manual), vai gerar um novo campo onde o usuário vai digitar manualmente o nome que quiser.
+
+SEGUE LISTA COM NOMES DOS CLIENTES:
+
+Armazem Cecilio Mota
+Assai Aeroporto
+Assai Barris
+Assai Cabula
+Assai Calcada
+Assai Camacari
+Assai Feira Sobradinho
+Assai Imbui
+Assai Inacio Barbosa
+Assai Jose Conrado De Araujo
+Assai Juazeiro
+Assai Lauro De Freitas
+Assai Luis Anselmo
+Assai Mussurunga
+Assai Nossa Sra Do Socorro
+Assai Paripe
+Assai Pau Da Lima
+Assai Petrolina
+Assai Porto
+Assai Sr Do Bonfim
+Assai Tomba
+Assai Vasco Da Gama
+Atac Camacari
+Atac Camacari Centro
+Atac Mares
+Atac Petrolina
+Atakarejo Sao Goncalo Dos Campos
+Atakarejo Alagoinha
+Atakarejo Aracaju
+Atakarejo Baixa De Quintas
+Atakarejo Boca Do Rio
+Atakarejo Camacari
+Atakarejo Cd Simoes Filho
+Atakarejo Cd Vitoria Da Conquista
+Atakarejo Engenho Velho De Brotas
+Atakarejo Feira De Santana
+Atakarejo Iguatemi
+Atakarejo Ilha
+Atakarejo Ilheus
+Atakarejo Itacimirim
+Atakarejo Lauro
+Atakarejo Patamares
+Atakarejo Patamares Pinto De Aguiar
+Atakarejo Pernambues
+Atakarejo Piata
+Atakarejo Porto Seguro
+Atakarejo Salvador
+Atakarejo Simoes Filho
+Atakarejo Vitoria Da Conquista
+Benassi Ceasa
+Bontempo Supermercados
+Caravelas Comercial De Alimentos Ltda
+Carballo Faro Horto
+Carballo Faro Pituba
+Carballo Faro Alphaville
+Cbd Costa Azul
+Cdp Alagoinhas
+Cdp Alagoinhas Loja
+Cdp Armacao Stiep Loja
+Cdp Boca Do Rio Loja
+Cdp Castelo Branco Loja
+Cdp Catu Loja
+Cdp Cd Monte Libano
+Cdp Centro Sede
+Cdp Centro Dias Davila
+Cdp Manoel Dia D'Avila Loja
+Cdp Marechal Rondon Loja
+Cdp Mata Premium Lj
+Cdp Ogunja Loja
+Cdp Rodoviaria Loja
+Cdp Sao Caetano Loja
+Cdp Sete Portas Loja
+Cdp Super Centro Mata Loja
+Cdp Super Mata Loja
+Cesta Do Povo Boca Do Rio
+Churrascaria & Pizzaria Cupim De Ouro
+Coageli Lj Centro
+Cogeali Lj Paripe
+Com De Alimentos Flor Da Chapada
+Deli E Cia Graca
+Dist Sao Roque Mangabeira
+Dist Sao Roque Calumbi
+Dist Sao Roque Centro
+Dist Sao Roque Conceicao
+Dist Sao Roque Sim
+Dist Sao Roque Sta Monica
+Dist Sao Roque Sto Estevao
+Economart Feira De Santana
+Economart Jequie
+Economart Luis Eduardo
+Economart Vitoria Da Conquista
+Exito Supermercado
+Feirao Das Frutas Atras Da Banca
+Feirao Das Frutas Maria Auxiliadora
+Frutos Da Terra
+G Barbosa Farolandia
+G Barbosa Hiper Norte
+G. Barbosa Rio Mar
+G. Barbosa Francisco Porto
+Gbarbosa Alagoinhas
+Gbarbosa Alagoinhas
+Gbarbosa Brotas
+Gbarbosa Costa Azul
+Gbarbosa Feira De Santana
+Gbarbosa Feira De Santana
+Gbarbosa Feira De Santana
+Gbarbosa Horto Bela Vista
+Gbarbosa Lauro De Freitas
+Gbarbosa Sao Cristovao
+Gbarbosa Sobradinho
+Gbarbosa Tomba
+Gbarbosa Vitoria Da Conquista
+Gbarbosa Cabula
+Gbarbosa Cd Bahia
+Gbarbosa Cd Sergipe
+Gbarbosa Conj. Marcos Freire I
+Gbarbosa Hiper Sul
+Gbarbosa Jardins
+Gbarbosa Juazeiro Centro
+Gbarbosa Luzia
+GbarbosaGuarajuba
+GbarbosaJuazeiro Santo Antonio
+GbarbosaVitoria Da Conquista
+Gral Panificacao
+Gran Hortifruti
+Hiper Carnes Barra Dos Coqueiros
+Hiper Ideal Cd
+Hiper Unimar Arembepe
+Hiper Unimar Barra Do Pojuca
+Hiperideal Vitoria
+Hiperideal Amazonas
+Hiperideal Armacao
+Hiperideal Buraquinho
+Hiperideal Caminho Das Arvores
+Hiperideal Feira De Santana
+Hiperideal Horto Jardins Acm
+Hiperideal Horto Vasco Da Gama
+Hiperideal Orla
+Hiperideal Parque Shopping
+Hiperideal Piata Orlando Gomes
+Hiperideal Piata Otavio Mangabeira
+Le Delis
+Masani Com
+Massimo Centro
+Massimo Farolandia
+Massimo Luzia
+Mateus Aracaju Santa Monica D Mateus Cd Feira De Santana/Ba
+Mateus Conceicao Do Coite
+Mateus Eunapolis
+Mateus Itabuna
+Mateus Jacobina
+Mateus Jose Conrado De Araujo
+Mateus Juazeiro
+Mateus Petrolina
+Mateus Porto Seguro
+Mateus Vitoria Da Conquista
+Megga Distribuidora
+Mel Distribuidora
+Mercadinho Economico
+Mercadinho Economico Centro
+Mercadinho Economico Quati
+Mercadinho Economico Jardim Maravilha
+Mix Mateus Da Gloria
+Multi Frios Premium
+Multi Frios Premium
+Novo Mix Lauro De Freitas
+Paris Delicatessen
+Perini Graca
+Perini Pituba
+Perini Vasco Da Gama
+Pga Comercio Atacadista De Frutas E Verd
+Ponto Verde Iapi
+Ponto Verde Sete Portas
+Ponto Verde Vila Laura
+Rede Compre Bem Supermercados Ltda
+Redemix ChameChame
+Redemix Rio Vermelho
+Rmix Stella Maris
+Rmix Alphaville
+Rmix Buraquinho
+Rmix Horto
+Rmix Imbui
+Rmix Itapua
+Rmix Ondina
+Rmix Pituba
+Rmix Pituba
+Rmix Simoes Filho
+Rmix Vitoria
+Roselly Ferreira Sales Da Silva Ltda
+Sams Aracaju
+Sams Cosme De Farias
+Sams Feira De Santana
+Sams Lauro De Freitas
+Sams Pituba
+Sao Roque Artemia Pires
+Serrana Barra
+Serrana Graca
+Serrana Itaigara
+Serrana Jardim Apipema
+Serrana Patamares
+Serrana Patamares
+Serrana Praia Do Forte
+Serrana Canela
+Serrana Guarajuba Monte Gordo
+Serrana Pituba
+Serrana Pituba
+Serrana Stella Maris
+Serrana Stella Maris Ii
+Serrana Vila Laura
+Sup Bombom Estancia Centro
+Supermercado Bombom Ltda Grageru
+Supermercado Compre Bem
+Supermercado Compre Bem Conselheiro Junq
+Supermercado Compre Bem Dantas Luma
+Supermercado Jhones
+Supermercado Jl
+Supermercado Nunes Peixoto Centro
+Total Atacado
+Wlamart Palmares Outro (Digitar Manual)
+
+OBSERVAÇÃO: AO ESCOLHER A OPÇÃO "Outro (Digitar Manual), vai gerar um novo campo onde o usuário vai digitar manualmente o nome que quiser.
+
+
+no status na tela de revisao, quero que seja o botao no nome do status. que ao clicar no nome, o nome mudar de "Revisado" para "Pendente" (e vice-versa) e a cor tambem mudará, verde = revisado e vermelha = pendente
+
+a data de registro ta salvando com um dia a menos, ou seja, se eu fizer um registro no dia 11, ele vai aparecer na revisao e resumo como dia 10. nao quero que considere fuso horario. quero que seja salvo e registrado baseado na data que coloquei no registro.
+
+os filtros na tela de resumo: cliente, promotor e fretista nao tao usando as listas que passei. faça esse ajuste
+
+quando vou alterar um registro na parte de revisao, o campo fretistas, promotor e cliente nao vem com a lista de selecao que enviei, faça o ajuste
+
+na tela dashboard, inserir um grafico temporal, onde vai mostrar o total de registros por mês, e o valor total por mês multiplicado por 2.
+
+incluir também filtros de meses nas telas de dashboard, revisão e resumo.
+
+altere esse ultimo gráfico, ao inves de ter o total de registros, eu quero o total de caixas se possivel, colocar no grafico para aparecer os valores totais dentro de cada barra
+
+altere o grafico novamente, nao precisa ter a contabilização mensal de caixas, apenas o total em valor que deve permanecer. mude o grafico para um grafico de linhas temporal deixe o valor total aparecer e nao retire o tooltip
+
+Na tela de dashboard, inclua duas lista com o resumo total por promotore outra por cliente. Nessa lista tem que costar : nome (promotor), quantidade, valor total. E na outra: nome: (cliente), quantidade, valor total.
+
+SEGUE ALGUNS AJUSTES PARA REALIZAR:
+
+na tela dashboard:
+
+retirar os 3 gráficos da imagem que coloquei em anexo.
+
+incluir 1 gráfico Linha Temporal: gráfico com evolução diária/semanal da logística reversa (quantidade de caixas).
+
+incluir Gráfico de Tendência: evolução mensal por promotor/Fretista/cliente.
+
+incluir gráfico Comparativo por Perfil: gráfico de barras comparando total e qtd de caixas por promotor/fretista em determinado mês.
+
+Acrescentar valor total R$ com cards coloridos no topo do Dashboard. nome do card "VALOR TOTAL GERAL" (total VALOR R$ multiplicado por 2).
+
+Layout e Design:
+
+Cores e Identidade Visual:
+Use as cores da marca "GDM" como base (verde e branco, conforme logo).
+
+Ao selecionar “Outro (digitar manual)”, exiba campo com animação suave para melhor visualização.
+
+Campos com autocomplete nas listas grandes (clientes, promotores, fretistas).
+
+Tela de registros com campos organizados em 2 colunas (em telas maiores).
+
+Funcionalidades Avançadas
+
+Geração de PDF (Resumo):
+iNCLUR BOTAO gerar um PDF visualmente formatado, com logo, tabelas e totais por categoria (caixas, valores, fretistas, promotores, clientes).
+
+Histórico de Alterações:
+
+Na tela de revisão, incluir mostrar log: “Editado por Fulano em 14/06/2025 às 14:33”, toda vez que for alterado um registro.
+
+incluir Integrações com google sheets no drive:
+
+Google Sheets: backup automático.
+
+Melhorias Gerais
+
+Automatizações:
+Adicionar botão Duplicar Registro (para agilizar entradas semelhantes) com uma mensagem "Voce confirma essa duplicidade?"
+
+Incluir Notificações:
+
+Push notifications (ou alertas na tela) para registros pendentes de revisão há mais de 5 dias.
+
+Validações:
+
+Garantir que campos obrigatórios estejam preenchidos.
+
+Validação automática de dados (ex: quantidade precisa ser número, total precisa ser > 0).
+
+ incluir 1 gráfico Linha Temporal: gráfico com evolução diária/semanal da logística reversa (quantidade de caixas).
+
+incluir Gráfico de Tendência: evolução mensal por promotor/Fretista/cliente.
+
+incluir gráfico Comparativo por Perfil: gráfico de barras comparando total e qtd de caixas por promotor/fretista em determinado mês.
+
+E NA TELA DE RESUMO, INCLUIR:
+
+Geração de PDF (Resumo): iNCLUR BOTAO gerar um PDF visualmente formatado, com logo, tabelas e totais por categoria (caixas, valores, fretistas, promotores, clientes).
+
+NA TELA DASHBOARD:
+
+O RESUMO DO VALOR TOTAL GERAL NO CARD NAO ESTÁ SOFRENDO ALTERAÇÃO QUANDO FAÇO ALGUM FILTRO. QUERO QUE ELE NAO FIQUE ESTATICO, QUE SEJA CALCULADO BASEADO NO FILTRO QUE ESTIVER SELECIONADO.
+
+NA TELA DE RESUMO:
+
+NA TELA DE RESUMO, NO LUGAR DO CARD DE VALOR TOTAL, QUERO QUE ESTEJA O "VALOR TOTAL GERAL" IGUAL AO CARD DA TELA DE DASHBOARD, MAS QUE TAMBEM SEJA ALTERADO BASEADO NO FILTRO QUE FOR SELECIONADO.
+
+ORDENAR NA TELA DE RESUMO OS REGISTROS POR DATA DO REGISTRO, E NAO PELA DATA DE REGISTRO
+
+NAS TELAS DE RESUMO, DASHBOARD E REVISÃO:
+
+INCLUIR UM FILTRO DE "MES ANTERIOR" QUE AO SER SELECIONADO, VAI FILTRAR TODOS OS REGISTROS DO MES ANTERIOR AO MES ATUAL.
+
+INCLUIR TAMBEM UM FILTRO DO TRIMESTRE E OUTRO DO SEMESTRE.
+
+ULTIMO AJUSTE NA TELA DE RESUMO:
+
+NO RESUMO EM PDF QUE É GERADO, INCLUIR NESSE PDF TAMBEM PARA APARECER O VALOR TOTAL GERAL (FILTRADO)
+
+o resumo gerado em pdf da tela de resumo, quero que o arquivo seja renomeado da seguinte forma
+
+PERIODO (da data x ate a data y) + Filtro escolhido (que pode ser o nome do promotor caso escolhido ou o nome do fretista caso escolhido)
+
+no resumo gerado que aparece no pdf gerado na tela de resumo, nao quero que apareça o Valor Total Geral (Filtrado) R$ 678.00 (Valor total dos registros filtrados x2) quero que apareça o valor total geral sem ser multiplicado por 2.
+
+no resumo gerado em pdf, acrescente uma tabela que mostra todos os registros por data (baseado no filtro selecionado)
+
+[ ] Melhorar aplicativo de Logística reversa [ ] 1. atualizar lista de clientes baseando-se no arquivo clientesnovo.txt [ ] 1.na tela de registros, atualizar lista de clientes : usar a nova lista em anexo com o nome clientesnovo.txt [ ] 2. na tela de registro, incluir os novos campos com listagem automatica de rede, uf e vendedor, bastando apenas o usuario escolher o cliente, o app vai preencher automaticamente os campos rede, uf e vendedor [ ] 3. incluir novos filtros em todas as telas, filtros de por rede, uf e vendedor, conforme nova lista [ ] 4. na tela dashboard, incluir grafico de pizza quantidade de caixas por UF. (que todas as informações do grafico aparecam sem cortes. ajuste o tamanho dos dados e do grafico para que isso melhore visualmente) [ ] 5. na tela dashboard, incluir grafico de pizza quantidade de caixas por Vendedor. (que todas as informações do grafico aparecam sem cortes. ajuste o tamanho dos dados e do grafico para que isso melhore visualmente) [ ] 6. na tela dashboard, incluir grafico de Colunas Por rede de quantidade de caixas. (que todas as informações do grafico aparecam sem cortes. ajuste o tamanho dos dados e do grafico para que isso melhore visualmente) [ ] 7. incluir um gráfico de média de quantidade de caixas por rede, baseando-se no filtro de um periodo selecionado. (7 dias, 15 dias, 30 dias, 90 dias, 180 dias, 360 dias) [ ] 8. incluir no pdf gerado, os totais dos novos campos (Rede, UF e Vendedor) [ ] 9. incluir um banner em todas telas do app, logo no inicio da tela. segue em anexo a imagem do banner com o nome bannercaixas. [ ] melhorar o visual e layout do aplicativo, deixando mais bonito e moderno. usar cores do banner como paleta de cores para layout do app. [ ] incluir uma tela de splash toda vez que o usuario iniciar o app, essa tela carregará por 5 segundo até que será redirecionado a tela de registros. segue imagem da tela de splash (splashcaixas)
+
+continue. e acrescente mais um ajustes, a de inclusão do novos campos (Rede, UF e Vendedor) nos registros que aparecem na tela Revisão e na tela Resumo. nao se esqueça do ajuste no pdf que solicitei antes. siga com todos os demais ajustes solicitados + esses novos
+
+falta so mais esses ajustes:
+
+os totais por Rede, UF e Vendedor nao estão aparecendo no pdf gerado. faça aparecer tambem.
+
+na tela dashboard, os icones sumiram dos cards de "Total de Registros", "Total Caixas" e "Registros Revisados". Segue imagem como eram esses icones antes. faça ter esses icones novamente.
+
+verifique se a tela splash está funcionando. Senão, faça funcionar conforme solicitei antes.
+
+reduza um pouco o tamanho do banner para que ele apareça melhor nas telas. segue imagem como ele ta aparecendo (cortado)
+
+Criei uma nova página chamada "Corrigir Registros" que foi adicionada ao menu lateral do aplicativo. Esta ferramenta faz exatamente o que você pediu:
+
+✨ Como funciona:
+📊 Análise Automática: A página identifica todos os registros que estão com campos vazios (Rede, UF ou Vendedor)
+
+🔍 Busca Inteligente: Para cada registro, busca o cliente na base de dados atualizada (CLIENTES_DATA)
+
+⚡ Correção Automática: Preenche automaticamente os campos vazios com os dados corretos da base
+
+📈 Estatísticas em Tempo Real: Mostra quantos registros precisam de correção e quantos já estão corretos
+
+🎯 Funcionalidades:
+Dashboard Visual: Cards mostrando total de registros, quantos precisam de correção e quantos já estão corretos
+Prévia dos Registros: Tabela mostrando quais registros serão corrigidos antes de executar
+Correção em Lote: Um clique corrige todos os registros de uma vez
+Feedback Detalhado: Informa quantos foram corrigidos e quantos clientes não foram encontrados
+Interface Segura: Mostra exatamente o que será feito antes da execução
+Agora você pode acessar "Corrigir Registros" no menu lateral e com um clique preencher automaticamente todos os campos que estão vazios nos seus registros históricos! 🚀
+
+incluir Cliente = Cliente do Ceasa incluir Promotor = Trielo Ceasa BA incluir Fretista = Trielo Ceasa BA
+
+modificar para modo noturno. com botao de ativacao e que seja em todas as telas, e que quando ativado, ative todas as telas. tudo deve seguir o modo noturno, inclusive os modal
+
+INCLUIR UM BOTÃO "STATUS" NA TELA DE REVISÃO ONDE AO SER CLICADO, VAI ALTERAR O STATUS DE TODOS OS REGISTROS DE "PENDENTE" PARA "REVISADO". FAÇA DE FORMA QUE ELE NAO SOBRECARREGUE O APLICATIVO, QUE TENHA UM DELAY DE 1 SEGUNDO ENTRE CADA ALTERACAO AUTOMATICAMENTE.
+
+O LAYOUT DO PDF TA UM POUCO FEIO, EM RELACAO A BARRA DE MENU QUE FICA APARECENDO NO PDF, JUTAMENTE COM A BARRA DE NAVEGACAO SIDEBAR. QUERO QUE NAO APARECA ISSO. QUE MELHORE ISSO. ORGANIZE. DEIXE TUDO BONITO E ORGANIZADO. INCLUA TAMBEM UM CARD NA TELA DE RESUMO COM O TOTAL GERAL SENDO O TOTAL DE CAIXAS MULTIPLICADO POR R$ 1. ESSE SERÁ O TOTAL GERAL (FRETISTA+PROMOTOR)
+
+ESSE CARD TAMBEM DEVE APARECER NO PDF
+
+CORRIJA O BANNER NA TELA REVISÃO POIS ATUALMENTE NAO ESTÁ APARECENDO QUE NEM APARECE NAS DEMAIS TELAS.
+
+Ajuste 1: incluir filtro dinamico (de pesquisa qualquer informação ao digitar) nas telas de Dashboard, Revisão e Resumo
+
+Ajuste 2: incluir mais 1 fretista: Tiago Incluir mais 2 promotores: Diego Bruno, Alysson Ramos
+
+Ajuste 3: incluir o botao de fazer o download do arquvo (pdf) já renomeado com nome do fretista (caso o filtro tenha sido por fretista), promotor (caso o filtro tenha sido promotor), ou seja, será renomeado sempre baseando-se nos filtros selecionados. ficará renomeado tipo assim exemplo (Filtros promotor e período):
+
+Logística Reversa GDM BA - Alessandro Bastos de Almeida - 11-08-2025 a 10-09-2025.pdf
+
+Ajuste 4: Alterar o grafico de pizza na tela dashboard, para que ao inves de mostrar o % da quantidade de caixas por vendedor, para mostrar o % da quantidade de caixas por Rede
+
+VAMOS AOS AJUSTES:
+
+quando preenchido o campo "CLIENTE" vai automaticamente preencher o campo "PROMOTOR", usando a lista abaixo como base referencia:
+
+Nome Fantasia Rede UF Vendedor Promotor 1 Promotor 2 Assai Paralela Assai BA Nixon Alessandro Bastos de Almeida Diego Bruno Melo dos santos Atakarejo Boca Do Rio Atakarejo BA Ricardo Alysson Ramos de Sousa Atakarejo Pinto De Aguiar Atakarejo BA Ricardo Alysson Ramos de Sousa Assai Petrolina Assai PE Antonio Anderson nunes da silva Assai Camacari Assai BA Nixon Aquila vieira de jesus da silva Atakarejo Lauro Atakarejo BA Ricardo Arnold da silva dos santos Assai Sr Do Bonfim Assai BA Antonio Bianca da Silva Varjao Geocacio Pereira da Silva GBarbosa Farolandia G Barbosa SE Vinicius Carlos Henrique barros de oliveira GBarbosa - Rio Mar G Barbosa SE Vinicius Carlos Henrique barros de oliveira GBarbosa Francisco Porto G Barbosa SE Vinicius Carlos Henrique barros de oliveira GBarbosa J. C. De Araujo G Barbosa SE Vinicius Carlos Henrique barros de oliveira Gbarbosa Hiper Sul G Barbosa SE Vinicius Carlos Henrique barros de oliveira Gbarbosa Jardins G Barbosa SE Vinicius Carlos Henrique barros de oliveira Gbarbosa Luzia G Barbosa SE Vinicius Carlos Henrique barros de oliveira Assai Calcada Assai BA Nixon Claudio Jose De Almeida Santos Assai Vasco Da Gama Assai BA Nixon Crislaine Machado dos Santos Danilo Regis Santos Assai Cabula Assai BA Nixon Hugo de Jesus Conceicao Atakarejo Aracaju Atakarejo SE Ricardo Islen Bergson de Jesus Cruz Mateus Aracaju Santa Monica Mateus SE Ricardo Islen Bergson de Jesus Cruz Carlos Henrique barros de oliveira Mateus Jose Conrado De Araujo Mateus SE Ricardo Islen Bergson de Jesus Cruz Carlos Henrique barros de oliveira Atakarejo Vasco Atakarejo BA Ricardo Joabe dos Santos Silva Rmix Horto Redemix BA Vinicius Joabe dos Santos Silva Rmix Vitoria Redemix BA Vinicius Joabe dos Santos Silva Sams Aracaju Sams SE Vinicius Jose Marcio Santos Rocha Sams Pituba Sams BA Vinicius Luis Alberto Santos Borges Atac Camacari Atacadão BA Nixon Manoel Messias Gois Junior Maxxi Camaçari Atacadão BA Nixon Manoel Messias Gois Junior Atakarejo Camacari Atakarejo BA Ricardo Manoel Messias Gois Junior Atakarejo Itacimirim Atakarejo BA Ricardo Manoel Messias Gois Junior Gbarbosa 274 Guarajuba G Barbosa BA Vinicius Manoel Messias Gois Junior Atakarejo Patamares Atakarejo BA Ricardo Mateus Lima Oliveira Alysson Ramos de Sousa Assai Barris Assai BA Nixon Renato almeida barreto Assai Feira Sobradinho Assai BA Nixon Rogesson Geyson Lima da Silva Atakarejo Feira De Santana Atakarejo BA Ricardo Rogesson Geyson Lima da Silva Economart Feira De Santana Economart BA Ricardo Rogesson Geyson Lima da Silva Gbarbosa 015 Feira De Santana G Barbosa BA Vinicius Rogesson Geyson Lima da Silva Gbarbosa 016 Feira De Santana G Barbosa BA Vinicius Rogesson Geyson Lima da Silva Gbarbosa 017 Feira De Santana G Barbosa BA Vinicius Rogesson Geyson Lima da Silva Gbarbosa 074 Sobradinho G Barbosa BA Vinicius Rogesson Geyson Lima da Silva Gbarbosa 076 Tomba G Barbosa BA Vinicius Rogesson Geyson Lima da Silva Gbarbosa 029 Brotas G Barbosa BA Vinicius Ronald Bispo santos Gbarbosa 035 Costa Azul G Barbosa BA Vinicius Ronald Bispo santos Gbarbosa 302 Horto Bela Vista G Barbosa BA Vinicius Ronald Bispo santos Perini Pituba Perini BA Vinicius Ronald Bispo santos Masani Com Redemix BA Vinicius Ronald Bispo santos Rmix Pituba Redemix BA Vinicius Ronald Bispo santos Rmix Pituba Redemix BA Vinicius Ronald Bispo santos Assai Paripe Assai BA Nixon Ronald Souza dos santos Assai Pau Da Lima Assai BA Nixon Tiago Saleh Rodrigues Atakarejo Pernambues Atakarejo BA Ricardo Atakarejo Piata Atakarejo BA Ricardo Atakarejo Salvador Atakarejo BA Ricardo Atakarejo Sao Goncalo Dos Campos Atakarejo BA Ricardo Atakarejo Simoes Filho Atakarejo BA Ricardo Atakarejo Vitoria Da Conquista Atakarejo BA Ricardo Sup Bombom Lagarto Bombom SE Vinicius Sup Bombom Estancia Bombom SE Vinicius Sup Bombom Aracaju Bombom SE Vinicius Cdp Alagoinhas Loja 11 Cesta Do Povo BA Ricardo Cdp Armacao Stiep Loja 14 Cesta Do Povo BA Ricardo Cdp Boca Do Rio Loja 07 Cesta Do Povo BA Ricardo Cdp Catu Loja 12 Cesta Do Povo BA Ricardo Cdp Cd Monte Libano Cesta Do Povo BA Ricardo Cdp Centro - Sede Cesta Do Povo BA Ricardo Cdp Centro Dias Davila Cesta Do Povo BA Ricardo Cdp Genaro Dias Davila Cesta Do Povo BA Ricardo Cdp Rodoviaria Loja 17 Cesta Do Povo BA Ricardo Cdp Sete Portas Loja 09 Cesta Do Povo BA Ricardo Cdp Super Centro Mata Loja 10 Cesta Do Povo BA Ricardo Cesta Do Povo Boca Do Rio Cesta Do Povo BA Ricardo Cesta Do Povo Brotas Cesta Do Povo BA Ricardo Deli E Cia Graca Deli E Cia BA Ricardo Dist Sao Roque Calumbi Dist Sao Roque BA Ricardo Dist Sao Roque Conceicao Dist Sao Roque BA Ricardo Dist Sao Roque Mangabeira Dist Sao Roque BA Ricardo Dist Sao Roque Sim Dist Sao Roque BA Ricardo Dist Sao Roque Sta Monica Dist Sao Roque BA Ricardo Sao Roque Artemia Pires Dist Sao Roque BA Ricardo São Roque Av Getulio Vargas Dist Sao Roque BA Ricardo São Roque Castro Alves Dist Sao Roque BA Ricardo Economart Jequie Economart BA Ricardo Economart Vitoria Da Conquista Economart BA Ricardo Feirao Das Frutas Atras Da Banca Feirao Das Frutas PE Antonio Feirao Das Frutas Maria Auxiliadora Feirao Das Frutas PE Antonio GBarbosa Juazeiro Centro G Barbosa BA Antonio GBarbosa Juazeiro Santo Antonio G Barbosa BA Antonio GBarbosa Iguatemi G Barbosa BA Vinicius Ronald Bispo santos Gbarbosa 037 Alagoinhas G Barbosa BA Vinicius Gbarbosa 038 Alagoinhas G Barbosa BA Vinicius Gbarbosa 108 Lauro De Freitas G Barbosa BA Vinicius Gbarbosa 112 Vitoria Da Conquista G Barbosa BA Vinicius Gbarbosa Cd Bahia G Barbosa BA Vinicius Gbarbosa Cd Sergipe G Barbosa SE Vinicius Gbarbosa Sao Cristovao G Barbosa SE Vinicius Gbarbosa 139 Vitoria Da Conquista G Barbosa BA Vinicius Hiper Carnes Barra Dos Coqueiros Hipercarnes SE Vinicius Hiper Ideal Cd Hiperideal BA Ricardo Hiperideal - Vitoria Hiperideal BA Ricardo Hiperideal Amazonas Hiperideal BA Ricardo Hiperideal Armacao Av Simon Hiperideal BA Ricardo Hiperideal Barra Hiperideal BA Ricardo Hiperideal Buraquinho Hiperideal BA Ricardo Hiperideal Caminho Das Arvores Hiperideal BA Ricardo Hiperideal Canela Hiperideal BA Ricardo Hiperideal Feira De Santana Hiperideal BA Ricardo Hiperideal Graca Hiperideal BA Ricardo Hiperideal Guarajuba Hiperideal BA Ricardo Hiperideal Horto Vasco Da Gama Hiperideal BA Ricardo Hiperideal Itaigara Hiperideal BA Ricardo Hiperideal Jardim Apipema Hiperideal BA Ricardo Hiperideal Jardins ACM Hiperideal BA Ricardo Hiperideal Lj Piata Orlando Gomes Hiperideal BA Ricardo Hiperideal Orla Octavio Mang. Hiperideal BA Ricardo Hiperideal Parque Shopping Lauro Hiperideal BA Ricardo Hiperideal Patamares Ibirapitanga Hiperideal BA Ricardo Hiperideal Patamares Luis Viana Hiperideal BA Ricardo Hiperideal Piata Otavio Mangabeira Hiperideal BA Ricardo Hiperideal Pituba Manoel Dias Hiperideal BA Ricardo Hiperideal Praia Do Forte Hiperideal BA Ricardo Hiperideal Pituba Rua Ceara Hiperideal BA Ricardo Hiperideal Stella Capitao Melo Hiperideal BA Ricardo Hiperideal Stella Missionario Otto Hiperideal BA Ricardo Hiperideal Tororo Hiperideal BA Ricardo Hiperideal Vila Laura Hiperideal BA Ricardo Massimo - Centro Massimo SE Vinicius Massimo Farolandia Massimo SE Vinicius Massimo Luzia Massimo SE Vinicius Mateus Conceicao Do Coite Mateus BA Antonio Mateus Jacobina Mateus BA Antonio Mateus Juazeiro Mateus BA Antonio Mateus Conquista Mateus BA Ricardo Mateus Porto Seguro Mateus BA Ricardo Mateus Teixeira De Freitas Mateus BA Ricardo Mateus Cd - Feira De Santana/Ba Mateus BA Ricardo Mateus Da Gloria Mateus SE Ricardo Armazem Cecilio Mota Outros BA Antonio Bontempo Supermercados Outros PE Antonio Centro De Distribuicao Brasil Outros BA Antonio Frutos Da Terra Outros PE Antonio Mercadinho Economico Outros PE Antonio Perboni Juazeiro Ba Outros BA Antonio Pga Comercio Atacadista De Frutas E Verd Outros BA Antonio Flor Da Chapada Outros BA Ricardo Gral Paniville Outros BA Ricardo Gran Hortifruti Outros BA Ricardo Megga Aracaju Outros SE Vinicius GA Paris Delicatessen Outros BA Ricardo Roselly Ferreira Sales Da Silva Ltda Outros BA Ricardo Supermercado Jhones Outros BA Ricardo Supermercado Jl Outros BA Ricardo Exito Supermercado Outros SE Vinicius Ki Distribuidora E Atacado Outros SE Vinicius Mel Distribuidora Outros SE Vinicius Perini Graca Perini BA Vinicius Coageli Lj 2 Centro Redemix BA Vinicius Cogeali Paripe Redemix BA Vinicius Ponto Verde Iapi Redemix BA Vinicius Ponto Verde Sete Portas Redemix BA Vinicius Ponto Verde Vila Laura Redemix BA Vinicius Redemix Chame Chame Redemix BA Vinicius Joabe dos Santos Silva Redemix Rio Vermelho Redemix BA Vinicius Ronald Bispo santos Rmix Alphaville 1 Redemix BA Vinicius Aquila vieira de jesus da silva Rmix Buraquinho Redemix BA Vinicius Rmix Imbui Redemix BA Vinicius Rmix Itapua Redemix BA Vinicius Rmix Ondina Redemix BA Vinicius Joabe dos Santos Silva Rmix Simoes Filho Redemix BA Vinicius Rmix Stella Maris Redemix BA Vinicius Aquila vieira de jesus da silva Sams Bonoco Sams BA Vinicius Joabe dos Santos Silva Sams Feira De Santana Sams BA Vinicius Rogesson Geyson Lima da Silva Sams Lauro De Freitas Sams BA Vinicius Jadson de andrade santos Assai Juazeiro Assai BA Antonio Assai Cidade Nova Assai BA Nixon Assai Inacio Barbosa Assai SE Nixon Assai Jequie Assai BA Nixon Assai Lauro De Freitas Assai BA Nixon Assai Luis Anselmo Assai BA Nixon Assai Mussurunga Assai BA Nixon Assai Norte Assai SE Nixon Assai Porto Assai SE Nixon Assai Socorro Assai SE Nixon Assai Sul Assai SE Nixon Assai Tomba Assai BA Nixon Atac Petrolina Atacadão PE Antonio Atac Sao Bernardo Atacadão BA Nixon Atakarejo Alagoinha Atakarejo BA Ricardo Atakarejo Baixa De Quintas Atakarejo BA Ricardo Atakarejo Cd Simoes Filho Atakarejo BA Ricardo Atakarejo Cd Vitoria Da Conquista Atakarejo BA Ricardo Atakarejo Iguatemi Atakarejo BA Ricardo Atakarejo Ilha Atakarejo BA Ricardo Hiper Carne Jabotiana Hipercarnes SE Vinicius
+
+observação: nota-se que tem cliente com 2 promotores (promotor 1 e promotor 2). nesse caso de cliente, quando o usuário preencher o cliente que tem 2 promotores atrelados, após salvar o registro, vai ser gerado (criado/salvo) 2 registros iguais, porem, um com cada promotor distinto, e a quantidade será repartida para os 2 registros. exemplo:
+
+data : 25/09/2025 quantidade: 50 cliente: assai vasco rede: assai uf: ba vendedor: nixon promotor: Crislaine Machado dos Santos frentista: andre
+
+ao clicar em "salvar registro", serão registrados 2 registros iguais para esse caso onde há 2 promotores para um mesmo cliente, mas um registro será registrado com o nome do "promotor 1" e o outro com o nome do "promotor 2" e a quantidade será divida para cada registro. como nesse exemplo ficaria 25 para Crislaine Machado dos Santos e 25 para Danilo Regis Santos.
+
+de resto, não mudará nada no app. atenção para não alterar os campos.
+
+Ajustes a realizar:
+Mapeamento Cliente-Promotor: Criei a lógica que associa clientes a seus respectivos promotores.
+Autopreenchimento: Ao selecionar um cliente com apenas um promotor, o campo "Promotor" será preenchido automaticamente. Se o cliente não tiver promotor definido ou tiver dois, o campo ficará em branco para seleção manual.
+Divisão de Registros: Ao salvar um registro de um cliente com dois promotores, o sistema agora cria dois registros idênticos, dividindo a quantidade de caixas igualmente entre eles e atribuindo um promotor para cada registro. Um aviso aparecerá se a quantidade de caixas for ímpar.
+Mensagens de Sucesso e Erro: Adicionei mensagens mais claras para informar quando um ou dois registros foram criados ou se ocorrer algum erro.
