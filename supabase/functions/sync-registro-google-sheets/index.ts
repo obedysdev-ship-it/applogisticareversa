@@ -6,12 +6,23 @@ function safeString(v: unknown) { return (typeof v === 'string' ? v : (v ?? ''))
 function safeNumber(v: unknown) { const n = Number(v ?? 0); return Number.isFinite(n) ? n : 0 }
 
 serve(async (req) => {
+  // CORS preflight
+  if (req.method === 'OPTIONS') {
+    return new Response(null, {
+      status: 204,
+      headers: {
+        'Access-Control-Allow-Origin': '*',
+        'Access-Control-Allow-Headers': 'Content-Type, Authorization',
+        'Access-Control-Allow-Methods': 'POST, OPTIONS'
+      }
+    })
+  }
   try {
     // Verificar método HTTP
     if (req.method !== 'POST') {
       return new Response(JSON.stringify({ ok: false, error: 'method_not_allowed' }), { 
         status: 405, 
-        headers: { 'Content-Type': 'application/json' } 
+        headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' } 
       })
     }
 
@@ -34,7 +45,7 @@ serve(async (req) => {
         missing_vars: missing
       }), { 
         status: 500, 
-        headers: { 'Content-Type': 'application/json' } 
+        headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' } 
       })
     }
 
@@ -53,7 +64,7 @@ serve(async (req) => {
         message: 'Falha ao obter token de acesso do Google'
       }), { 
         status: 500, 
-        headers: { 'Content-Type': 'application/json' } 
+        headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' } 
       })
     }
 
@@ -103,12 +114,12 @@ serve(async (req) => {
         status: res.status
       }), { 
         status: 500, 
-        headers: { 'Content-Type': 'application/json' } 
+        headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' } 
       })
     }
 
     return new Response(JSON.stringify({ ok: true }), { 
-      headers: { 'Content-Type': 'application/json' } 
+      headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' } 
     })
   } catch (e) {
     return new Response(JSON.stringify({ 
@@ -118,7 +129,7 @@ serve(async (req) => {
       message: e instanceof Error ? e.message : 'Erro inesperado'
     }), { 
       status: 500, 
-      headers: { 'Content-Type': 'application/json' } 
+      headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' } 
     })
   }
 })
